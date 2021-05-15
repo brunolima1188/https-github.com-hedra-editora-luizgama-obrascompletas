@@ -1,1 +1,0 @@
-# luizgama-obrascompletas
