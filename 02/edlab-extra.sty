@@ -1,7 +1,7 @@
 % edlab-extra.sty
 
 \newcommand{\blankpage}{\newpage\hbox{~}\thispagestyle{empty}\newpage}
-
+\newcommand{\blankAteven}{\ifodd\thepage\relax\else\blankpage\fi}       % coloca página branca na págin par
 
 % Epigraph
 \epigraphfontsize{\footnotesize}			% tamanho da fonte
@@ -11,6 +11,22 @@
 % \epigraphtextposition{flushleft}
 % \epigraphsourceposition{flushright} 
 
+% Enumerate
+    % • Vertical spacing:
+    %     – topsep
+    %     – partopsep
+    %     – parsep
+    %     – itemsep
+    % • Horizontal spacing:
+    %     – leftmargin
+    %     – rightmargin
+    %     – listparindent
+    %     – labelwidth
+    %     – labelsep
+    %     – itemindent
+\setlist[itemize,1]{label={$\triangleright$},leftmargin=5pt,itemsep=0pt,parsep=0pt}
+
+% Quote
 \renewenvironment{quote}{%
   \begin{list}{}{%
     \setlength{\listparindent}{3ex}%
