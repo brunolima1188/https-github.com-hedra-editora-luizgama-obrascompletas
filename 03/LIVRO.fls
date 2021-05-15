@@ -1,4 +1,4 @@
-PWD /home/editorial/LATEX/luizgama-obrascompletas/01
+PWD /home/editorial/LATEX/luizgama-obrascompletas/03
 INPUT /var/lib/texmf/web2c/luahbtex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
