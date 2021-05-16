@@ -2,6 +2,7 @@
 
 \newcommand{\blankpage}{\newpage\hbox{~}\thispagestyle{empty}\newpage}
 \newcommand{\blankAteven}{\ifodd\thepage\relax\else\blankpage\fi}       % coloca página branca na págin par
+\newcommand{\blankAtodd}{\ifodd\thepage\blankpage\else\relax\fi}       % coloca página branca na págin par
 
 % Epigraph
 \epigraphfontsize{\footnotesize}			% tamanho da fonte

@@ -29,18 +29,18 @@
 
 %\usepackage{makeidx} 					% para índice remissivo
 
-\usepackage{edlab-penalties}
 \usepackage{edlab-git}
-\usepackage{edlab-toc}					% define sumário
-\usepackage{edlab-extra}				% define epígrafe, quote
-\usepackage[14x21]{edlab-margins}
+\usepackage{../edlab-penalties}
+\usepackage{../edlab-toc}				% define sumário
+\usepackage{../edlab-extra}				% define epígrafe, quote
+\usepackage[14x21]{../edlab-margins}
 \usepackage[%semcabeco, 				% para remover cabeço, sobe mancha e mantem estilos
-			]{edlab-sections}			% define pagestyle (cabeço, rodapé e seções)
+			]{../edlab-sections}		% define pagestyle (cabeço, rodapé e seções)
 \usepackage[%
 			% notasemlinha 			
 			% notalinhalonga
 			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
-			]{edlab-footnotes}
+			]{../edlab-footnotes}
 
 
 % Medidas (ver: memoir p.11 fig.2.3)
@@ -63,8 +63,20 @@
 \pagestyle{baruch}		
 \headstyles{baruch}
 
-% Testes
+% Comandos para esta edição
 
+\newenvironment{didas}{% 				% Didascálias antes de \part
+			\pagebreak%
+			\blankAtodd\mbox{}%
+			%\baselineskip=.7\baselineskip%
+			\vfill%
+			\thispagestyle{empty}%
+			\footnotesize\parindent0pt}{\par} 
+\newenvironment{resumo}{% 				% Resumos de abertura de capítulo
+			\footnotesize
+			%\baselineskip=.7\baselineskip
+			\raggedright
+			\parindent0pt}{\par\medskip} 
 
 \begin{document}
 

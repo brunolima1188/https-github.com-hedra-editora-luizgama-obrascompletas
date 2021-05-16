@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Debian)  (format=lualatex 2021.5.8)  15 MAY 2021 17:52
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Debian)  (format=lualatex 2021.5.8)  15 MAY 2021 18:33
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -90,8 +90,8 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \trimtop=\skip52
 \trimedge=\skip53
 
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
-File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem11.clo
+File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 luaotfload | db : Font names database loaded from /home/editorial/.texlive2020/t
 exmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \binding=\skip54
@@ -748,7 +748,8 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthlast=\dimen274
 \titlewidthfirst=\dimen275
 )
-(./edlab-penalties.sty) (./edlab-git.sty) (./edlab-toc.sty) (./edlab-extra.sty) (./edlab-margins.sty
+(./edlab-git.sty) (../edlab-penalties.sty) (../edlab-toc.sty)
+(../edlab-extra.sty) (../edlab-margins.sty
 
 Class memoir Warning: \marginparsep is zero or negative on input line 151.
 
@@ -757,27 +758,27 @@ Class memoir Warning: \marginparsep is zero or negative on input line 151.
 Stock height and width: 845.04684pt by 597.50787pt
 Top and edge trims: 56.9055pt and 103.85255pt
 Page height and width: 597.50787pt by 389.80275pt
-Text height and width: 476pt by 256pt
+Text height and width: 487.00021pt by 256pt
 Spine and edge margins: 58.13599pt and 75.59196pt
-Upper and lower margins: 59.73816pt and 61.76971pt
+Upper and lower margins: 59.73816pt and 50.7695pt
 Headheight and headsep: 14.22636pt and 5.69054pt
 Footskip: 28.45274pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 0pt and 64.01869pt
-Sidecapsep and sidecapwidth: 7pt and 102pt
-Sidebarhsep and sidebarwidth: 7pt and 102pt
-Sidebarvsep and sidebartopsep: 14.5pt and 0pt
-Sidebarheight: 546.64995pt
-Sidefoothsep and sidefootwidth: 7pt and 102pt
-Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+Sidecapsep and sidecapwidth: 7pt and 111pt
+Sidebarhsep and sidebarwidth: 7pt and 111pt
+Sidebarvsep and sidebartopsep: 13.6pt and 0pt
+Sidebarheight: 539.9202pt
+Sidefoothsep and sidefootwidth: 7pt and 111pt
+Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ******************************************************
 
-) (./edlab-sections.sty
+) (../edlab-sections.sty
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count327
 ))
-(./edlab-footnotes.sty
+(../edlab-footnotes.sty
 (/usr/share/texlive/texmf-dist/tex/latex/ncctools/manyfoot.sty
 Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
 
@@ -896,92 +897,92 @@ t;+tlig;+onum;+smcp;"
  (./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 69
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 81
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 69.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 69.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 69.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 69.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 69.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 69.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 69.
-LaTeX Font Info:    Redeclaring math accent \check on input line 69.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 69.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 69.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 69.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 69.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 81.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 81.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 81.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 81.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 81.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 81.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 81.
+LaTeX Font Info:    Redeclaring math accent \check on input line 81.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 81.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 81.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 81.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 81.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 69.
+(Font)              `operators' in the math version `normal' on input line 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line 
-69.
+81.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 69.
+(Font)              `operators' in the math version `bold' on input line 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input line
- 69.
+ 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n 
-on input line 69.
+on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input lin
-e 69.
+e 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/b/n on input line
- 69.
+ 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 69.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 69.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/b/n 
-on input line 69.
+on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/b/it on input li
-ne 69.
+ne 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 69.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 69.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 81.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1036,14 +1037,14 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-LaTeX Info: Redefining \microtypecontext on input line 69.
+LaTeX Info: Redefining \microtypecontext on input line 81.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 69.
+LaTeX Info: Redefining \showhyphens on input line 81.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -1064,8 +1065,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 ] (./4-volumes.tex) [2] (./3-rosto.tex
-luaotfload | aux : font no 69 (nil) defines no feature for script latn
-luaotfload | aux : font no 69 (nil) defines no feature for script dflt
+luaotfload | aux : font no 68 (nil) defines no feature for script latn
+luaotfload | aux : font no 68 (nil) defines no feature for script dflt
 
 Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             New Roman' with options [].
@@ -1092,9 +1093,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 ) (./2-creditos.tex [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
+(Font)              <7> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 22.
 
@@ -1106,18 +1105,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-) [4] (./LIVRO.toc) (./MUSSUMIPSUM.tex
-
-Class memoir Warning: The material used in the headers is too large
-(14.49998pt) for the given head height (14.22636pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 1.
-
-
-Overfull \vbox (0.27362pt too high) has occurred while \output is active []
-
-
-[5] [6
+) [4] (./LIVRO.toc) (./MUSSUMIPSUM.tex [5] [6
 
 ] [7] [8] [9
 
@@ -1127,7 +1115,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 5.
+(Font)              <10.95> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
 Package marginnote Info: Margin note 11.1 is on absolute page 11 on input line 1
 1.
 Package marginnote Info: xpos seems to be 161.26999pt on input line 11.
@@ -1136,58 +1128,38 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 14.
+(Font)              <9> on input line 14.
 Package marginnote Info: Margin note 11.2 is on absolute page 11 on input line 1
 8.
 Package marginnote Info: xpos seems to be 161.26999pt on input line 18.
 
-Overfull \hbox (2.76001pt too wide) in paragraph at lines 18--18
-[]\TU/lmtt/m/n/8 lettrine.sty 
+Overfull \hbox (0.61496pt too wide) in paragraph at lines 18--18
+[]\TU/lmtt/m/n/7 lettrine.sty 
  []
 
-Package lettrine.sty Info: Targeted height = 22.264pt
+Package lettrine.sty Info: Targeted height = 20.68465pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 22.05934pt (\leavevmode{\color {red
+(lettrine.sty)             Lettrine height = 20.49449pt (\leavevmode{\color {red
 }M});
 (lettrine.sty)             reported on input line 18.
-
-Overfull \vbox (0.27362pt too high) has occurred while \output is active []
-
-
 [11
 
 ]
-Overfull \vbox (0.27362pt too high) has occurred while \output is active []
-
-
-[12]
-Package marginnote Info: Margin note 13.1 is on absolute page 13 on input line 8
+Package marginnote Info: Margin note 12.1 is on absolute page 13 on input line 8
 7.
 Package marginnote Info: xpos seems to be 161.26999pt on input line 87.
+ [12] [13] [14
 
-Overfull \vbox (0.27362pt too high) has occurred while \output is active []
-
-
-[13]
-Overfull \vbox (0.27362pt too high) has occurred while \output is active []
-
-
-[14]
+]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Overfull \vbox (0.27362pt too high) has occurred while \output is active []
-
-
-[15
-
-]
-Package marginnote Info: Margin note 16.1 is on absolute page 16 on input line 1
+Package marginnote Info: Margin note 15.1 is on absolute page 16 on input line 1
 48.
 Package marginnote Info: xpos seems to be 179.26999pt on input line 148.
-Package marginnote Info: Margin note 16.2 is on absolute page 16 on input line 1
+ [15]
+Package marginnote Info: Margin note 16.1 is on absolute page 16 on input line 1
 81.
 Package marginnote Info: xpos seems to be 179.26999pt on input line 181.
 <image.jpeg, id=60, 190.7125pt x 265.99374pt>
@@ -1195,59 +1167,17 @@ File: image.jpeg Graphic file (type jpg)
 <use image.jpeg>
 Package luatex.def Info: image.jpeg  used on input line 183.
 (luatex.def)             Requested size: 128.0pt x 178.53145pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \vbox (0.27362pt too high) has occurred while \output is active []
-
-
-[16]
+ [16<./image.jpeg>]
 Package marginnote Info: Margin note 17.1 is on absolute page 17 on input line 2
 07.
 Package marginnote Info: xpos seems to be 161.26999pt on input line 207.
-
-
-Class memoir Warning: The material used in the headers is too large
-(28.99998pt) for the given head height (14.22636pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 219.
-
-
-Overfull \vbox (14.77362pt too high) has occurred while \output is active []
-
-
-[17<./image.jpeg>]
-Overfull \vbox (0.27362pt too high) has occurred while \output is active []
-
-
-[18]
-Overfull \vbox (14.77362pt too high) has occurred while \output is active []
-
-
-[19]
-Overfull \vbox (0.27362pt too high) has occurred while \output is active []
-
-
-[20]
-Overfull \vbox (14.77362pt too high) has occurred while \output is active []
-
-
-[21]
-Overfull \vbox (0.27362pt too high) has occurred while \output is active []
-
-
-[22]) (./Y-publicidade.tex
-Overfull \vbox (14.77362pt too high) has occurred while \output is active []
-
-
-[23] [24]
+ [17] [18] [19] [20] [21])
+(./Y-publicidade.tex [22]
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
 
-[25] [26] [27]) [28] (./Z-colofon.tex [29]
+[23] [24] [25]) [26] (./Z-colofon.tex [27]
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
@@ -1257,34 +1187,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 34.
-)) [30]
+)) [28]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
 Top and edge trims: 56.9055pt and 103.85255pt
 Page height and width: 597.50787pt by 389.80275pt
-Text height and width: 480pt by 256pt
+Text height and width: 495pt by 256pt
 Spine and edge margins: 58.13599pt and 75.59196pt
-Upper and lower margins: 59.73816pt and 57.76971pt
+Upper and lower margins: 59.73816pt and 42.76971pt
 Headheight and headsep: 14.22636pt and 5.69054pt
 Footskip: 28.45274pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 12pt and 51.59196pt
-Sidecapsep and sidecapwidth: 7pt and 102pt
-Sidebarhsep and sidebarwidth: 7pt and 102pt
-Sidebarvsep and sidebartopsep: 14.5pt and 0pt
-Sidebarheight: 546.64995pt
-Sidefoothsep and sidefootwidth: 7pt and 102pt
-Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+Marginparsep and marginparwidth: 10.95pt and 53.69197pt
+Sidecapsep and sidecapwidth: 7pt and 111pt
+Sidebarhsep and sidebarwidth: 7pt and 111pt
+Sidebarvsep and sidebartopsep: 13.6pt and 0pt
+Sidebarheight: 539.9202pt
+Sidefoothsep and sidefootwidth: 7pt and 111pt
+Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ******************************************************
-
-
-Class memoir Warning: The material used in the headers is too large
-(28.99998pt) for the given head height (14.22636pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 77.
 
 \tf@toc=\write5
 
@@ -1292,14 +1214,14 @@ either increase the head height or redesign the header
 (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 13528 strings out of 481315
+ 13536 strings out of 481315
  100000,794899 words of node,token memory allocated
- 1440 words of node memory still in use:
-   5 hlist, 1 vlist, 1 rule, 2 disc, 9 glue, 4 kern, 14 glyph, 37 attribute, 189
+ 1435 words of node memory still in use:
+   5 hlist, 1 vlist, 1 rule, 2 disc, 9 glue, 4 kern, 14 glyph, 37 attribute, 188
  glue_spec, 19 attribute_list, 3 shape, 3 write, 6 pdf_colorstack nodes
-   avail lists: 2:1892,3:233,4:125,5:240,6:58,7:3531,8:2,9:375,10:10,11:294
- 30156 multiletter control sequences out of 65536+600000
- 129 fonts using 24653595 bytes
+   avail lists: 2:1919,3:237,4:128,5:238,6:59,7:3571,8:2,9:379,10:10,11:299
+ 30152 multiletter control sequences out of 65536+600000
+ 126 fonts using 23752387 bytes
  53i,14n,102p,783b,478s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/sha
 re/texmf/fonts/opentype/public/lm/lmsans8-regular.otf></usr/share/texmf/fonts/op
@@ -1313,10 +1235,10 @@ nLibertine_RB.otf></usr/share/fonts/truetype/msttcorefonts/Times_New_Roman.ttf><
 old.otf></usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew
 .pfb>
-Output written on LIVRO.pdf (30 pages, 155484 bytes).
+Output written on LIVRO.pdf (28 pages, 152796 bytes).
 
-PDF statistics: 179 PDF objects out of 1000 (max. 8388607)
- 112 compressed objects within 2 object streams
+PDF statistics: 173 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
