@@ -1,3 +1,5 @@
+% LER: https://tex.stackexchange.com/questions/21983/how-to-avoid-page-breaks-inside-paragraphs
+
 \linepenalty=100
 %%%%the penalty for breaking a page after a line within a paragraph
 %%%
@@ -22,7 +24,7 @@
 \displaywidowpenalty=50
 %%%%extra penalty for breaking before last line before a display math
 %%%
-\brokenpenalty=100
+\brokenpenalty=500
 %%%%extra penalty for page breaking after a hyphenated line
 %%%
 \predisplaypenalty=10000
@@ -47,7 +49,9 @@
 %%\clubpenalties
 %%%An extension of \clubpenalty with the same syntax as \interlinepenalties.
 %%
-\widowpenalties = 3 10000 9000 6000 
+
+\widowpenalties 3 10000 10000 0
+% \widowpenalties = 3 10000 9000 6000 
 %%%An extension of \widowpenalty with the same syntax as \interlinepenalties (lines arecounted backwards from the last line in this case).
 %%
 \displaywidowpenalties = 2 8000 5000 
@@ -131,7 +135,7 @@
 
 
 % Básicas
-\tolerance=500
+\tolerance=300
 \emergencystretch=1pc
 \lefthyphenmin=2
 \righthyphenmin=2

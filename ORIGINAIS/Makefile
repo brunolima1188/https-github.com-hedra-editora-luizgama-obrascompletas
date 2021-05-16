@@ -8,4 +8,4 @@ clean:
 fonts-update:
 	fc-cache -f -v
 pandoc:
-	-pandoc -r markdown-auto_identifiers -w latex --top-level-division=part $(file).md -o $(file).tex
+	-pandoc --pdf-engine=lualatex -r markdown-auto_identifiers -w latex --top-level-division=part $(file).md -o $(file).tex

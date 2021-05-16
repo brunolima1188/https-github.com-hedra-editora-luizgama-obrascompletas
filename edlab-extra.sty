@@ -1,8 +1,34 @@
 % edlab-extra.sty
 
+
+% Didascálias
+\def\@endpartnot{\vspace{.60\textheight}\pagebreak}
+\let\@endpart\@endpartnot
+\newenvironment{argumento}{%                % Didascálias antes de \part
+            \mbox{}\vfill%
+            \thispagestyle{empty}%
+            \footnotesize\parindent0pt}{\par}
+\newenvironment{didascalia}{%               % Resumos de abertura de capítulo
+            \footnotesize
+            \raggedright
+            \parindent0pt}{\par\medskip} 
+
+
+
+
+
 \newcommand{\blankpage}{\newpage\hbox{~}\thispagestyle{empty}\newpage}
-\newcommand{\blankAteven}{\ifodd\thepage\relax\else\blankpage\fi}       % coloca página branca na págin par
-\newcommand{\blankAtodd}{\ifodd\thepage\blankpage\else\relax\fi}       % coloca página branca na págin par
+\newcommand{\blankAteven}{\ifodd\thepage\relax\else\blankpage\fi}
+\newcommand{\blankAtodd}{\ifodd\thepage\blankpage\else\relax\fi}
+
+% url
+% You can switch the style of printing using “\urlstyle{xx}”, where “xx” can be
+% any defined style. The pre-defined styles are “tt”, “rm”, “sf” and “same” which all
+% allow the same linebreaks but use different fonts — the first three select a specific
+% font and the “same” style uses the current text font. You can define your own
+% styles with different fonts and/or line-breaking by following the explanations
+
+\urlstyle{tt} % {same} mesma fonte; {sf} sem serifa 
 
 % Epigraph
 \epigraphfontsize{\footnotesize}			% tamanho da fonte
@@ -45,3 +71,14 @@
 }{%
   \end{list}%
 }
+
+% Asterisc
+\newcommand{\asterisc}{
+            \vspace{-1em plus .5em minus .5em}\begin{center} 
+                \adforn{47} 
+            \vspace{0em plus .5em}\end{center}
+            }
+%\newcommand{\asterisc}{\vspace{-1ex}\begin{center} ***\vspace{-2ex}\end{center}}
+%\newcommand{\asterisc}{\begin{center}\raisebox{-3pt}{*\,*\,*}\end{center}}
+
+
