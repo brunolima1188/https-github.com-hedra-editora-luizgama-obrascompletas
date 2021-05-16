@@ -1,13 +1,45 @@
-\contentsline {book}{\booknumberline {I}\textsc {Testis nossis}, Mussum Ipsum}{7}%
-\contentsline {part}{\partnumberline {I}Amor é fogo que arde sem se ver}{9}%
-\contentsline {chapter}{\chapternumberline {1}É um não querer mais que bem\FN@sf@gobble@opt {Cacilds vidis litro abertis.} querer}{11}%
-\contentsline {section}{É solitário andar por entre a gente}{12}%
-\contentsline {subsection}{É nunca contentar-se de contente}{13}%
-\contentsline {subsubsection}{Posuere libero varius}{14}%
-\contentsline {chapter}{\chapternumberline {2}Leite de capivaris, leite de mula manquis sem cabeça}{15}%
-\contentsline {paragraph}{É cuidar que se ganha em se perder}{17}%
-\contentsline {subparagraph}{É querer estar preso por vontade}{19}%
-\contentsline {subparagraph}{É querer estar preso por vontade}{21}%
-\contentsline {subparagraph}{É querer estar preso por vontade}{22}%
-\contentsline {subparagraph}{É querer estar preso por vontade}{23}%
+\contentsline {chapter}{Introdução, por Bruno Lima}{i}%
+\contentsline {section}{São Paulo, 1866-1868}{iii}%
+\contentsline {section}{Afro-democracia}{vi}%
+\contentsline {section}{AFRO-EDUCAÇÃO}{xi}%
+\contentsline {section}{Luiz Gama e a educação}{xv}%
+\contentsline {section}{O radical soteropaulistano}{xviii}%
+\contentsline {section}{A virada de 1869}{xxii}%
+\contentsline {section}{O obscuro Luiz Gama}{xxvi}%
+\contentsline {part}{test}{xxxv}%
+\contentsline {part}{\partnumberline {I}O cabrião (1866-1867)}{1}%
+\contentsline {chapter}{\chapternumberline {1}Epístola familiar\FN@sf@gobble@opt {In: \emph {O Cabrião} (SP), 16/12/1866, pp.~3, 6-7.}}{5}%
+\contentsline {chapter}{\chapternumberline {2}Fidalguias\FN@sf@gobble@opt {In: \emph {O Cabrião} (SP), 18/08/1867, p.~7.}}{15}%
+\contentsline {chapter}{\chapternumberline {3}Ser entre ovelhas leão\FN@sf@gobble@opt {In: \emph {O Cabrião} (SP), 25/08/1867, p.~7.}}{17}%
+\contentsline {part}{\partnumberline {II}A escrava Brasília: 12 anos, torturada e morta}{19}%
+\contentsline {chapter}{\chapternumberline {4}{[}"Sou tão inimigo do assassinato como da calúnia"{]}\FN@sf@gobble@opt {In: \emph {Correio Paulistano} (SP), A Pedido, {[}sem título{]}, 03/03/1867, p.~2.}}{23}%
+\contentsline {chapter}{\chapternumberline {5}Joaquim Luiz Pizarro ao público {[}I{]}\FN@sf@gobble@opt {24. In: \emph {Revista Commercial} (SP), Publicações a pedido, {[}sem título{]}, 06/04/1867, p.~3.}}{25}%
+\contentsline {chapter}{\chapternumberline {6}{[}Joaquim Luiz Pizarro ao público --- II{]}\FN@sf@gobble@opt {In: \emph {Revista Commercial} (SP), Publicações a pedido, {[}sem título{]}, 25/04/1867, p.~2.}}{27}%
+\contentsline {chapter}{\chapternumberline {7}{[}Jorge Avelino ao público{]}\FN@sf@gobble@opt {In: \emph {Revista Commercial} (SP), Publicações a pedido, {[}sem título{]}, 27/04/1867, p.~2.}}{29}%
+\contentsline {chapter}{\chapternumberline {8}{[}``A certeza está no seguinte''{]}\FN@sf@gobble@opt {In: \emph {Correio Paulistano} (SP), A Pedido, {[}sem título{]}, 30/04/1867, p.~2.}}{33}%
+\contentsline {chapter}{\chapternumberline {9}{[}resposta a mustela{]}\FN@sf@gobble@opt {In: \emph {Correio Paulistano} (SP), A Pedido, 06/12/1866, p.~2.}}{53}%
+\contentsline {chapter}{\chapternumberline {10}A morte do Arquiduque Maximiliano\FN@sf@gobble@opt {\emph {O Ypiranga} (SP), A Pedido, 11/08/1867, p.~3.}}{89}%
+\contentsline {part}{\partnumberline {III}Em defesa da educação (1867-1868)}{103}%
+\contentsline {chapter}{\chapternumberline {11}A educação pública}{107}%
+\contentsline {part}{\partnumberline {IV}Carta aberta ao deputado liberal, Tito Mattos}{149}%
+\contentsline {section}{\numberline {11.1}II}{162}%
+\contentsline {chapter}{\chapternumberline {12}Carta ao exmo. sr. deputado dr. Tito A. P. de Mattos {[}III{]}\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 13/04/1868, pp.~1-2. Tito Augusto Pereira de Mattos (1835-1917), nascido na província da Bahia, foi um político, advogado, delegado de polícia, promotor público e juiz de direito. Foi deputado provincial em São Paulo entre 1866 e 1869 e, anos depois, presidente da província do Maranhão (1889).}}{177}%
+\contentsline {part}{\partnumberline {V}A nova lei de educação básica}{185}%
+\contentsline {part}{\partnumberline {VI}Justiça e pena de morte no Brasil (1867-1868)}{219}%
+\contentsline {section}{\numberline {12.1}Código criminal --- Título v --- capítulo i --- seção vi}{227}%
+\contentsline {chapter}{\chapternumberline {13}A justiça no liberalíssimo Império de Santa Cruz]\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 04/01/1868, p.~3.}}{229}%
+\contentsline {section}{\numberline {13.1}CÓDIGO CRIMINAL}{233}%
+\contentsline {part}{\partnumberline {VII}Nas quebradas do baixo Império}{257}%
+\contentsline {section}{\numberline {13.2}{[}I{]}}{276}%
+\contentsline {section}{\numberline {13.3}II}{277}%
+\contentsline {section}{\numberline {13.4}III}{278}%
+\contentsline {part}{\partnumberline {VIII}Textos republicanos}{315}%
+\contentsline {part}{\partnumberline {IX}Produção normativa de liberdade em tempos de escravidão}{333}%
+\contentsline {chapter}{\chapternumberline {14}Carta ao muito ilustre e honrado sr. comendador José Vergueiro\FN@sf@gobble@opt {In: \emph {O Ypiranga} (SP), Comunicado, 21/02/1869, p.~2. Nicolau José de Campos Vergueiro (1824-1903), o filho, natural de Piracicaba (SP), foi um grande fazendeiro estabelecido em Limeira (SP) que teve o protagonismo, entre os cafeicultores paulistas, de propor a substituição da mão de obra escravizada pela mão de obra livre e de estimular a imigração europeia para o Brasil, já na década de 1860.}}{337}%
+\contentsline {section}{\numberline {14.1}O bispo D. A. Joaquim de Mello, conde romano, confessor de s. santidade, do conselho de s. majestade o imperador, etc., etc.}{353}%
+\contentsline {section}{\numberline {14.2}Ano de 1828}{355}%
+\contentsline {section}{\numberline {14.3}PERGUNTA-SE:}{359}%
+\contentsline {section}{\numberline {14.4}RESPOSTA}{359}%
+\contentsline {part}{\partnumberline {X}O amanuense em xeque (1869)**}{375}%
+\contentsline {section}{\numberline {14.5}I}{378}%
 \babel@toc {brazilian}{}
