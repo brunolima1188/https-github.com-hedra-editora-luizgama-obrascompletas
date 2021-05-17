@@ -9,105 +9,105 @@
 \contentsline {part}{\partnumberline {I}O cabrião (1866-1867)}{1}%
 \contentsline {chapter}{\chapternumberline {1}Epístola familiar\FN@sf@gobble@opt {In: \emph {O Cabrião} (SP), 16/12/1866, pp.~3, 6-7.}}{3}%
 \contentsline {chapter}{\chapternumberline {2}Fidalguias\FN@sf@gobble@opt {In: \emph {O Cabrião} (SP), 18/08/1867, p.~7.}}{15}%
-\contentsline {chapter}{\chapternumberline {3}Ser entre ovelhas leão\FN@sf@gobble@opt {In: \emph {O Cabrião} (SP), 25/08/1867, p.~7.}}{17}%
-\contentsline {part}{\partnumberline {II}A escrava Brasília: 12 anos, torturada e morta}{19}%
-\contentsline {chapter}{\chapternumberline {1}{[}''Sou tão inimigo do assassinato como da calúnia''{]}\FN@sf@gobble@opt {In: \emph {Correio Paulistano} (SP), A Pedido, {[}sem título{]}, 03/03/1867, p.~2.}}{21}%
-\contentsline {chapter}{\chapternumberline {2}Joaquim Luiz Pizarro ao público {[}I{]}\FN@sf@gobble@opt { In: \emph {Revista Commercial} (SP), Publicações a pedido, {[}sem título{]}, 06/04/1867, p.~3.}}{23}%
-\contentsline {chapter}{\chapternumberline {3}{[}Joaquim Luiz Pizarro ao público --- II{]}\FN@sf@gobble@opt {In: \emph {Revista Commercial} (SP), Publicações a pedido, {[}sem título{]}, 25/04/1867, p.~2.}}{25}%
-\contentsline {chapter}{\chapternumberline {4}{[}Jorge Avelino ao público{]}\FN@sf@gobble@opt {In: \emph {Revista Commercial} (SP), Publicações a pedido, {[}sem título{]}, 27/04/1867, p.~2.}}{27}%
-\contentsline {chapter}{\chapternumberline {5}{[}``A certeza está no seguinte''{]}\FN@sf@gobble@opt {In: \emph {Correio Paulistano} (SP), A Pedido, {[}sem título{]}, 30/04/1867, p.~2.}}{31}%
-\contentsline {part}{\partnumberline {III}Luiz Gonzaga \emph {afro} da Gama (1866-1868)}{33}%
-\contentsline {chapter}{\chapternumberline {1}Carta ao sr. dr. diogo de mendonça pinto}{35}%
-\contentsline {chapter}{\chapternumberline {2}{[}resposta ao editorial do \emph {diário de s.paulo}{]}}{47}%
-\contentsline {chapter}{\chapternumberline {3}{[}resposta a mustela{]}\FN@sf@gobble@opt {In: \emph {Correio Paulistano} (SP), A Pedido, 06/12/1866, p.~2.}}{53}%
-\contentsline {chapter}{\chapternumberline {4}{[}Resposta a \emph {Demócrito}{]}}{55}%
-\contentsline {chapter}{\chapternumberline {5}\emph {Considerandum} eleitoral}{57}%
-\contentsline {chapter}{\chapternumberline {6}{[}Resposta à redação do \emph {Diário de S.Paulo}{]}}{63}%
-\contentsline {chapter}{\chapternumberline {7}Carta a \emph {Abdallah}}{75}%
-\contentsline {chapter}{\chapternumberline {8}\emph {Abdhallah} a Luiz Gama {[}réplica{]}}{79}%
-\contentsline {chapter}{\chapternumberline {9}{[}Carta à redação{]}}{83}%
-\contentsline {chapter}{\chapternumberline {10}A morte do Arquiduque Maximiliano\FN@sf@gobble@opt {\emph {O Ypiranga} (SP), A Pedido, 11/08/1867, p.~3.}}{93}%
-\contentsline {chapter}{\chapternumberline {11}O vigário de Cristo}{99}%
-\contentsline {chapter}{\chapternumberline {12}O leão avelhentado}{105}%
-\contentsline {part}{\partnumberline {IV}Em defesa da educação (1867-1868)}{109}%
-\contentsline {chapter}{\chapternumberline {1}A educação pública}{111}%
-\contentsline {chapter}{\chapternumberline {2}Instrução pública -- i}{113}%
-\contentsline {chapter}{\chapternumberline {3}Instrução pública -- ii\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 15/12/1867, pp.~3-4. \emph {(Continuação do número 1º).}}}{117}%
-\contentsline {chapter}{\chapternumberline {4}Instrução pública -- iii}{123}%
-\contentsline {chapter}{\chapternumberline {5}Instrução pública -- iv}{131}%
-\contentsline {chapter}{\chapternumberline {6}Instrução pública -- v}{139}%
-\contentsline {chapter}{\chapternumberline {7}Instrução pública -- vi}{145}%
-\contentsline {chapter}{\chapternumberline {8}Instrução pública -- vii}{153}%
-\contentsline {part}{\partnumberline {V}Carta aberta ao deputado liberal, Tito Mattos}{161}%
-\contentsline {chapter}{\chapternumberline {1}Carta ao exmo. sr. deputado dr. Tito A. P.~de Mattos {[}i{]}\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 28/03/1868, pp.~1-2. Tito Augusto Pereira de Mattos (1835-1917), nascido na província da Bahia, foi um político, advogado, delegado de polícia, promotor público e juiz de direito. Foi deputado provincial em São Paulo entre 1866 e 1869 e, anos depois, presidente da província do Maranhão (1889).}}{163}%
-\contentsline {section}{\numberline {1.1}I}{164}%
-\contentsline {chapter}{\chapternumberline {2}Carta ao exmo. sr. deputado dr. Tito A. P.~de Mattos {[}ii{]}\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 04/04/1868, pp.~1-3. Tito Augusto Pereira de Mattos (1835-1917), nascido na província da Bahia, foi um político, advogado, delegado de polícia, promotor público e juiz de direito. Foi deputado provincial em São Paulo entre 1866 e 1869 e, anos depois, presidente da província do Maranhão (1889).}}{175}%
-\contentsline {section}{\numberline {2.1}II}{176}%
-\contentsline {chapter}{\chapternumberline {3}Carta ao exmo. sr. deputado dr. Tito A. P. de Mattos {[}III{]}\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 13/04/1868, pp.~1-2. Tito Augusto Pereira de Mattos (1835-1917), nascido na província da Bahia, foi um político, advogado, delegado de polícia, promotor público e juiz de direito. Foi deputado provincial em São Paulo entre 1866 e 1869 e, anos depois, presidente da província do Maranhão (1889).}}{189}%
-\contentsline {section}{\numberline {3.1}III}{190}%
-\contentsline {part}{\partnumberline {VI}A nova lei de educação básica}{197}%
-\contentsline {chapter}{\chapternumberline {1}A nova lei de instrução primária {[}i{]}}{199}%
-\contentsline {chapter}{\chapternumberline {2}A nova lei de instrução primária {[}ii{]}}{209}%
-\contentsline {chapter}{\chapternumberline {3}A nova lei de instrução primária {[}iii{]}}{217}%
-\contentsline {chapter}{\chapternumberline {4}A nova lei de instrução primária {[}iv{]}}{227}%
-\contentsline {part}{\partnumberline {VII}Justiça e pena de morte no Brasil (1867-1868)}{235}%
-\contentsline {chapter}{\chapternumberline {1}A justiça no liberalíssimo império de santa cruz}{237}%
-\contentsline {chapter}{\chapternumberline {2}A justiça no liberalíssimo Império de Santa Cruz}{241}%
-\contentsline {section}{\numberline {2.1}Código criminal --- Título v --- capítulo i --- seção vi}{244}%
-\contentsline {chapter}{\chapternumberline {3}A justiça no liberalíssimo Império de Santa Cruz]\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 04/01/1868, p.~3.}}{245}%
-\contentsline {section}{\numberline {3.1}CÓDIGO CRIMINAL}{248}%
-\contentsline {chapter}{\chapternumberline {4}A justiça no liberalíssimo império de santa cruz}{251}%
-\contentsline {chapter}{\chapternumberline {5}A justiça no liberalíssimo império de santa cruz}{257}%
-\contentsline {chapter}{\chapternumberline {6}Pena de morte}{263}%
-\contentsline {chapter}{\chapternumberline {7}Execução da pena de morte}{267}%
-\contentsline {chapter}{\chapternumberline {8}A pena de morte}{273}%
-\contentsline {part}{\partnumberline {VIII}Nas quebradas do baixo Império}{279}%
-\contentsline {chapter}{\chapternumberline {1}Tesouraria de fazenda {[}i{]}}{281}%
-\contentsline {chapter}{\chapternumberline {2}Tesouraria de fazenda {[}ii{]}}{283}%
-\contentsline {chapter}{\chapternumberline {3}As aulas noturnas {[}i{]}}{285}%
-\contentsline {chapter}{\chapternumberline {4}Em vez de escola, tarimba}{289}%
-\contentsline {chapter}{\chapternumberline {5}As aulas noturnas {[}ii{]}}{293}%
-\contentsline {chapter}{\chapternumberline {6}Tribunal do júri da capital}{297}%
-\contentsline {chapter}{\chapternumberline {7}Mais um escândalo}{301}%
-\contentsline {chapter}{\chapternumberline {8}Foro da capital {[}caso antonio encarnação{]}}{305}%
-\contentsline {section}{\numberline {8.1}{[}I{]}}{309}%
-\contentsline {section}{\numberline {8.2}II}{310}%
-\contentsline {section}{\numberline {8.3}III}{311}%
-\contentsline {chapter}{\chapternumberline {9}Cousas do baixo império {[}i{]}}{315}%
-\contentsline {chapter}{\chapternumberline {10}Filantropia exemplar}{317}%
-\contentsline {chapter}{\chapternumberline {11}Higiene pública}{319}%
-\contentsline {chapter}{\chapternumberline {12}Foro da capital -- juízo de paz do distrito norte}{325}%
-\contentsline {chapter}{\chapternumberline {13}Cousas do baixo império {[}ii{]}}{329}%
-\contentsline {chapter}{\chapternumberline {14}Viva a Turquia americana!}{335}%
-\contentsline {chapter}{\chapternumberline {15}Cousas do baixo império {[}iii{]}}{337}%
-\contentsline {chapter}{\chapternumberline {16}Aos grandes senhores}{339}%
-\contentsline {chapter}{\chapternumberline {17}Até os lazaristas!}{343}%
-\contentsline {chapter}{\chapternumberline {18}Grandeza d'alma}{347}%
-\contentsline {chapter}{\chapternumberline {19}Correio de s. paulo}{349}%
-\contentsline {chapter}{\chapternumberline {20}Até com os mortos}{353}%
-\contentsline {chapter}{\chapternumberline {21}Plena barbaria em jundiaí}{357}%
-\contentsline {part}{\partnumberline {IX}Textos republicanos}{361}%
-\contentsline {chapter}{\chapternumberline {1}Processo de lorena}{363}%
-\contentsline {chapter}{\chapternumberline {2}O centro e os radicais}{365}%
-\contentsline {chapter}{\chapternumberline {3}O caxias do centro liberal}{369}%
-\contentsline {chapter}{\chapternumberline {4}O sr. Sayão Lobato}{375}%
-\contentsline {chapter}{\chapternumberline {5}Meditação}{381}%
-\contentsline {part}{\partnumberline {X}Produção normativa de liberdade em tempos de escravidão}{385}%
-\contentsline {chapter}{\chapternumberline {1}Carta ao muito ilustre e honrado sr. comendador José Vergueiro\FN@sf@gobble@opt {In: \emph {O Ypiranga} (SP), Comunicado, 21/02/1869, p.~2. Nicolau José de Campos Vergueiro (1824-1903), o filho, natural de Piracicaba (SP), foi um grande fazendeiro estabelecido em Limeira (SP) que teve o protagonismo, entre os cafeicultores paulistas, de propor a substituição da mão de obra escravizada pela mão de obra livre e de estimular a imigração europeia para o Brasil, já na década de 1860.}}{387}%
-\contentsline {chapter}{\chapternumberline {2}Questão de liberdade}{395}%
-\contentsline {chapter}{\chapternumberline {3}Apontamentos biográficos}{405}%
-\contentsline {section}{\numberline {3.1}O bispo D. A. Joaquim de Mello, conde romano, confessor de s. santidade, do conselho de s. majestade o imperador, etc., etc.}{406}%
-\contentsline {section}{\numberline {3.2}Ano de 1828}{407}%
-\contentsline {section}{\numberline {3.3}PERGUNTA-SE:}{411}%
-\contentsline {section}{\numberline {3.4}RESPOSTA}{411}%
-\contentsline {chapter}{\chapternumberline {4}Foro do belém de jundiaí}{417}%
-\contentsline {chapter}{\chapternumberline {5}Escândalos}{421}%
-\contentsline {chapter}{\chapternumberline {6}Foro da capital {[}caso Jacyntho e Anna{]}}{423}%
-\contentsline {part}{\partnumberline {XI}O amanuense em xeque (1869)**}{431}%
-\contentsline {chapter}{\chapternumberline {1}Um novo Alexandre}{433}%
-\contentsline {section}{\numberline {1.1}I}{434}%
-\contentsline {chapter}{\chapternumberline {2}O novo Alexandre}{441}%
-\contentsline {section}{\numberline {2.1}II}{442}%
-\contentsline {chapter}{\chapternumberline {3}Ainda o novo Alexandre}{449}%
-\contentsline {chapter}{\chapternumberline {4}Pela última vez}{453}%
+\contentsline {chapter}{\chapternumberline {3}Ser entre ovelhas leão\FN@sf@gobble@opt {In: \emph {O Cabrião} (SP), 25/08/1867, p.~7.}}{19}%
+\contentsline {part}{\partnumberline {II}A escrava Brasília: 12 anos, torturada e morta}{21}%
+\contentsline {chapter}{\chapternumberline {1}{[}''Sou tão inimigo do assassinato como da calúnia''{]}\FN@sf@gobble@opt {In: \emph {Correio Paulistano} (SP), A Pedido, {[}sem título{]}, 03/03/1867, p.~2.}}{23}%
+\contentsline {chapter}{\chapternumberline {2}Joaquim Luiz Pizarro ao público {[}I{]}\FN@sf@gobble@opt { In: \emph {Revista Commercial} (SP), Publicações a pedido, {[}sem título{]}, 06/04/1867, p.~3.}}{25}%
+\contentsline {chapter}{\chapternumberline {3}{[}Joaquim Luiz Pizarro ao público --- II{]}\FN@sf@gobble@opt {In: \emph {Revista Commercial} (SP), Publicações a pedido, {[}sem título{]}, 25/04/1867, p.~2.}}{27}%
+\contentsline {chapter}{\chapternumberline {4}{[}Jorge Avelino ao público{]}\FN@sf@gobble@opt {In: \emph {Revista Commercial} (SP), Publicações a pedido, {[}sem título{]}, 27/04/1867, p.~2.}}{31}%
+\contentsline {chapter}{\chapternumberline {5}{[}``A certeza está no seguinte''{]}\FN@sf@gobble@opt {In: \emph {Correio Paulistano} (SP), A Pedido, {[}sem título{]}, 30/04/1867, p.~2.}}{35}%
+\contentsline {part}{\partnumberline {III}Luiz Gonzaga \emph {afro} da Gama (1866-1868)}{37}%
+\contentsline {chapter}{\chapternumberline {1}Carta ao sr. dr. diogo de mendonça pinto}{39}%
+\contentsline {chapter}{\chapternumberline {2}{[}resposta ao editorial do \emph {diário de s.paulo}{]}}{51}%
+\contentsline {chapter}{\chapternumberline {3}{[}resposta a mustela{]}\FN@sf@gobble@opt {In: \emph {Correio Paulistano} (SP), A Pedido, 06/12/1866, p.~2.}}{59}%
+\contentsline {chapter}{\chapternumberline {4}{[}Resposta a \emph {Demócrito}{]}}{61}%
+\contentsline {chapter}{\chapternumberline {5}\emph {Considerandum} eleitoral}{63}%
+\contentsline {chapter}{\chapternumberline {6}{[}Resposta à redação do \emph {Diário de S.Paulo}{]}}{69}%
+\contentsline {chapter}{\chapternumberline {7}Carta a \emph {Abdallah}}{81}%
+\contentsline {chapter}{\chapternumberline {8}\emph {Abdhallah} a Luiz Gama {[}réplica{]}}{85}%
+\contentsline {chapter}{\chapternumberline {9}{[}Carta à redação{]}}{89}%
+\contentsline {chapter}{\chapternumberline {10}A morte do Arquiduque Maximiliano\FN@sf@gobble@opt {\emph {O Ypiranga} (SP), A Pedido, 11/08/1867, p.~3.}}{99}%
+\contentsline {chapter}{\chapternumberline {11}O vigário de Cristo}{105}%
+\contentsline {chapter}{\chapternumberline {12}O leão avelhentado}{111}%
+\contentsline {part}{\partnumberline {IV}Em defesa da educação (1867-1868)}{115}%
+\contentsline {chapter}{\chapternumberline {1}A educação pública}{117}%
+\contentsline {chapter}{\chapternumberline {2}Instrução pública -- i}{119}%
+\contentsline {chapter}{\chapternumberline {3}Instrução pública -- ii\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 15/12/1867, pp.~3-4. \emph {(Continuação do número 1º).}}}{123}%
+\contentsline {chapter}{\chapternumberline {4}Instrução pública -- iii}{129}%
+\contentsline {chapter}{\chapternumberline {5}Instrução pública -- iv}{137}%
+\contentsline {chapter}{\chapternumberline {6}Instrução pública -- v}{145}%
+\contentsline {chapter}{\chapternumberline {7}Instrução pública -- vi}{151}%
+\contentsline {chapter}{\chapternumberline {8}Instrução pública -- vii}{159}%
+\contentsline {part}{\partnumberline {V}Carta aberta ao deputado liberal, Tito Mattos}{169}%
+\contentsline {chapter}{\chapternumberline {1}Carta ao exmo. sr. deputado dr. Tito A. P.~de Mattos {[}i{]}\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 28/03/1868, pp.~1-2. Tito Augusto Pereira de Mattos (1835-1917), nascido na província da Bahia, foi um político, advogado, delegado de polícia, promotor público e juiz de direito. Foi deputado provincial em São Paulo entre 1866 e 1869 e, anos depois, presidente da província do Maranhão (1889).}}{171}%
+\contentsline {section}{\numberline {1.1}I}{172}%
+\contentsline {chapter}{\chapternumberline {2}Carta ao exmo. sr. deputado dr. Tito A. P.~de Mattos {[}ii{]}\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 04/04/1868, pp.~1-3. Tito Augusto Pereira de Mattos (1835-1917), nascido na província da Bahia, foi um político, advogado, delegado de polícia, promotor público e juiz de direito. Foi deputado provincial em São Paulo entre 1866 e 1869 e, anos depois, presidente da província do Maranhão (1889).}}{183}%
+\contentsline {section}{\numberline {2.1}II}{184}%
+\contentsline {chapter}{\chapternumberline {3}Carta ao exmo. sr. deputado dr. Tito A. P. de Mattos {[}III{]}\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 13/04/1868, pp.~1-2. Tito Augusto Pereira de Mattos (1835-1917), nascido na província da Bahia, foi um político, advogado, delegado de polícia, promotor público e juiz de direito. Foi deputado provincial em São Paulo entre 1866 e 1869 e, anos depois, presidente da província do Maranhão (1889).}}{197}%
+\contentsline {section}{\numberline {3.1}III}{198}%
+\contentsline {part}{\partnumberline {VI}A nova lei de educação básica}{205}%
+\contentsline {chapter}{\chapternumberline {1}A nova lei de instrução primária {[}i{]}}{207}%
+\contentsline {chapter}{\chapternumberline {2}A nova lei de instrução primária {[}ii{]}}{217}%
+\contentsline {chapter}{\chapternumberline {3}A nova lei de instrução primária {[}iii{]}}{225}%
+\contentsline {chapter}{\chapternumberline {4}A nova lei de instrução primária {[}iv{]}}{235}%
+\contentsline {part}{\partnumberline {VII}Justiça e pena de morte no Brasil (1867-1868)}{243}%
+\contentsline {chapter}{\chapternumberline {1}A justiça no liberalíssimo império de santa cruz}{245}%
+\contentsline {chapter}{\chapternumberline {2}A justiça no liberalíssimo Império de Santa Cruz}{249}%
+\contentsline {section}{\numberline {2.1}Código criminal --- Título v --- capítulo i --- seção vi}{252}%
+\contentsline {chapter}{\chapternumberline {3}A justiça no liberalíssimo Império de Santa Cruz]\FN@sf@gobble@opt {In: \emph {Democracia} (SP), 04/01/1868, p.~3.}}{253}%
+\contentsline {section}{\numberline {3.1}CÓDIGO CRIMINAL}{256}%
+\contentsline {chapter}{\chapternumberline {4}A justiça no liberalíssimo império de santa cruz}{259}%
+\contentsline {chapter}{\chapternumberline {5}A justiça no liberalíssimo império de santa cruz}{265}%
+\contentsline {chapter}{\chapternumberline {6}Pena de morte}{271}%
+\contentsline {chapter}{\chapternumberline {7}Execução da pena de morte}{275}%
+\contentsline {chapter}{\chapternumberline {8}A pena de morte}{281}%
+\contentsline {part}{\partnumberline {VIII}Nas quebradas do baixo Império}{287}%
+\contentsline {chapter}{\chapternumberline {1}Tesouraria de fazenda {[}i{]}}{289}%
+\contentsline {chapter}{\chapternumberline {2}Tesouraria de fazenda {[}ii{]}}{291}%
+\contentsline {chapter}{\chapternumberline {3}As aulas noturnas {[}i{]}}{293}%
+\contentsline {chapter}{\chapternumberline {4}Em vez de escola, tarimba}{297}%
+\contentsline {chapter}{\chapternumberline {5}As aulas noturnas {[}ii{]}}{301}%
+\contentsline {chapter}{\chapternumberline {6}Tribunal do júri da capital}{305}%
+\contentsline {chapter}{\chapternumberline {7}Mais um escândalo}{309}%
+\contentsline {chapter}{\chapternumberline {8}Foro da capital {[}caso antonio encarnação{]}}{313}%
+\contentsline {section}{\numberline {8.1}{[}I{]}}{317}%
+\contentsline {section}{\numberline {8.2}II}{318}%
+\contentsline {section}{\numberline {8.3}III}{319}%
+\contentsline {chapter}{\chapternumberline {9}Cousas do baixo império {[}i{]}}{323}%
+\contentsline {chapter}{\chapternumberline {10}Filantropia exemplar}{327}%
+\contentsline {chapter}{\chapternumberline {11}Higiene pública}{329}%
+\contentsline {chapter}{\chapternumberline {12}Foro da capital -- juízo de paz do distrito norte}{335}%
+\contentsline {chapter}{\chapternumberline {13}Cousas do baixo império {[}ii{]}}{339}%
+\contentsline {chapter}{\chapternumberline {14}Viva a Turquia americana!}{345}%
+\contentsline {chapter}{\chapternumberline {15}Cousas do baixo império {[}iii{]}}{347}%
+\contentsline {chapter}{\chapternumberline {16}Aos grandes senhores}{349}%
+\contentsline {chapter}{\chapternumberline {17}Até os lazaristas!}{353}%
+\contentsline {chapter}{\chapternumberline {18}Grandeza d'alma}{357}%
+\contentsline {chapter}{\chapternumberline {19}Correio de s. paulo}{359}%
+\contentsline {chapter}{\chapternumberline {20}Até com os mortos}{363}%
+\contentsline {chapter}{\chapternumberline {21}Plena barbaria em jundiaí}{367}%
+\contentsline {part}{\partnumberline {IX}Textos republicanos}{371}%
+\contentsline {chapter}{\chapternumberline {1}Processo de lorena}{373}%
+\contentsline {chapter}{\chapternumberline {2}O centro e os radicais}{375}%
+\contentsline {chapter}{\chapternumberline {3}O caxias do centro liberal}{379}%
+\contentsline {chapter}{\chapternumberline {4}O sr. Sayão Lobato}{385}%
+\contentsline {chapter}{\chapternumberline {5}Meditação}{391}%
+\contentsline {part}{\partnumberline {X}Produção normativa de liberdade em tempos de escravidão}{395}%
+\contentsline {chapter}{\chapternumberline {1}Carta ao muito ilustre e honrado sr. comendador José Vergueiro\FN@sf@gobble@opt {In: \emph {O Ypiranga} (SP), Comunicado, 21/02/1869, p.~2. Nicolau José de Campos Vergueiro (1824-1903), o filho, natural de Piracicaba (SP), foi um grande fazendeiro estabelecido em Limeira (SP) que teve o protagonismo, entre os cafeicultores paulistas, de propor a substituição da mão de obra escravizada pela mão de obra livre e de estimular a imigração europeia para o Brasil, já na década de 1860.}}{397}%
+\contentsline {chapter}{\chapternumberline {2}Questão de liberdade}{405}%
+\contentsline {chapter}{\chapternumberline {3}Apontamentos biográficos}{415}%
+\contentsline {section}{\numberline {3.1}O bispo D. A. Joaquim de Mello, conde romano, confessor de s. santidade, do conselho de s. majestade o imperador, etc., etc.}{416}%
+\contentsline {section}{\numberline {3.2}Ano de 1828}{417}%
+\contentsline {section}{\numberline {3.3}PERGUNTA-SE:}{421}%
+\contentsline {section}{\numberline {3.4}RESPOSTA}{421}%
+\contentsline {chapter}{\chapternumberline {4}Foro do belém de jundiaí}{427}%
+\contentsline {chapter}{\chapternumberline {5}Escândalos}{431}%
+\contentsline {chapter}{\chapternumberline {6}Foro da capital {[}caso Jacyntho e Anna{]}}{433}%
+\contentsline {part}{\partnumberline {XI}O amanuense em xeque (1869)**}{441}%
+\contentsline {chapter}{\chapternumberline {1}Um novo Alexandre}{443}%
+\contentsline {section}{\numberline {1.1}I}{444}%
+\contentsline {chapter}{\chapternumberline {2}O novo Alexandre}{451}%
+\contentsline {section}{\numberline {2.1}II}{452}%
+\contentsline {chapter}{\chapternumberline {3}Ainda o novo Alexandre}{459}%
+\contentsline {chapter}{\chapternumberline {4}Pela última vez}{463}%
 \babel@toc {brazilian}{}

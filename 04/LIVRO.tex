@@ -26,6 +26,7 @@
 \usepackage{enumerate,enumitem}			% para tipos diferentes de enumeração/formatação ver `edlab-extra.sty`
 \usepackage{marginnote}					% para notas laterais
 \usepackage{titlesec}					% para produzir os distanciamentos entre pontos no \dotfill
+\usepackage{url}						% para citar sites \url
 
 %\usepackage{makeidx} 					% para índice remissivo
 
@@ -33,13 +34,13 @@
 \usepackage{../edlab-penalties}
 \usepackage{../edlab-toc}				% define sumário
 \usepackage{../edlab-extra}				% define epígrafe, quote
-\usepackage[14x21]{../edlab-margins}
+\usepackage[largepost]{../edlab-margins}
 \usepackage[%semcabeco, 				% para remover cabeço, sobe mancha e mantem estilos
 			]{../edlab-sections}		% define pagestyle (cabeço, rodapé e seções)
 \usepackage[%
 			% notasemlinha 			
 			% notalinhalonga
-			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
+			% chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
 			]{../edlab-footnotes}
 
 
@@ -50,6 +51,8 @@
 \marginparwidth=4em		% Tamanho da caixa de texto da nota laterial
 
 % Fontes
+% https://www.tug.org/TUGboat/tb26-3/tb84robertson.pdf
+% https://tex.stackexchange.com/questions/375193/showing-up-as-in-font-defined-with-newfontfamily-in-xelatex
 \newfontfamily\formular{Formular}
 \newfontfamily\formularlight{Formular Light}
 \setmainfont[Ligatures=TeX,Numbers=OldStyle]{Linux Libertine O}
@@ -64,19 +67,6 @@
 \headstyles{baruch}
 
 % Comandos para esta edição
-
-\newenvironment{didas}{% 				% Didascálias antes de \part
-			\pagebreak%
-			\blankAtodd\mbox{}%
-			%\baselineskip=.7\baselineskip%
-			\vfill%
-			\thispagestyle{empty}%
-			\footnotesize\parindent0pt}{\par} 
-\newenvironment{resumo}{% 				% Resumos de abertura de capítulo
-			\footnotesize
-			%\baselineskip=.7\baselineskip
-			\raggedright
-			\parindent0pt}{\par\medskip} 
 
 \begin{document}
 

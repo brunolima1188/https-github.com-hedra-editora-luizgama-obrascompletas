@@ -210,8 +210,8 @@ INPUT ./1-fronte.tex
 INPUT ./1-fronte.tex
 OUTPUT LIVRO.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT ./4-volumes.tex
-INPUT ./4-volumes.tex
+INPUT ../4-volumes.tex
+INPUT ../4-volumes.tex
 INPUT ./3-rosto.tex
 INPUT ./3-rosto.tex
 INPUT /home/editorial/.texlive2020/texmf-var/luatex-cache/generic-dev/fonts/otl/times-new-roman.luc
