@@ -3,8 +3,6 @@
 \RequirePackage[stable,bottom,multiple]{footmisc}
 
 
-% Indentation for 2nd etc. paragraphs in footnotes which cosists of more than one paragraph
-\renewcommand{\hangfootparindent}{0pt}
 
 % Vertical space between paragraphs in multiparagraph footnotes
 \renewcommand{\hangfootparskip}{3pt plus 3pt minus 3pt}
@@ -14,9 +12,12 @@
 % zero put indentation to some positive value, and negative values do not help actually
 \renewcommand{\footnotemargin}{0.00001pt}
 
+% Indentation for 2nd etc. paragraphs in footnotes which cosists of more than one paragraph
+\renewcommand{\hangfootparindent}{1ex}
+
 % Here you can modify the spacing between the footnote 
 % number and the text of footnote; keep this value and \hangfootparindent value the same
-\renewcommand{\footnotelayout}{\hspace{0pt}}
+\renewcommand{\footnotelayout}{\hspace{1ex}}
 
 
 % Notas de fim (package: \usepackage{endnotes})

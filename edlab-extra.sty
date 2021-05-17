@@ -3,18 +3,15 @@
 
 % Didascálias
 \def\@endpartnot{\vspace{.60\textheight}\pagebreak}%
-            \let\@endpart\@endpartnot
+\let\@endpart\@endpartnot
 \newenvironment{argumento}{%                % Didascálias antes de \part
                 \mbox{}\vfill%
                 \thispagestyle{empty}
-                \footnotesize\parindent0pt}{
-                \par
-                \thispagestyle{empty}}
+                \footnotesize\parindent0pt}{\thispagestyle{empty}\par}
 \newenvironment{didascalia}{%               % Resumos de abertura de capítulo
-            \begingroup
             \footnotesize
             \raggedright
-            \parindent0pt}{\endgroup\par\medskip} 
+            \parindent0pt}{\par\medskip} 
 
 % Páginas brancas conforme par ou impar
 \newcommand{\blankpage}{\newpage\hbox{~}\thispagestyle{empty}\newpage}
