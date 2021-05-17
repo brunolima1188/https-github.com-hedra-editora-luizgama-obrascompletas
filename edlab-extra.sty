@@ -2,21 +2,21 @@
 
 
 % Didascálias
-\def\@endpartnot{\vspace{.60\textheight}\pagebreak}
-\let\@endpart\@endpartnot
+\def\@endpartnot{\vspace{.60\textheight}\pagebreak}%
+            \let\@endpart\@endpartnot
 \newenvironment{argumento}{%                % Didascálias antes de \part
-            \mbox{}\vfill%
-            \thispagestyle{empty}%
-            \footnotesize\parindent0pt}{\par}
+                \mbox{}\vfill%
+                \thispagestyle{empty}
+                \footnotesize\parindent0pt}{
+                \par
+                \thispagestyle{empty}}
 \newenvironment{didascalia}{%               % Resumos de abertura de capítulo
+            \begingroup
             \footnotesize
             \raggedright
-            \parindent0pt}{\par\medskip} 
+            \parindent0pt}{\endgroup\par\medskip} 
 
-
-
-
-
+% Páginas brancas conforme par ou impar
 \newcommand{\blankpage}{\newpage\hbox{~}\thispagestyle{empty}\newpage}
 \newcommand{\blankAteven}{\ifodd\thepage\relax\else\blankpage\fi}
 \newcommand{\blankAtodd}{\ifodd\thepage\blankpage\else\relax\fi}

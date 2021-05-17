@@ -2,8 +2,6 @@
 *.log
 *.aux
 *.toc
-*.docx
-*.doc
 *.odt
 *.pdf
 *.idx
@@ -25,4 +23,3 @@
 *.idv 
 *.opf
 *.swp
-LIVRO.pdf
