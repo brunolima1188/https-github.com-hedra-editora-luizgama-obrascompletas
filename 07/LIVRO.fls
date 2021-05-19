@@ -193,10 +193,10 @@ INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-italic.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-light.luc
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rbi.luc
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-ri.luc
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/minionpro-regular.luc
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/minionpro-boldit.luc
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/minion-pro-bold.luc
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/minionpro-it.luc
 INPUT ./LIVRO.aux
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
