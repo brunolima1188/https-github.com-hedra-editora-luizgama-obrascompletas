@@ -1,1 +1,86 @@
+\contentsline {part}{\partnumberline {I}Uma autobiografia}{9}
+\contentsline {chapter}{\chapternumberline {1}Bilhete para Lúcio de Mendonça}{11}
+\contentsline {chapter}{\chapternumberline {2}Carta a Lucio de Mendonça\FN@sf@gobble@opt {In: Biblioteca Nacional, Carta a Lucio de Mendonça, Documento textual, Manuscritos --- I"-2--11,018, São Paulo, 25/07/1880.}}{13}
+\contentsline {chapter}{\chapternumberline {3}Minha mãe\FN@sf@gobble@opt {O poema \emph {Minha Mãe}, conforme conta Gama, foi escrito em 1861, quando ele se encontrava em trabalho na vila de Caçapava, vale do Paraíba (SP). Esse poema foi publicado já em 1861, na segunda edição das \emph {Primeiras Trovas Burlescas de Getulino}.}}{25}
+\contentsline {chapter}{\chapternumberline {4}Luiz Gama por Lucio de Mendonça\FN@sf@gobble@opt {In. \emph {Gazeta da Tarde} (\textsc {rj}), Folhetim, 15/12/1880, pp. 1--2.}}{29}
+\contentsline {part}{\partnumberline {II}Três Spartacus e um John Brown}{43}
+\contentsline {chapter}{\chapternumberline {1}Aos homens da ordem\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 11/01/1880, p. 3.}}{45}
+\contentsline {chapter}{\chapternumberline {2}A questão de raças\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 18/07/1880, p. 2; \emph {A Província de S. Paulo} (SP), Seção Particular, 20/07/1880, p. 2; e também na \emph {Gazeta da Tarde} (RJ), Noticiário, 27/07/1880, pp. 3-4.}}{47}
+\contentsline {chapter}{\chapternumberline {3}A sua Excia. o Ilmo. Sr. Dr. Chefe de polícia}{49}
+\contentsline {chapter}{\chapternumberline {4}AO EXMO SR. CONSELHEIRO PRESIDENTE DO TRIBUNAL DA RELAÇÃO}{51}
+\contentsline {part}{\partnumberline {III}A LUTA PELO DIREITO}{55}
+\contentsline {part}{\partnumberline {IV}O TÚMULO DA CONSTITUIÇÃO}{57}
+\contentsline {chapter}{\chapternumberline {1}A LEI E OS ``CAFETÕES''}{59}
+\contentsline {chapter}{\chapternumberline {2}O EXMO. SR. DR. CHEFE DE POLÍCIA\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 21/01/1880, p. 2.}}{61}
+\contentsline {chapter}{\chapternumberline {3}A DEPORTAÇÃO DOS "CAFETÕES"\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 23/01/1880, p. 2.}}{63}
+\contentsline {chapter}{\chapternumberline {4}{[}A DEPORTAÇÃO DOS “CAFETÕES” -- II{]} \emph {HABEAS-CORPUS }\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 31/01/1880, pp. 1-2.}}{77}
+\contentsline {part}{\partnumberline {V}A PELEJA DO ADVOGADO CONTRA O BACHAREL}{93}
+\contentsline {chapter}{\chapternumberline {1}LUIZ GAMA AO PÚBLICO\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 25/09/1880, p. 2.}}{95}
+\contentsline {chapter}{\chapternumberline {2}LUIZ GAMA AO PÚBLICO {[}réplica{]}\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 26/09/1880, p. 2.}}{97}
+\contentsline {chapter}{\chapternumberline {3}INSÂNIA E CALÚNIA\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 03/10/1880, p. 2.}}{99}
+\contentsline {part}{\partnumberline {VI}FONTES DO DIREITO E ESTRATÉGIAS DE LIBERDADE}{103}
+\contentsline {chapter}{\chapternumberline {1}QUESTÃO FORENSE\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Jurídica, 14/10/1880, pp. 1-2.}}{105}
+\contentsline {chapter}{\chapternumberline {2}FATO GRAVE \emph {--} JAÚ\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, Foro da Capital, 20/10/1880, p. 2.}}{121}
+\contentsline {chapter}{\chapternumberline {3}ARESTO NOTÁVEL\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), 17/11/1880, p. 2. A redação da \emph {Gazeta da Tarde} introduz o artigo dessa forma: "Luiz Gama, o muito conhecido e notável cidadão, aquele à quem tanto devem as ideias democráticas no Brasil, escreveu ontem, em S. Paulo, o artigo que vai em seguida. Acometido há quatro dias de grave enfermidade, mesmo assim acudiu em prol de homens que contra a lei pretende-se escravizar. O artigo, demais, é erudito. Oferecemo-lo à atenção dos tribunais brasileiros".}}{123}
+\contentsline {chapter}{\chapternumberline {4}2ª VARA CÍVEL\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, Foro da Capital, 28/11/1880, pp. 1-2. A \emph {Gazeta da Tarde} (RJ)\emph {,} edição de 30/11/1880, replica partes do artigo.}}{129}
+\contentsline {chapter}{\chapternumberline {5}QUESTÃO JURÍDICA -- Subsistem os efeitos manumissórios da lei de 26 de Janeiro de 1818 depois das de 7 de Novembro de 1831 e 4 de Outubro de 1850?\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 18/12/1880, p. 5. Aqui houve um pequeno equívoco no título original, já que a lei não é de outubro, mas sim de 4 de Setembro de 1850. Ao longo do texto, Gama sempre se reporta à data correta. Outra observação pertinente: Mennucci, acompanhado por Ferreira, ocultou a interrogação final, substituindo-a por um ponto final simples, como se o autor não partisse de uma pergunta para estruturar seu raciocínio jurídico.}}{139}
+\contentsline {chapter}{\chapternumberline {6}LIBERTAÇÃO DE ESCRAVOS PELO FUNDO DE EMANCIPAÇÃO\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 21/12/1880, p. 2.}}{163}
+\contentsline {chapter}{\chapternumberline {7}CONTRAPROTESTO\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Particular, Itatiba, 04/01/1881, p. 2.}}{169}
+\contentsline {chapter}{\chapternumberline {8}QUESTÃO JURÍDICA -- O escravo que requer e é admitido a manumitir-se, por indenização do seu valor, se o preço arbitrado judicialmente excede ao pecúlio, continua cativo, por deficiência deste?\FN@sf@gobble@opt {. In: \emph {Gazeta de S. Paulo} (SP), Ineditoriais, 13/01/1881, p. 3. Através de uma republicação sem título desse artigo, Fonseca resolveu por conta própria dar outro título a esse texto. Chamando-se \emph {Questão Jurídica}, sendo publicado tão somente algumas semanas depois do homônimo famoso, é possível compreendê-lo como \emph {Questão Jurídica -- parte II}. Não por outro motivo, ao que parece, \emph {O Abolicionista} (RJ) de 1º de Julho de 1881 o republicou imediatamente na sequência do primeiro \emph {Questão jurídica}. Ambas as partes, por exemplo, respondem a uma pergunta técnica e desenvolvem uma linha de raciocínio jurídico amparada na multinormatividade da matéria em questão.}}{171}
+\contentsline {part}{\partnumberline {VII}O COCHEIRO E O CÔNSUL}{177}
+\contentsline {chapter}{\chapternumberline {1}PROCESSO VIRA-MUNDO\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 23/04/1881, p. 2.}}{179}
+\contentsline {chapter}{\chapternumberline {2}{[}RESPOSTA AO SR. F...{]}\FN@sf@gobble@opt {. Lusus, in: \emph {A Província de S. Paulo} (SP), Seção Livre, O vice-consulado de Portugal em S. Paulo, 17/03/1881, p. 1.}}{183}
+\contentsline {chapter}{\chapternumberline {3}A COLÔNIA PORTUGUESA EM S. PAULO -- O SEU A SEU DONO\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 21/05/1881, p. 2.}}{185}
+\contentsline {part}{\partnumberline {VIII}UMA ESTÁTUA, UM COVEIRO E UM PERITO CRIMINAL}{189}
+\contentsline {chapter}{\chapternumberline {1}É DE ADMIRAR\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 23/11/1880, p. 2.}}{191}
+\contentsline {chapter}{\chapternumberline {2}DESPERTADOR MORAL -- I\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 24/11/1880, p. 1.}}{193}
+\contentsline {chapter}{\chapternumberline {3}DESPERTADOR MORAL -- II\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 25/11/1880, p. 1.}}{197}
+\contentsline {chapter}{\chapternumberline {4}DESPERTADOR MORAL -- III\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 27/11/1880, p. 1.}}{201}
+\contentsline {chapter}{\chapternumberline {5}DESPERTADOR MORAL -- IV\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 01/12/1880, p. 1.}}{205}
+\contentsline {part}{\partnumberline {IX}UM CRIME PUXA OUTRO}{211}
+\contentsline {chapter}{\chapternumberline {1}EXEMPLO DE PIEDADE, I}{213}
+\contentsline {chapter}{\chapternumberline {2}{[}RÉPLICA DO MISERICORDIOSO ALMEIDA{]}\FN@sf@gobble@opt {. In: \emph {Gazeta de S. Paulo} (SP), Ineditoriais, 06/02/1881, p. 3.}}{215}
+\contentsline {chapter}{\chapternumberline {3}MÁSCARA CAÍDA\FN@sf@gobble@opt {. In: \emph {Gazeta de S. Paulo} (SP), Ineditoriais, 06/02/1881, p. 3.}}{219}
+\contentsline {chapter}{\chapternumberline {4}COMO SE CONTA A HISTÓRIA\FN@sf@gobble@opt {. In: \emph {Gazeta de S. Paulo} (SP), Ineditoriais, 07/02/1881, p. 2. A marcação numeral abaixo sinaliza que o artigo seria replicado outras quinze vezes. Porém, não localizei mais nenhuma reprodução desse texto.}}{221}
+\contentsline {chapter}{\chapternumberline {5}O CRIME DA RUA DE S. BENTO\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Particular, 06/02/1881, p. 2.}}{223}
+\contentsline {chapter}{\chapternumberline {6}O PROMOTOR PÚBLICO DA CAPITAL E O CRIME DA RUA DE S. BENTO\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Particular, 08/02/1881, p. 2.}}{225}
+\contentsline {part}{\partnumberline {X}O ÁS DA ABOLIÇÃO: A CARTA DE LUIZ GAMA PARA FERREIRA DE MENEZES }{227}
+\contentsline {chapter}{\chapternumberline {1}TRECHOS DE UMA CARTA\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), Noticiário, 01/12/1880, p. 1.}}{231}
+\contentsline {chapter}{\chapternumberline {2}TRECHOS DE UMA CARTA\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), 12/12/1880, p.3.}}{235}
+\contentsline {chapter}{\chapternumberline {3}CARTA AO DR. FERREIRA DE MENEZES\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), 16/12/1880. Também publicado em \emph {Gazeta do Povo} (SP), 14/12/1880; e \emph {A Província de S. Paulo} (SP), 18/12/1880.}}{239}
+\contentsline {chapter}{\chapternumberline {4}TRECHOS DE UMA CARTA\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), 28/12/1880.}}{247}
+\contentsline {chapter}{\chapternumberline {5}TRECHOS DE UMA CARTA\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), Noticiário, 01/01/1881, p. 1.}}{255}
+\contentsline {chapter}{\chapternumberline {6}CARTA AO DR. FERREIRA DE MENEZES\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), 04/01/1881.}}{261}
+\contentsline {chapter}{\chapternumberline {7}{[}CARTA AO DR. FERREIRA DE MENEZES{]}\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), Gazeta da Tarde {[}editorial{]}, 07/01/1881, p. 1.}}{271}
+\contentsline {chapter}{\chapternumberline {8}CARTA AO DR. FERREIRA DE MENEZES\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), 22/01/1881.}}{281}
+\contentsline {chapter}{\chapternumberline {9}{[}CARTA AO DR. FERREIRA DE MENEZES{]}\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), Gazeta da Tarde {[}editorial{]}, 23/01/1881.}}{291}
+\contentsline {chapter}{\chapternumberline {10}CARTA AO DR. FERREIRA DE MENEZES\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), 29/01/1881, pp. 2-3.}}{297}
+\contentsline {section}{À LUIZ GAMA}{300}
+\contentsline {chapter}{\chapternumberline {11}CARTA AO DR. FERREIRA DE MENEZES\FN@sf@gobble@opt {. In. \emph {Gazeta da Tarde} (RJ), 01/02/1881.}}{307}
+\contentsline {part}{\partnumberline {XI}A EMANCIPAÇÃO AO PÉ DA LETRA}{315}
+\contentsline {chapter}{\chapternumberline {1}EMANCIPAÇÃO {[}I{]}\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 01/12/1880, p. 2.}}{317}
+\contentsline {chapter}{\chapternumberline {2}{[}EMANCIPAÇÃO -- II{]} À REDAÇÃO DA "PROVÍNCIA"\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 04/12/1880, p. 1.}}{321}
+\contentsline {chapter}{\chapternumberline {3}EMANCIPAÇÃO {[}III{]}\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 15/12/1880, p. 1.}}{323}
+\contentsline {chapter}{\chapternumberline {4}A EMANCIPAÇÃO -- AO PÉ DA LETRA {[}IV{]}\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 18/12/1880, p. 2.}}{325}
+\contentsline {part}{\partnumberline {XII}A DEFESA DA CARTA A FERREIRA DE MENEZES}{329}
+\contentsline {chapter}{\chapternumberline {1}LIMEIRA -- AO SR. LUIZ GAMA\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 21/12/1880, p. 2.}}{331}
+\contentsline {chapter}{\chapternumberline {2}REPARAÇÃO DEVIDA\FN@sf@gobble@opt {. In. \emph {Gazeta do Povo} (SP), Publicações pedidas, Município da Limeira, 21/12/1880, p. 2.}}{333}
+\contentsline {chapter}{\chapternumberline {3}O EXMO. SR. COMENDADOR J. A. PAULA MACHADO\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, 12/01/1881, p. 2. A réplica do comendador Joaquim Antonio de Paula Machado se lê em \emph {A Província de S. Paulo} (SP), Seção Livre, 11/01/1881, p. 2.}}{335}
+\contentsline {chapter}{\chapternumberline {4}RETIFICAÇÃO NECESSÁRIA\FN@sf@gobble@opt {. In: \emph {Gazeta de S. Paulo} (SP), Ineditoriais, 14/01/1881, p. 3.}}{337}
+\contentsline {part}{\partnumberline {XIII}CRUELDADE NO QUARTEL}{339}
+\contentsline {chapter}{\chapternumberline {1}AO GOVERNO -- É GRAVE\FN@sf@gobble@opt {. In: \emph {Gazeta de S. Paulo} (SP), Ineditoriais, 15/01/1881, p. 3.}}{341}
+\contentsline {chapter}{\chapternumberline {2}AO GOVERNO -- É GRAVE {[}réplica{]}\FN@sf@gobble@opt {. In: \emph {Gazeta de S. Paulo} (SP), Ineditoriais, 16/01/1881, p. 3.}}{343}
+\contentsline {chapter}{\chapternumberline {3}AO GOVERNO -- É GRAVE {[}II{]}}{345}
+\contentsline {chapter}{\chapternumberline {4}AO HONRADO SR. DR. PRESIDENTE DA PROVÍNCIA\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 21/01/1881, p. 2.}}{347}
+\contentsline {chapter}{\chapternumberline {5}AOS PAULISTAS\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 21/01/1881, p. 2.}}{349}
+\contentsline {part}{\partnumberline {XIV}AGONIZA, MAS NÃO MORRE}{351}
+\contentsline {chapter}{\chapternumberline {1}MEU NOBRE AMIGO\FN@sf@gobble@opt {. In: \emph {Gazeta da Tarde} (RJ), Expediente, Luiz Gama, 21/07/1881, p. 2. A redação da \emph {Gazeta da Tarde} assim apresenta a carta de Gama: "A carta que esse ilustre democrata dirigiu à \emph {Gazeta do Povo}, de S. Paulo, recusando, como ontem noticiamos, o retrato a óleo que alguns amigos queriam mandar tirar para lhe oferecer, é a seguinte".}}{353}
+\contentsline {chapter}{\chapternumberline {2}{[}REPRESENTAÇÃO AO IMPERADOR D. PEDRO II{]}\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 10/09/1881, p. 2. O artigo foi republicado na edição seguinte da mesma \emph {Gazeta}.}}{355}
+\contentsline {chapter}{\chapternumberline {3}CARTA A JOSÉ MARIA LISBOA\FN@sf@gobble@opt {. In: Almanach Litterario de S. Paulo para o ano de 1881, s/d. "Uma carta".}}{361}
+\contentsline {chapter}{\chapternumberline {4}O DIGNO SR. DR. GUILHERME CAETANO DA SILVA\FN@sf@gobble@opt {. In: \emph {O Correio Paulistano} (SP), Seção Livre, 04/11/1881, p. 2. Guilherme Caetano da Silva, em 1877, foi juiz municipal e de órfãos de Jaboticabal. Cf. \emph {A Província de S. Paulo} (SP), Seção Livre, 15/12/1877, p. 2.}}{367}
+\contentsline {chapter}{\chapternumberline {5}ACAUTELEM-SE OS COMPRADORES\FN@sf@gobble@opt {. In: \emph {Gazeta do Povo} (SP), Publicações Pedidas, 25/11/1881, p. 3. A nota foi republicada diversas vezes em edições seguintes da mesma \emph {Gazeta}. Embora não tenha a assinatura de Gama ao final do breve texto, trata-se, muito provavelmente, de um escrito de sua autoria, não só pelo fato de anteriormente ter reclamado a legalidade do estado de liberdade de Benedicta, mas também em razão do acesso a informações detalhadas sobre as agruras pelas quais passava Benedicta, às portas da reescravização ilegal em município distante do que vivia.}}{369}
+\contentsline {chapter}{\chapternumberline {6}À FORCA O CRISTO DA MULTIDÃO\FN@sf@gobble@opt {. In: \emph {Tiradentes} (RJ), {[}editorial{]}, 21/04/1882, pp. 1-2.}}{371}
+\contentsline {chapter}{\chapternumberline {7}{[}CARTA A HYPPOLITO DE CARVALHO{]}\FN@sf@gobble@opt {. In: \emph {A Província de S. Paulo} (SP), Seção Livre, Casa Branca, 26/04/1881, p. 2.}}{377}
+\contentsline {chapter}{\chapternumberline {8}CARTA AO DR. CERQUEIRA CÉSAR\FN@sf@gobble@opt {. In: Coleção Emanuel Araújo (Acervo particular), 17/06/1882.}}{379}
+\contentsline {chapter}{\chapternumberline {9}{[}PETIÇÃO AO IMPERADOR D. PEDRO II{]}\FN@sf@gobble@opt {. In: \emph {Gazeta da Tarde} (RJ), {[}editorial{]}, Luiz Gama, 08/08/1882, p. 1. Os redatores da folha abolicionista, entre eles, José do Patrocínio, incluíram a seguinte apresentação da petição de Gama ao Imperador: "Luiz Gama {[}--{]} Deve estar a esta hora em mão do governo uma representação do grande chefe abolicionista, que é o símbolo da evangélica resignação no sacrifício em prol da causa, que, ferindo os interesses da preguiça nacional, se converte em martírio para os seus sustentadores.\\ A representação visa a liberdade de homens ilegalmente retidos na escravidão e nos dispensa de acrescentar-lhe comentários.\\ A singeleza da exposição dá ao leitor conhecimento do assunto e critério para o seu juízo.\\ Eis a representação". Optei em chamar de petição haja vista a força normativa da peça que, até onde se sabe, não possui capacidade de representação, uma vez que, constrangida pela ausência de meios, limita-se a implorar, pedir, suplicar.}}{381}
 \babel@toc {brazilian}{}
