@@ -10,10 +10,10 @@
 \contentsline {chapter}{\chapternumberline {4}Ao Exmo Sr. Conselheiro Presidente do Tribunal da Relação\FN@sf@gobble@opt {In: \emph {Gazeta de S. Paulo} (\textsc {sp}), Ineditoriais, 11/01/1881, p. 3.}}{51}
 \contentsline {part}{\partnumberline {III}A luta pelo direito}{55}
 \contentsline {part}{\partnumberline {IV}O túmulo da Constituição}{57}
-\contentsline {chapter}{\chapternumberline {1}A lei e os “cafetões”\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 21/01/1880, p. 2.}}{59}
+\contentsline {chapter}{\chapternumberline {1}A lei e os «cafetões»\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 21/01/1880, p. 2.}}{59}
 \contentsline {chapter}{\chapternumberline {2}O Exmo. Sr. Dr. Chefe de polícia\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 21/01/1880, p. 2.}}{61}
-\contentsline {chapter}{\chapternumberline {3}A deportação dos “cafetões”\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 23/01/1880, p. 2.}}{63}
-\contentsline {chapter}{\chapternumberline {4}{[}A deportação dos “cafetões” -- \textsc {ii}{]} \emph {Habeas-corpus }\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 31/01/1880, pp. 1--2.}}{77}
+\contentsline {chapter}{\chapternumberline {3}A deportação dos «cafetões»\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 23/01/1880, p. 2.}}{63}
+\contentsline {chapter}{\chapternumberline {4}{[}A deportação dos «cafetões» -- \textsc {ii}{]} \emph {Habeas-corpus }\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 31/01/1880, pp. 1--2.}}{77}
 \contentsline {part}{\partnumberline {V}A peleja do advogado contra o bacharel}{93}
 \contentsline {chapter}{\chapternumberline {1}Luiz Gama ao público\FN@sf@gobble@opt {In: \emph {Gazeta do Povo} (\textsc {sp}), Publicações Pedidas, 25/09/1880, p. 2.}}{95}
 \contentsline {chapter}{\chapternumberline {2}Luiz Gama ao público {[}réplica{]}\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 26/09/1880, p. 2.}}{97}
@@ -33,12 +33,12 @@
 \contentsline {chapter}{\chapternumberline {3}A colônia portuguesa em S. Paulo -- o seu a seu dono\FN@sf@gobble@opt {In: \emph {Gazeta do Povo} (\textsc {sp}), Publicações Pedidas, 21/05/1881, p. 2.}}{185}
 \contentsline {part}{\partnumberline {VIII}Uma estátua, um coveiro e um perito criminal}{189}
 \contentsline {chapter}{\chapternumberline {1}É de admirar\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 23/11/1880, p. 2.}}{191}
-\contentsline {chapter}{\chapternumberline {2}Despertador moral -- I\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 24/11/1880, p. 1.}}{193}
+\contentsline {chapter}{\chapternumberline {2}Despertador moral -- \textsc {i}\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 24/11/1880, p. 1.}}{193}
 \contentsline {chapter}{\chapternumberline {3}Despertador moral -- \textsc {ii}\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 25/11/1880, p. 1.}}{197}
 \contentsline {chapter}{\chapternumberline {4}Despertador moral -- \textsc {iii}\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 27/11/1880, p. 1.}}{201}
 \contentsline {chapter}{\chapternumberline {5}Despertador moral -- \textsc {iv}\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 01/12/1880, p. 1.}}{205}
 \contentsline {part}{\partnumberline {IX}Um crime puxa outro}{211}
-\contentsline {chapter}{\chapternumberline {1}Exemplo de piedade, I\FN@sf@gobble@opt {In: \emph {Gazeta de S. Paulo} (\textsc {sp}), Ineditoriais, 05/02/1881, p. 3. Embora sinalize que seja a primeira parte de uma série com o mesmo título, só localizei esse texto intitulado dessa forma. Por outro lado, pode-se ler os artigos \emph {Máscara caída} e \emph {Como se conta a história} como partes seguintes de \emph {Exemplo de Piedade, I}.}}{213}
+\contentsline {chapter}{\chapternumberline {1}Exemplo de piedade, \textsc {i}\FN@sf@gobble@opt {In: \emph {Gazeta de S. Paulo} (\textsc {sp}), Ineditoriais, 05/02/1881, p. 3. Embora sinalize que seja a primeira parte de uma série com o mesmo título, só localizei esse texto intitulado dessa forma. Por outro lado, pode-se ler os artigos \emph {Máscara caída} e \emph {Como se conta a história} como partes seguintes de \emph {Exemplo de Piedade, I}.}}{213}
 \contentsline {chapter}{\chapternumberline {2}{[}Réplica do misericordioso Almeida{]}\FN@sf@gobble@opt {In: \emph {Gazeta de S. Paulo} (\textsc {sp}), Ineditoriais, 06/02/1881, p. 3.}}{215}
 \contentsline {chapter}{\chapternumberline {3}Máscara caída\FN@sf@gobble@opt {In: \emph {Gazeta de S. Paulo} (\textsc {sp}), Ineditoriais, 06/02/1881, p. 3.}}{219}
 \contentsline {chapter}{\chapternumberline {4}Como se conta a história\FN@sf@gobble@opt {In: \emph {Gazeta de S. Paulo} (\textsc {sp}), Ineditoriais, 07/02/1881, p. 2. A marcação numeral abaixo sinaliza que o artigo seria replicado outras quinze vezes. Porém, não localizei mais nenhuma reprodução desse texto.}}{221}
