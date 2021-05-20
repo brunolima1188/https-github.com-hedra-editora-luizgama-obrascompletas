@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  19 MAY 2021 23:55
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  20 MAY 2021 11:05
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.084 seconds
+luaotfload | main : initialization completed in 0.115 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1519,7 +1519,7 @@ do-sou-tros.ics.ul.pt/?menu=con-sulta&id_par-
 
 ] [106] [107] [108] [109]
 [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
-Underfull \hbox (badness 1043) in paragraph at lines 3828--3828
+Underfull \hbox (badness 1043) in paragraph at lines 3829--3829
 []\TU/MinionPro(0)/m/n/9 . []In: \TU/MinionPro(0)/m/it/9 A Pro-vín-cia de S
 . Paulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/
 m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
@@ -1532,7 +1532,7 @@ m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
 ] [124] [125] [126] [127] [128
 
 ]
-Underfull \hbox (badness 1043) in paragraph at lines 4084--4084
+Underfull \hbox (badness 1043) in paragraph at lines 4085--4085
 []\TU/MinionPro(0)/m/n/9 . []In: \TU/MinionPro(0)/m/it/9 A Pro-vín-cia de S
 . Paulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/
 m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
@@ -1545,7 +1545,7 @@ m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
 Class memoir Warning: The material used in the headers is too large
 (40.8pt) for the given head height (14.22636pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 4616.
+(in both cases you will find help in the memoir manual). on input line 4617.
 
 
 Overfull \vbox (26.57364pt too high) has occurred while \output is active []
@@ -1557,7 +1557,7 @@ Overfull \vbox (26.57364pt too high) has occurred while \output is active []
 
 [143] [144]
 
-LaTeX Warning: Reference `feijo' on page 145 undefined on input line 4751.
+LaTeX Warning: Reference `feijo' on page 145 undefined on input line 4752.
 
 
 Overfull \vbox (26.57364pt too high) has occurred while \output is active []
@@ -1581,7 +1581,7 @@ Overfull \vbox (26.57364pt too high) has occurred while \output is active []
 
 [153] [154]
 
-LaTeX Warning: Reference `liberrimo' on page 155 undefined on input line 5153.
+LaTeX Warning: Reference `liberrimo' on page 155 undefined on input line 5154.
 
 
 Overfull \vbox (26.57364pt too high) has occurred while \output is active []
@@ -1610,7 +1610,7 @@ Overfull \vbox (26.57364pt too high) has occurred while \output is active []
 Class memoir Warning: The material used in the headers is too large
 (54.40001pt) for the given head height (14.22636pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 5743.
+(in both cases you will find help in the memoir manual). on input line 5744.
 
 
 Overfull \vbox (40.17365pt too high) has occurred while \output is active []
@@ -1643,7 +1643,7 @@ Overfull \vbox (40.17365pt too high) has occurred while \output is active []
 ] [202] [203] [204] [205
 
 ] [206]
-Underfull \hbox (badness 3108) in paragraph at lines 6555--6560
+Underfull \hbox (badness 3108) in paragraph at lines 6556--6561
 \TU/MinionPro(0)/m/n/10.95 o ca-dá-ver ex-ter-na-mente, e pres-cin-dindo da au
 -tóp-sia,
  []
@@ -1682,7 +1682,7 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
 [236]
-Overfull \hbox (58.89369pt too wide) in paragraph at lines 7227--7232
+Overfull \hbox (58.89369pt too wide) in paragraph at lines 7229--7234
 []\TU/MinionPro(0)/m/n/10.95 Escrevi-o a pro-pó-sito de umas as-se-ve-ra-çõe
 s do exmo.sr.desembargador
  []
@@ -1788,20 +1788,20 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
 [286]
-Underfull \hbox (badness 1237) in paragraph at lines 8893--8894
+Underfull \hbox (badness 1237) in paragraph at lines 8895--8896
 []\TU/MinionPro(0)/m/n/10.95 O dis-tinto hós-pede encarou-o cu-ri-oso, examino
 u-o
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 8929--8932
+Underfull \hbox (badness 1137) in paragraph at lines 8931--8934
 []\TU/MinionPro(0)/m/n/10.95 O ati-lado[] se-nhor des-co-briu, po-rém, um meio
  de
  []
 
 [287]
 
-LaTeX Warning: Reference `liberrimo' on page 288 undefined on input line 8940.
+LaTeX Warning: Reference `liberrimo' on page 288 undefined on input line 8942.
 
 
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
@@ -1993,7 +1993,7 @@ r.ttf></home/edlab/texmf/tex/fonts/Formular-Regular.otf></home/edlab/texmf/tex/f
 onts/Formular-Bold.otf></usr/share/texlive/texmf-dist/fonts/type1/arkandis/adfor
 n/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/la
 txfont/lcirclew.pfb>
-Output written on LIVRO.pdf (390 pages, 1237225 bytes).
+Output written on LIVRO.pdf (390 pages, 1237406 bytes).
 
 PDF statistics: 1298 PDF objects out of 1440 (max. 8388607)
  868 compressed objects within 9 object streams
