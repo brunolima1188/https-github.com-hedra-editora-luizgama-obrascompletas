@@ -3,7 +3,7 @@
 
 
 \input{1-fronte}       % [Frontistício]
-\input{4-volumes}
+\input{../4-volumes}
 \input{3-rosto}	       % [folha de rosto]
 \input{2-creditos}     % [Créditos]
 
@@ -24,8 +24,8 @@
 \ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
 \tableofcontents*
 
-%\input{MUSSUMIPSUM}
- \input{TEXTO.tex}
+\input{MUSSUMIPSUM}
+% \input{TEXTO.tex}
 
 % Indice remissivo (package: `\usepackage{makeidx}` e no início do arquivi `\makeindex`
 % \printindex

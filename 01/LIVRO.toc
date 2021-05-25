@@ -1,2 +1,0 @@
-\contentsline {chapter}{\chapternumberline {1}Primeiro Abre}{7}%
-\babel@toc {brazilian}{}

@@ -52,7 +52,7 @@
 % Fontes
 \newfontfamily\formular{Formular}
 \newfontfamily\formularlight{Formular Light}
-\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Minion Pro}
+\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Linux Libertine O}
 
 
 % Estilos
@@ -77,15 +77,6 @@
 			%\baselineskip=.7\baselineskip
 			\raggedright
 			\parindent0pt}{\par\medskip} 
-
-%Tirar indentação depois do resumo
-\makeatletter
-\newcommand*\NoIndentAfterEnv[1]{%
-  \AfterEndEnvironment{#1}{\par\@afterindentfalse\@afterheading}}
-\makeatother
-
-\NoIndentAfterEnv{resumo}
-
 
 \begin{document}
 
