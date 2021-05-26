@@ -1,4 +1,4 @@
-PWD /home/edlab/HEDRA/LATEX/luizgama-obrascompletas/07
+PWD /home/edlab/HEDRA/LATEX/luizgama-obrascompletas/08
 INPUT /var/lib/texmf/web2c/luatex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
@@ -251,8 +251,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
-INPUT ./TEXTO.tex
-INPUT ./TEXTO.tex
+INPUT ./TEXTO-08.tex
+INPUT ./TEXTO-08.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
