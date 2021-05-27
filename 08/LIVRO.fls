@@ -278,4 +278,5 @@ INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
 INPUT ./INPUTS.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
