@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  28 MAY 2021 19:42
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  28 MAY 2021 19:57
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.091 seconds
+luaotfload | main : initialization completed in 0.081 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1478,41 +1478,71 @@ Overfull \vbox (0.12799pt too high) has occurred while \output is active []
 ] [59] [60
 
 ] [61] [62] [63] [64] [65] [66]
-[67] [68] [69] [70] [71] [72] [73] [74]
+[67] [68] [69] [70] [71] [72] [73] [74] [75
 
-LaTeX Font Warning: Font shape `TU/Formular(0)/bx/sc' undefined
-(Font)              using `TU/Formular(0)/bx/n' instead on input line 2283.
+] [76]
 
-[75
+Class memoir Warning: The material used in the headers is too large
+(27.2pt) for the given head height (14.22636pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 2402.
 
-] [76] [77] [78] [79]
-Underfull \hbox (badness 2253) in paragraph at lines 2521--2521
+
+Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+
+
+[77] [78]
+Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+
+
+[79]
+Underfull \hbox (badness 2253) in paragraph at lines 2519--2519
 \TU/MinionPro(0)/m/n/9 ni-ca-bi-li-dade de pre-sos e vi-si-tas à pri-são. Par
 a o in-teiro teor do
  []
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 2521--2521
+Underfull \hbox (badness 1331) in paragraph at lines 2519--2519
 \TU/MinionPro(0)/m/n/9 al-vará, cf. <\TU/MinionPro(0)/m/it/9 http://go-ver-no-
 do-sou-tros.ics.ul.pt/?menu=con-sulta&id_par-
  []
 
-[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90
+[80]
+Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+
+
+[81] [82]
+Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+
+
+[83] [84]
+Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+
+
+[85] [86]
+Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+
+
+[87] [88]
+Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+
+
+[89] [90
 
 ] [91] [92] [93
 
-] [94]
-[95
+] [94] [95
 
 ] [96
 
 ] [97] [98] [99] [100
 
-] [101] [102] [103
+] [101] [102]
+[103
 
-] [104] [105] [106] [107]
-[108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118]
-Underfull \hbox (badness 1043) in paragraph at lines 3752--3752
+] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
+[115] [116] [117] [118]
+Underfull \hbox (badness 1043) in paragraph at lines 3750--3750
 []\TU/MinionPro(0)/m/n/9 . []In: \TU/MinionPro(0)/m/it/9 A Pro-vín-cia de S
 . Paulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/
 m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
@@ -1525,7 +1555,7 @@ m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
 ] [122] [123] [124] [125] [126
 
 ]
-Underfull \hbox (badness 1043) in paragraph at lines 4008--4008
+Underfull \hbox (badness 1043) in paragraph at lines 4006--4006
 []\TU/MinionPro(0)/m/n/9 . []In: \TU/MinionPro(0)/m/it/9 A Pro-vín-cia de S
 . Paulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/
 m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
@@ -1547,7 +1577,7 @@ m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
 Class memoir Warning: The material used in the headers is too large
 (68.00002pt) for the given head height (14.22636pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 5667.
+(in both cases you will find help in the memoir manual). on input line 5665.
 
 
 Overfull \vbox (53.77365pt too high) has occurred while \output is active []
@@ -1572,15 +1602,20 @@ Overfull \vbox (53.77365pt too high) has occurred while \output is active []
 
 ] [190
 
-] [191] [192] [193] [194
+]
 
-] [195] [196]
-[197] [198] [199
+LaTeX Font Warning: Font shape `TU/Formular(0)/bx/sc' undefined
+(Font)              using `TU/Formular(0)/bx/n' instead on input line 6047.
 
-] [200] [201] [202] [203
+[191] [192] [193] [194
+
+] [195] [196] [197] [198] [199
+
+] [200] [201] [202]
+[203
 
 ] [204]
-Underfull \hbox (badness 3108) in paragraph at lines 6479--6484
+Underfull \hbox (badness 3108) in paragraph at lines 6477--6482
 \TU/MinionPro(0)/m/n/10.95 o ca-dá-ver ex-ter-na-mente, e pres-cin-dindo da au
 -tóp-sia,
  []
@@ -1623,7 +1658,7 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
 [234]
-Overfull \hbox (58.89369pt too wide) in paragraph at lines 7150--7155
+Overfull \hbox (58.89369pt too wide) in paragraph at lines 7148--7153
 []\TU/MinionPro(0)/m/n/10.95 Escrevi-o a pro-pó-sito de umas as-se-ve-ra-çõe
 s do exmo.sr.desembargador
  []
@@ -1649,7 +1684,7 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
 [244]
-Overfull \hbox (7.62273pt too wide) in paragraph at lines 7488--7498
+Overfull \hbox (7.62273pt too wide) in paragraph at lines 7486--7496
 []\TU/MinionPro(0)/m/n/10.95 O ne-gro, disse o meu es-ti-má-vel amigo, o exmo.
 sr.dr.Belfort
  []
@@ -1662,13 +1697,9 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[248] [249]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+[248] [249] [250
 
-
-[250] [251
-
-]
+] [251]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
@@ -1731,7 +1762,7 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
 [280] [281]
-Overfull \hbox (27.096pt too wide) in paragraph at lines 8788--8794
+Overfull \hbox (27.096pt too wide) in paragraph at lines 8786--8792
 \TU/MinionPro(0)/m/n/10.95 em o ano de … achava-se hos-pe-dado o exm
 o.desembargador…,
  []
@@ -1741,13 +1772,13 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
 [282]
-Underfull \hbox (badness 1237) in paragraph at lines 8808--8809
+Underfull \hbox (badness 1237) in paragraph at lines 8806--8807
 []\TU/MinionPro(0)/m/n/10.95 O dis-tinto hós-pede encarou-o cu-ri-oso, examino
 u-o
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 8844--8847
+Underfull \hbox (badness 1137) in paragraph at lines 8842--8845
 []\TU/MinionPro(0)/m/n/10.95 O ati-lado[] se-nhor des-co-briu, po-rém, um meio
  de
  []
@@ -1841,7 +1872,7 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 ] [340] [341
 
 ] [342]
-Underfull \hbox (badness 1960) in paragraph at lines 10515--10524
+Underfull \hbox (badness 1960) in paragraph at lines 10513--10522
 \TU/MinionPro(0)/m/n/10.95 de-ver de hu-ma-ni-dade, in-formo e afirmo ao hon-ra
 do
  []
@@ -1925,30 +1956,29 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 20231 strings out of 494480
+ 20221 strings out of 494480
  195334,794899 words of node,token memory allocated
  10727 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 875 glue, 877 attribute, 190 glue_spec, 877 attribu
 te_list, 3 shape, 3 write nodes
-   avail lists: 1:5,2:1285,3:237,4:128,5:5263,6:12808,7:5366,8:67,9:370,10:28,11
+   avail lists: 1:4,2:1285,3:237,4:128,5:5264,6:12807,7:5366,8:67,9:370,10:28,11
 :1549
- 23457 multiletter control sequences out of 65536+600000
- 106 fonts using 20282239 bytes
+ 23453 multiletter control sequences out of 65536+600000
+ 104 fonts using 19886703 bytes
  49i,14n,83p,1503b,609s stack positions out of 5000i,500n,10000p,200000b,100000s
-</home/edlab/texmf/tex/fonts/Formular-BoldItalic.otf>{/usr/share/texlive/texmf-d
-ist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/edlab/texmf/tex/fonts/Formula
-r-Light.otf></home/edlab/texmf/tex/fonts/MinionPro-It.ttf></home/edlab/texmf/tex
-/fonts/Minion Pro Bold.ttf></home/edlab/texmf/tex/fonts/times.ttf></home/edlab/t
-exmf/tex/fonts/Formular-Italic.otf></home/edlab/texmf/tex/fonts/MinionPro-Regula
-r.ttf></home/edlab/texmf/tex/fonts/Formular-Regular.otf></home/edlab/texmf/tex/f
-onts/Formular-Bold.otf></usr/share/texlive/texmf-dist/fonts/type1/arkandis/adfor
-n/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/
-lcirclew.pfb>
-Output written on LIVRO.pdf (386 pages, 1238237 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
+lab/texmf/tex/fonts/Formular-Light.otf></home/edlab/texmf/tex/fonts/MinionPro-It
+.ttf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></home/edlab/texmf/tex/fon
+ts/times.ttf></home/edlab/texmf/tex/fonts/Formular-Italic.otf></home/edlab/texmf
+/tex/fonts/MinionPro-Regular.ttf></home/edlab/texmf/tex/fonts/Formular-Regular.o
+tf></home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist
+/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (386 pages, 1235236 bytes).
 
-PDF statistics: 1290 PDF objects out of 1440 (max. 8388607)
- 863 compressed objects within 9 object streams
+PDF statistics: 1283 PDF objects out of 1440 (max. 8388607)
+ 859 compressed objects within 9 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

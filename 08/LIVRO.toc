@@ -28,7 +28,7 @@
 \contentsline {paragraph}{Nota do organizador}{59}
 \contentsline {chapter}{\chapternumberline {3}A deportação dos «cafetões»\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 23/01/1880, p. 2.}}{61}
 \contentsline {paragraph}{Nota do organizador}{61}
-\contentsline {chapter}{\chapternumberline {4}{[}A deportação dos «cafetões» -- \textsc {ii}{]} \emph {Habeas-corpus }\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 31/01/1880, pp. 1--2.}}{75}
+\contentsline {chapter}{\chapternumberline {4}A deportação dos «cafetões» II\textnormal {\penalty -\@M \formular \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \itshape Habeas-corpus\FN@sf@gobble@opt {In: \emph {A Província de S. Paulo} (\textsc {sp}), Seção Livre, 31/01/1880, pp. 1--2.}}}{75}
 \contentsline {paragraph}{Nota do organizador}{75}
 \contentsline {part}{\partnumberline {V}A peleja do advogado contra o bacharel}{91}
 \contentsline {paragraph}{Introdução}{92}
