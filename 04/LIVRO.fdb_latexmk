@@ -1,7 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1621982922 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1621982922
+["pdflatex"] 1622169906 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1622170263
   "../4-volumes.tex" 1621386768 354 2d44e489ec0cb16ebc314a9710319710 ""
-  "../ABREV.tex" 1621386768 0 d41d8cd98f00b204e9800998ecf8427e ""
   "../edlab-extra.sty" 1621391320 2691 333060c4166b847058e89e3713daf0e5 ""
   "../edlab-footnotes.sty" 1621386768 1536 30a6e592765163a1106ca60b125cb50b ""
   "../edlab-margins.sty" 1621386768 3308 7058e677d9bda5bceeaf867e96ed7529 ""
@@ -13,7 +12,6 @@
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-italic.luc" 1597169362 151334 87ff4031cce76331681a4f1c91bc9148 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-light.luc" 1576608809 152684 5cbc594f812d3faf720a15c1d00d440a ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-regular.luc" 1576263835 149463 e12497a567e4f29912ecc4660f60c6b7 ""
-  "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-italic.luc" 1621982382 88417 2606bd9e2c0eb819eeae9cdbc8a39ea8 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc" 1572111487 87316 3eadc98ad3c2bee42ffeae818649b211 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1576610458 135999 28ebd27e0aa857be60d0ca449491abb0 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1576610458 136730 22f707aea910215fa4f45f15549c735d ""
@@ -164,14 +162,15 @@
   "1-fronte.tex" 1621386768 1116 6f98016e1646c42d9864f621a8872517 ""
   "2-creditos.tex" 1621386768 1465 c1742763e3ef375bce88072ee7d7ca07 ""
   "3-rosto.tex" 1621386768 1423 05f07b9408f739a34abcd9a7e6f7149f ""
-  "INPUTS.tex" 1621982816 1346 184467b33ac92913ea4f0590e54c43d4 ""
-  "LIVRO.aux" 1621982922 8 a94a2480d3289e625eea47cd1b285758 ""
-  "LIVRO.tex" 1621386768 3003 b973b7da6907f99ef71f216d26e3fc04 ""
+  "INPUTS.aux" 1622170093 7245 8114a61bf478c0a1cfbc13fff38dbe14 ""
+  "INPUTS.tex" 1622154345 1347 aa0381b22c5e518791b0a5ede910481a ""
+  "LIVRO.aux" 1622170093 110 687c49fb979c320dd646849c97a79415 ""
+  "LIVRO.tex" 1622159702 3003 b973b7da6907f99ef71f216d26e3fc04 ""
   "LIVRO.toc" 0 -1 0 ""
-  "TEXTO-04.tex" 1621386768 718870 f82ebd84bf1d54725a4e88362624cdf4 ""
-  "edlab-git.sty" 1621982922 35 45bfe5d36b69971832f64859311f3d52 ""
+  "TEXTO-04.tex" 1622160178 720520 8f602f9d34cd20cc0d31d59e08932587 ""
+  "edlab-git.sty" 1622170263 35 c2b7ee709b7536beea9c8ab41e93871c ""
   (generated)
+  "LIVRO.aux"
   "LIVRO.log"
   "INPUTS.aux"
   "LIVRO.pdf"
-  "LIVRO.aux"

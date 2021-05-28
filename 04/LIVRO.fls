@@ -201,6 +201,8 @@ INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/minion-p
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/minionpro-it.luc
 INPUT ./LIVRO.aux
 INPUT ./LIVRO.aux
+INPUT ./INPUTS.aux
+INPUT ./INPUTS.aux
 OUTPUT LIVRO.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -249,8 +251,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
-INPUT ../ABREV.tex
-INPUT ../ABREV.tex
 INPUT ./TEXTO-04.tex
 INPUT ./TEXTO-04.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
@@ -266,6 +266,5 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-italic.luc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
