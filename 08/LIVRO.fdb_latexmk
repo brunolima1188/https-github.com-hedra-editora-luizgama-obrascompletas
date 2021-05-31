@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1622473244 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1622473251
+["pdflatex"] 1622474195 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1622474203
   "../4-volumes.tex" 1621386768 354 2d44e489ec0cb16ebc314a9710319710 ""
   "../edlab-extra.sty" 1622389111 2691 65d10364c00f6bfbfa4f8acfd42a9367 ""
   "../edlab-footnotes.sty" 1621386768 1536 30a6e592765163a1106ca60b125cb50b ""
@@ -163,18 +163,18 @@
   "1-fronte.tex" 1621983374 1114 c89ab640aebd9d69026af5bc1c67bed6 ""
   "2-creditos.tex" 1621386768 1465 c1742763e3ef375bce88072ee7d7ca07 ""
   "3-rosto.tex" 1621386768 1426 a6dd2480ee5a4b59ac3314445a2181b7 ""
-  "INPUTS.aux" 1622473251 35063 151853fdf8d95bf0e9078b722584896c ""
+  "INPUTS.aux" 1622474203 35063 151853fdf8d95bf0e9078b722584896c ""
   "INPUTS.tex" 1621991101 1020 5c7d9e7b60451f137c14dc9a4bfda742 ""
-  "LIVRO.aux" 1622473251 171 c5068d1eea82ca069525510b9ccabee4 ""
+  "LIVRO.aux" 1622474203 171 c5068d1eea82ca069525510b9ccabee4 ""
   "LIVRO.tex" 1622467882 3625 d527051616cc5c160766607d8a08a9c7 ""
-  "LIVRO.toc" 1622473251 19776 bda6eb21258f07b3dc779d4140589bc1 ""
-  "TEXTO-08.tex" 1622473235 601340 d70838ed003a15b79cc2baab71ad4aab ""
+  "LIVRO.toc" 1622474203 19776 bda6eb21258f07b3dc779d4140589bc1 ""
+  "TEXTO-08.tex" 1622474184 601040 34c23cbe1ee7a8f66fd74eabfed1b72d ""
   "Y-publicidade.tex" 1621386768 10724 fdd2af80176bc26c98c7f68bde1b8223 ""
   "Z-colofon.tex" 1621386768 1030 b226f4af6866a20988bd33e21cb51667 ""
-  "edlab-git.sty" 1622473237 35 c1e79c78f9d56faad769dcc83b08b257 ""
+  "edlab-git.sty" 1622474195 35 fb37651b3bb36fcd9eca48a2bcc86da1 ""
   (generated)
-  "INPUTS.aux"
-  "LIVRO.pdf"
-  "LIVRO.log"
   "LIVRO.toc"
   "LIVRO.aux"
+  "LIVRO.pdf"
+  "INPUTS.aux"
+  "LIVRO.log"
