@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  28 MAY 2021 19:57
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  30 MAY 2021 22:45
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1205,20 +1205,20 @@ LaTeX Info: Redefining \rmfamily on input line 55.
  (./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1226,60 +1226,60 @@ LaTeX Font Info:    ... okay on input line 93.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 93.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 93.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 93.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 93.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 93.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 93.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 93.
-LaTeX Font Info:    Redeclaring math accent \check on input line 93.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 93.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 93.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 93.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 93.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 93.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 92.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 92.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 92.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 92.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 92.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 92.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 92.
+LaTeX Font Info:    Redeclaring math accent \check on input line 92.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 92.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 92.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 92.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 92.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 93.
+(Font)              `operators' in the math version `normal' on input line 92.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 93.
+(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 92.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 93.
+(Font)              `operators' in the math version `bold' on input line 92.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 93.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 92.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/m/n on input lin
-e 93.
+e 92.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 93.
+(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 92.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/bx/n on input line 93.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/bx/n on input line 92.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 93.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 92.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 93.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 92.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/bx/n on input li
-ne 93.
+ne 92.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/bx/it on input line 93
+(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/bx/it on input line 92
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 93.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 92.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 93.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 92.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1337,7 +1337,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-LaTeX Info: Redefining \microtypecontext on input line 93.
+LaTeX Info: Redefining \microtypecontext on input line 92.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1429,11 +1429,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 387.
+(Font)              <10.95> on input line 390.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 387.
+(Font)              <8> on input line 390.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 387.
+(Font)              <6> on input line 390.
  [13]
 [14] [15] [16] [17] [18] [19]
 Overfull \vbox (0.15001pt too high) has occurred while \output is active []
@@ -1443,11 +1443,11 @@ Overfull \vbox (0.15001pt too high) has occurred while \output is active []
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 783.
+(Font)              <9> on input line 786.
  [25] [26] [27] [28
 
 ] [29]
-Overfull \hbox (1.05338pt too wide) in paragraph at lines 911--916
+Overfull \hbox (1.05338pt too wide) in paragraph at lines 914--919
 \TU/MinionPro(0)/m/n/10.95 Nas-ceu Luiz Gon-zaga Pinto da Gama na ci-dade de S.
 Salvador
  []
@@ -1480,72 +1480,37 @@ Overfull \vbox (0.12799pt too high) has occurred while \output is active []
 ] [61] [62] [63] [64] [65] [66]
 [67] [68] [69] [70] [71] [72] [73] [74] [75
 
-] [76]
-
-Class memoir Warning: The material used in the headers is too large
-(27.2pt) for the given head height (14.22636pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 2402.
-
-
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[77] [78]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[79]
-Underfull \hbox (badness 2253) in paragraph at lines 2519--2519
+] [76] [77] [78] [79]
+Underfull \hbox (badness 2253) in paragraph at lines 2516--2516
 \TU/MinionPro(0)/m/n/9 ni-ca-bi-li-dade de pre-sos e vi-si-tas à pri-são. Par
 a o in-teiro teor do
  []
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 2519--2519
+Underfull \hbox (badness 1331) in paragraph at lines 2516--2516
 \TU/MinionPro(0)/m/n/9 al-vará, cf. <\TU/MinionPro(0)/m/it/9 http://go-ver-no-
 do-sou-tros.ics.ul.pt/?menu=con-sulta&id_par-
  []
 
-[80]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[81] [82]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[83] [84]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[85] [86]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[87] [88]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[89] [90
+[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90
 
 ] [91] [92] [93
 
-] [94] [95
+] [94
 
-] [96
+]
+[95] [96
 
 ] [97] [98] [99] [100
 
-] [101] [102]
-[103
+] [101] [102] [103
 
-] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
-[115] [116] [117] [118]
-Underfull \hbox (badness 1043) in paragraph at lines 3750--3750
-[]\TU/MinionPro(0)/m/n/9 . []In: \TU/MinionPro(0)/m/it/9 A Pro-vín-cia de S
-. Paulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/
-m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
+] [104] [105] [106] [107]
+[108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118]
+Underfull \hbox (badness 1448) in paragraph at lines 3744--3744
+[]\TU/MinionPro(0)/m/n/9 . []In: \TU/MinionPro(0)/m/it/9 A Pro-vín-cia []de
+ S.Paulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)
+/m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
  []
 
 [119
@@ -1555,10 +1520,10 @@ m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
 ] [122] [123] [124] [125] [126
 
 ]
-Underfull \hbox (badness 1043) in paragraph at lines 4006--4006
+Underfull \hbox (badness 1448) in paragraph at lines 3996--3996
 []\TU/MinionPro(0)/m/n/9 . []In: \TU/MinionPro(0)/m/it/9 A Pro-vín-cia de S
-. Paulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/
-m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
+.Paulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/m
+/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
  []
 
 [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137
@@ -1572,31 +1537,22 @@ m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
 
 ] [168
 
-] [169] [170]
-
-Class memoir Warning: The material used in the headers is too large
-(68.00002pt) for the given head height (14.22636pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 5665.
-
-
-Overfull \vbox (53.77365pt too high) has occurred while \output is active []
-
-
-[171] [172]
-Overfull \vbox (53.77365pt too high) has occurred while \output is active []
-
-
-[173] [174] [175
+] [169] [170] [171] [172] [173] [174]
+[175
 
 ] [176] [177
 
 ] [178] [179] [180
 
-] [181] [182
+]
+Overfull \hbox (4.65257pt too wide) in paragraph at lines 5885--5890
+[]\TU/MinionPro(0)/m/n/10 Digne-se V.S. responder-me ao pé desta o se-guinte, 
+autorizando-
+ []
 
-] [183] [184]
-[185] [186
+[181] [182
+
+] [183] [184] [185] [186
 
 ] [187] [188] [189
 
@@ -1605,7 +1561,7 @@ Overfull \vbox (53.77365pt too high) has occurred while \output is active []
 ]
 
 LaTeX Font Warning: Font shape `TU/Formular(0)/bx/sc' undefined
-(Font)              using `TU/Formular(0)/bx/n' instead on input line 6047.
+(Font)              using `TU/Formular(0)/bx/n' instead on input line 6041.
 
 [191] [192] [193] [194
 
@@ -1615,7 +1571,7 @@ LaTeX Font Warning: Font shape `TU/Formular(0)/bx/sc' undefined
 [203
 
 ] [204]
-Underfull \hbox (badness 3108) in paragraph at lines 6477--6482
+Underfull \hbox (badness 3108) in paragraph at lines 6470--6475
 \TU/MinionPro(0)/m/n/10.95 o ca-dá-ver ex-ter-na-mente, e pres-cin-dindo da au
 -tóp-sia,
  []
@@ -1624,48 +1580,46 @@ Underfull \hbox (badness 3108) in paragraph at lines 6477--6482
 
 ] [209] [210] [211
 
-] [212
-
-] [213] [214] [215] [216
-
 ]
-[217] [218] [219
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6611.
+ [212] [213] [214] [215
 
-] [220
+] [216]
+[217
 
-] [221] [222
+] [218
 
-] [223] [224] [225
+] [219] [220] [221] [222
 
-] [226]
+] [223] [224] [225] [226
+
+] [227]
+
+Class memoir Warning: The material used in the headers is too large
+(27.2pt) for the given head height (14.22636pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 7015.
+
+
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[227]
+[228] [229] [230
+
+] [231]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[228] [229
+[232]
+Inserting `luaotfload.letterspace' at position 2 in `pre_linebreak_filter'.
+Inserting `luaotfload.letterspace' at position 2 in `hpack_filter'. [233] [234
 
-]
+] [235]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[230] [231] [232
-
-] [233]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[234]
-Overfull \hbox (58.89369pt too wide) in paragraph at lines 7148--7153
-[]\TU/MinionPro(0)/m/n/10.95 Escrevi-o a pro-pó-sito de umas as-se-ve-ra-çõe
-s do exmo.sr.desembargador
- []
-
-[235] [236
-
-] [237]
+[236] [237]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
@@ -1673,43 +1627,37 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[240] [241]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[242] [243
+[240] [241
 
 ]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[244]
-Overfull \hbox (7.62273pt too wide) in paragraph at lines 7486--7496
-[]\TU/MinionPro(0)/m/n/10.95 O ne-gro, disse o meu es-ti-má-vel amigo, o exmo.
-sr.dr.Belfort
- []
-
-[245]
+[242] [243]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[246] [247]
+[244] [245]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[248] [249] [250
+[246] [247] [248
 
-] [251]
+] [249]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[252] [253]
+[250] [251]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[254] [255] [256
+[252] [253] [254
 
-] [257]
+] [255]
+Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+
+
+[256] [257]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
@@ -1721,17 +1669,13 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[262] [263]
+[262] [263] [264
+
+] [265]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[264] [265]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[266] [267
-
-]
+[266] [267]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
@@ -1743,67 +1687,61 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[272] [273]
+[272] [273] [274
+
+] [275]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[274] [275]
+[276] [277]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[276] [277
+[278]
+Overfull \vbox (0.31416pt too high) has occurred while \output is active []
 
-]
+
+[279]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[278] [279]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[280] [281]
-Overfull \hbox (27.096pt too wide) in paragraph at lines 8786--8792
-\TU/MinionPro(0)/m/n/10.95 em o ano de … achava-se hos-pe-dado o exm
-o.desembargador…,
- []
-
-
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[282]
-Underfull \hbox (badness 1237) in paragraph at lines 8806--8807
+[280]
+Underfull \hbox (badness 1237) in paragraph at lines 8766--8767
 []\TU/MinionPro(0)/m/n/10.95 O dis-tinto hós-pede encarou-o cu-ri-oso, examino
 u-o
  []
 
-
-Underfull \hbox (badness 1137) in paragraph at lines 8842--8845
+[281]
+Underfull \hbox (badness 1137) in paragraph at lines 8803--8806
 []\TU/MinionPro(0)/m/n/10.95 O ati-lado[] se-nhor des-co-briu, po-rém, um meio
  de
  []
 
-[283]
+
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[284] [285]
+[282] [283]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[286] [287
+[284] [285
 
 ]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[288] [289]
+[286] [287]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[290] [291] [292
+[288] [289] [290
 
-] [293]
+] [291]
+Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+
+
+[292] [293]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
@@ -1815,17 +1753,13 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[298] [299]
+[298] [299] [300
+
+] [301]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[300] [301]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
-
-
-[302] [303
-
-]
+[302] [303]
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
@@ -1833,83 +1767,71 @@ Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 Overfull \vbox (12.97363pt too high) has occurred while \output is active []
 
 
-[306] [307]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+[306] [307] [308
 
+] [309] [310] [311
 
-[308] [309]
-Overfull \vbox (12.97363pt too high) has occurred while \output is active []
+] [312] [313] [314
 
+] [315] [316
 
-[310] [311
+] [317]
+[318
 
-] [312] [313
+] [319] [320] [321] [322] [323
 
-] [314] [315] [316
+] [324] [325
 
-] [317] [318
+] [326] [327] [328
 
-] [319] [320
+] [329]
+[330
 
-] [321]
-[322] [323] [324] [325
+] [331] [332] [333
 
-] [326] [327
+] [334] [335
 
-] [328] [329
+] [336] [337] [338
 
-] [330] [331
-
-] [332
-
-] [333]
-[334] [335
-
-] [336] [337
-
-] [338] [339
-
-] [340] [341
-
-] [342]
-Underfull \hbox (badness 1960) in paragraph at lines 10513--10522
+] [339] [340]
+Underfull \hbox (badness 1960) in paragraph at lines 10418--10427
 \TU/MinionPro(0)/m/n/10.95 de-ver de hu-ma-ni-dade, in-formo e afirmo ao hon-ra
 do
  []
 
-[343
+[341
 
-] [344
+] [342
 
-] [345] [346
+] [343] [344
 
-] [347] [348] [349
+] [345] [346] [347
 
-] [350] [351
+] [348] [349
 
-] [352] [353] [354]
-[355] [356] [357
+] [350] [351] [352]
+[353] [354] [355
 
-] [358] [359] [360] [361] [362] [363
+] [356] [357] [358] [359] [360] [361
 
-] [364
+] [362
 
-] [365] [366
+] [363] [364
 
 ]
-[367] [368] [369] [370] [371] [372
+[365] [366] [367] [368] [369] [370
 
-] [373] [374] [375
+] [371] [372] [373
 
-] [376] [377
+] [374] [375
 
-] [378])
-(./Y-publicidade.tex [379] [380]
+] [376])
+(./Y-publicidade.tex [377] [378]
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
 
-[381] [382] [383]) [384] (./Z-colofon.tex [385]
+[379] [380] [381]) [382] (./Z-colofon.tex [383]
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
@@ -1919,7 +1841,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-)) [386]
+)) [384]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1942,9 +1864,9 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 
 
 Class memoir Warning: The material used in the headers is too large
-(68.00002pt) for the given head height (14.22636pt), it is recommended to
+(27.2pt) for the given head height (14.22636pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 101.
+(in both cases you will find help in the memoir manual). on input line 100.
 
 \tf@toc=\write5
 
@@ -1956,16 +1878,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 20221 strings out of 494480
+ 20259 strings out of 494480
  195334,794899 words of node,token memory allocated
- 10727 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 875 glue, 877 attribute, 190 glue_spec, 877 attribu
-te_list, 3 shape, 3 write nodes
-   avail lists: 1:4,2:1285,3:237,4:128,5:5264,6:12807,7:5366,8:67,9:370,10:28,11
+ 11470 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 873 glue, 126 glyph, 876 attribute, 191 glue_spec, 
+876 attribute_list, 3 shape, 3 write nodes
+   avail lists: 1:6,2:1285,3:237,4:128,5:5263,6:12681,7:5368,8:67,9:370,10:28,11
 :1549
- 23453 multiletter control sequences out of 65536+600000
- 104 fonts using 19886703 bytes
- 49i,14n,83p,1503b,609s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 23484 multiletter control sequences out of 65536+600000
+ 108 fonts using 20343175 bytes
+ 47i,14n,83p,1504b,733s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/Formular-Light.otf></home/edlab/texmf/tex/fonts/MinionPro-It
 .ttf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></home/edlab/texmf/tex/fon
@@ -1975,10 +1897,10 @@ tf></home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist
 /fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (386 pages, 1235236 bytes).
+Output written on LIVRO.pdf (384 pages, 1220130 bytes).
 
-PDF statistics: 1283 PDF objects out of 1440 (max. 8388607)
- 859 compressed objects within 9 object streams
+PDF statistics: 1277 PDF objects out of 1440 (max. 8388607)
+ 855 compressed objects within 9 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
