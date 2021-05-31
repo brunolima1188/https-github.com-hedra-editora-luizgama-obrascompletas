@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  31 MAY 2021 12:16
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  31 MAY 2021 17:38
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.094 seconds
+luaotfload | main : initialization completed in 0.088 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1030,7 +1030,13 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthfirst=\dimen272
 )
 (./edlab-git.sty) (../edlab-penalties.sty) (../edlab-toc.sty)
-(../edlab-extra.sty) (../edlab-margins.sty
+(../edlab-extra.sty
+\LIVRO@idxfile=\write5
+
+\openout5 = LIVRO.idx
+
+Writing index file LIVRO.idx 
+) (../edlab-margins.sty
 
 Class memoir Warning: \marginparsep is zero or negative on input line 151.
 
@@ -1205,20 +1211,20 @@ LaTeX Info: Redefining \rmfamily on input line 55.
  (./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1226,60 +1232,60 @@ LaTeX Font Info:    ... okay on input line 96.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 96.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 96.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 96.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 96.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 96.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 96.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 96.
-LaTeX Font Info:    Redeclaring math accent \check on input line 96.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 96.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 96.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 96.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 96.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 96.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 97.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 97.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 97.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 97.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 97.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 97.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 97.
+LaTeX Font Info:    Redeclaring math accent \check on input line 97.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 97.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 97.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 97.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 97.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 96.
+(Font)              `operators' in the math version `normal' on input line 97.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 96.
+(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 97.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 96.
+(Font)              `operators' in the math version `bold' on input line 97.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 96.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 97.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/m/n on input lin
-e 96.
+e 97.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 96.
+(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 97.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/bx/n on input line 96.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/bx/n on input line 97.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 96.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 97.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 96.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 97.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/bx/n on input li
-ne 96.
+ne 97.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/bx/it on input line 96
+(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/bx/it on input line 97
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 96.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 97.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 96.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 97.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1337,7 +1343,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-LaTeX Info: Redefining \microtypecontext on input line 96.
+LaTeX Info: Redefining \microtypecontext on input line 97.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1416,9 +1422,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-) [4] (./LIVRO.toc [5] [6] [7]) (./TEXTO-08.tex [8] [9
+) [4] (./LIVRO.toc [5] [6]) (./TEXTO-08.tex [7] [8
 
-] [10]
+] [9] [10]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FormularLight' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1439,12 +1445,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 786.
+(Font)              <9> on input line 789.
  [25] [26] [27] [28
 
 ]
 [29]
-Overfull \hbox (1.05338pt too wide) in paragraph at lines 914--919
+Overfull \hbox (1.05338pt too wide) in paragraph at lines 917--922
 \TU/MinionPro(0)/m/n/10.95 Nas-ceu Luiz Gon-zaga Pinto da Gama na ci-dade de S.
 Salvador
  []
@@ -1478,13 +1484,13 @@ Overfull \vbox (0.12799pt too high) has occurred while \output is active []
 [67] [68] [69] [70] [71] [72] [73] [74] [75
 
 ] [76] [77] [78] [79] [80]
-Underfull \hbox (badness 2253) in paragraph at lines 2511--2511
+Underfull \hbox (badness 2253) in paragraph at lines 2520--2520
 \TU/MinionPro(0)/m/n/9 ni-ca-bi-li-dade de pre-sos e vi-si-tas à pri-são. Par
 a o in-teiro teor do
  []
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 2511--2511
+Underfull \hbox (badness 1331) in paragraph at lines 2520--2520
 \TU/MinionPro(0)/m/n/9 al-vará, cf. <\TU/MinionPro(0)/m/it/9 http://go-ver-no-
 do-sou-tros.ics.ul.pt/?menu=con-sulta&id_par-
  []
@@ -1493,7 +1499,7 @@ do-sou-tros.ics.ul.pt/?menu=con-sulta&id_par-
 
 ] [91] [92]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 2951.
+(Font)              <12> on input line 2960.
  [93
 
 ] [94] [95
@@ -1505,7 +1511,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [102] [103] [104] [105] [106] [107] [108]
 [109] [110] [111] [112] [113] [114] [115] [116]
-Underfull \hbox (badness 1448) in paragraph at lines 3738--3738
+Underfull \hbox (badness 1448) in paragraph at lines 3748--3748
 []\TU/MinionPro(0)/m/n/9 . []In: \TU/MinionPro(0)/m/it/9 A Pro-vín-cia []de
  S.Paulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)
 /m/n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
@@ -1518,7 +1524,7 @@ Underfull \hbox (badness 1448) in paragraph at lines 3738--3738
 ] [120] [121] [122] [123] [124
 
 ]
-Underfull \hbox (badness 1448) in paragraph at lines 3991--3991
+Underfull \hbox (badness 1448) in paragraph at lines 4002--4002
 []\TU/MinionPro(0)/m/n/9 . []In: \TU/MinionPro(0)/m/it/9 A Pro-vín-cia de S
 .Paulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/m
 /n/9 ), Se-ção Li-vre, Foro da Ca-pi-tal,
@@ -1543,7 +1549,7 @@ Underfull \hbox (badness 1448) in paragraph at lines 3991--3991
 ] [176] [177] [178
 
 ]
-Overfull \hbox (4.65257pt too wide) in paragraph at lines 5880--5885
+Overfull \hbox (4.65257pt too wide) in paragraph at lines 5896--5901
 []\TU/MinionPro(0)/m/n/10 Digne-se V.S. responder-me ao pé desta o se-guinte, 
 autorizando-
  []
@@ -1564,7 +1570,7 @@ autorizando-
 ] [198] [199] [200] [201
 
 ] [202]
-Underfull \hbox (badness 3108) in paragraph at lines 6465--6470
+Underfull \hbox (badness 3108) in paragraph at lines 6481--6486
 \TU/MinionPro(0)/m/n/10.95 o ca-dá-ver ex-ter-na-mente, e pres-cin-dindo da au
 -tóp-sia,
  []
@@ -1606,13 +1612,13 @@ Inserting `luaotfload.letterspace' at position 2 in `hpack_filter'. [229] [230
 
 ] [271] [272] [273] [274]
 [275] [276]
-Underfull \hbox (badness 1237) in paragraph at lines 8757--8758
+Underfull \hbox (badness 1237) in paragraph at lines 8769--8770
 []\TU/MinionPro(0)/m/n/10.95 O dis-tinto hós-pede encarou-o cu-ri-oso, examino
 u-o
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 8794--8797
+Underfull \hbox (badness 1137) in paragraph at lines 8806--8809
 []\TU/MinionPro(0)/m/n/10.95 O ati-lado[] se-nhor des-co-briu, po-rém, um meio
  de
  []
@@ -1652,7 +1658,7 @@ Underfull \hbox (badness 1137) in paragraph at lines 8794--8797
 ] [332] [333] [334
 
 ] [335] [336]
-Underfull \hbox (badness 1960) in paragraph at lines 10405--10414
+Underfull \hbox (badness 1960) in paragraph at lines 10423--10432
 \TU/MinionPro(0)/m/n/10.95 de-ver de hu-ma-ni-dade, in-formo e afirmo ao hon-ra
 do
  []
@@ -1684,12 +1690,60 @@ do
 ] [370] [371
 
 ] [372])
-(./Y-publicidade.tex [373] [374]
+(./LIVRO.ind [373] [374
+
+]
+Underfull \hbox (badness 1360) in paragraph at lines 5--6
+[]| \TU/MinionPro(0)/m/n/9 nos Es-ta-dos Uni-dos da
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 39--40
+[]\TU/MinionPro(0)/m/n/9 Con-se-lho dos Mi-nis-tros, ,
+ []
+
+[375
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+[]| \TU/MinionPro(0)/m/n/9 Jor-nal do Com-mer-cio,
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 124--125
+[]\TU/MinionPro(0)/m/n/9 Mello, An-to-nio Ma-nuel de
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 153--154
+[]| \TU/MinionPro(0)/m/n/9 de  de de-zem-bro de
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 160--161
+[]\TU/MinionPro(0)/m/n/9 Re-creio Dra-má-tico Abo-li-ci-o-
+ []
+
+[376]
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+\TU/MinionPro(0)/m/n/9 de An-drada Ma-
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 199--200
+\TU/MinionPro(0)/m/n/9 xoto de Mi-randa,
+ []
+
+[377
+
+]) (./Y-publicidade.tex [378
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
 
-[375] [376] [377]) [378] (./Z-colofon.tex [379]
+[379] [380] [381]) [382] (./Z-colofon.tex [383]
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
@@ -1699,7 +1753,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-)) [380]
+)) [384]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1720,22 +1774,22 @@ Sidefoothsep and sidefootwidth: 7pt and 111pt
 Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ******************************************************
 
-\tf@toc=\write5
+\tf@toc=\write6
 
-\openout5 = LIVRO.toc
+\openout6 = LIVRO.toc
 (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 20253 strings out of 494480
+ 20269 strings out of 494480
  195334,794899 words of node,token memory allocated
  11465 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 873 glue, 126 glyph, 876 attribute, 190 glue_spec, 
 876 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:5,2:1285,3:237,4:128,5:5287,6:12681,7:5368,8:67,9:370,10:28,11
+   avail lists: 1:3,2:1285,3:243,4:128,5:5287,6:12681,7:5372,8:67,9:370,10:28,11
 :1549
- 23481 multiletter control sequences out of 65536+600000
+ 23488 multiletter control sequences out of 65536+600000
  108 fonts using 20342855 bytes
- 48i,14n,83p,1504b,733s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 48i,14n,83p,1175b,733s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/Formular-Light.otf></home/edlab/texmf/tex/fonts/MinionPro-It
 .ttf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></home/edlab/texmf/tex/fon
@@ -1745,10 +1799,10 @@ tf></home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist
 /fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (380 pages, 1219275 bytes).
+Output written on LIVRO.pdf (384 pages, 1226749 bytes).
 
-PDF statistics: 1264 PDF objects out of 1440 (max. 8388607)
- 846 compressed objects within 9 object streams
+PDF statistics: 1277 PDF objects out of 1440 (max. 8388607)
+ 855 compressed objects within 9 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

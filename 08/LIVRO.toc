@@ -52,13 +52,13 @@
 \contentsline {subsection}{arrematação de escravos}{120}
 \contentsline {chapter}{\chapternumberline {4}Terrorismo judiciário}{125}
 \contentsline {paragraph}{Nota do organizador}{125}
-\contentsline {chapter}{\chapternumberline {5}Questão jurídica I\textnormal {\penalty -\@M \formular \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \itshape Subsistem os efeitos manumissórios da lei de 26 de janeiro de 1818 depois das de 7 de novembro de 1831 e 4 de outubro de 1850?\FN@sf@gobble@opt {In: \emph {A Província de S.\,Paulo} (\textsc {sp}), Seção Livre, 18/12/1880, p. 5. Aqui houve um pequeno equívoco no título original, já que a lei não é de outubro, mas sim de 4 de setembro de 1850. Ao longo do texto, Gama sempre se reporta à data correta. Outra observação pertinente: Mennucci, acompanhado por Ferreira, ocultou a interrogação final, substituindo-a por um ponto final simples, como se o autor não partisse de uma pergunta para estruturar seu raciocínio jurídico.}}}{135}
+\contentsline {chapter}{\chapternumberline {5}Questão jurídica I}{135}
 \contentsline {paragraph}{Nota do organizador}{135}
 \contentsline {chapter}{\chapternumberline {6}Escrevo estas linhas para evitar desastres}{159}
 \contentsline {paragraph}{Nota do organizador}{159}
 \contentsline {chapter}{\chapternumberline {7}Desfazendo as ficções do direito}{165}
 \contentsline {paragraph}{Nota do organizador}{165}
-\contentsline {chapter}{\chapternumberline {8}Questão jurídica II\textnormal {\penalty -\@M \formular \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \itshape O escravo que requer e é admitido a manumitir-se, por indenização do seu valor, se o preço arbitrado judicialmente excede ao pecúlio, continua cativo, por deficiência deste?\FN@sf@gobble@opt {In: \emph {Gazeta de S.\,Paulo} (\textsc {sp}), Ineditoriais, 13/01/1881, p. 3. Através de uma republicação sem título desse artigo, Fonseca resolveu por conta própria dar outro título a esse texto. Chamando-se ``Questão jurídica'', sendo publicado tão somente algumas semanas depois do homônimo famoso, é possível compreendê-lo como ``Questão jurídica -- parte \textsc {ii}''. Não por outro motivo, ao que parece, \emph {O Abolicionista} (\textsc {rj}) de 1º de julho de 1881 o republicou imediatamente na sequência do primeiro ``Questão jurídica''. Ambas as partes, por exemplo, respondem a uma pergunta técnica e desenvolvem uma linha de raciocínio jurídico amparada na multinormatividade da matéria em questão.}}}{167}
+\contentsline {chapter}{\chapternumberline {8}Questão jurídica II}{167}
 \contentsline {paragraph}{Nota do organizador}{167}
 \contentsline {part}{\partnumberline {VII}O cocheiro e o cônsul}{173}
 \contentsline {paragraph}{Introdução}{174}
@@ -68,7 +68,7 @@
 \contentsline {paragraph}{Nota do organizador}{179}
 \contentsline {section}{a carta do sr.\,f}{179}
 \contentsline {paragraph}{Nota do organizador}{179}
-\contentsline {chapter}{\chapternumberline {3}A colônia portuguesa em S.\,Paulo\textnormal {\penalty -\@M \formular \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \itshape O seu a seu dono\FN@sf@gobble@opt {In: \emph {Gazeta do Povo} (\textsc {sp}), Publicações Pedidas, 21/05/1881, p. 2.}}}{181}
+\contentsline {chapter}{\chapternumberline {3}A colônia portuguesa em S.\,Paulo}{181}
 \contentsline {paragraph}{Nota do organizador}{181}
 \contentsline {part}{\partnumberline {VIII}Uma estátua, um coveiro e um perito criminal}{185}
 \contentsline {paragraph}{Introdução}{186}
@@ -175,4 +175,5 @@
 \contentsline {paragraph}{Nota do organizador}{369}
 \contentsline {chapter}{\chapternumberline {9}Pela libertação de 78 pessoas!\FN@sf@gobble@opt {In: \emph {Gazeta da Tarde} (\textsc {rj}), {[}editorial{]}, Luiz Gama, 08/08/1882, p. 1. Os~redatores da folha abolicionista, entre eles José do Patrocínio, incluíram a seguinte apresentação da petição de Gama ao Imperador: ``Luiz Gama --- Deve estar a esta hora em mão do governo uma representação do grande chefe abolicionista, que é o símbolo da evangélica resignação no sacrifício em prol da causa, que, ferindo os interesses da preguiça nacional, se converte em martírio para os seus sustentadores.\\ A representação visa a liberdade de homens ilegalmente retidos na escravidão e nos dispensa de acrescentar-lhe comentários.\\ A singeleza da exposição dá ao leitor conhecimento do assunto e critério para o seu juízo.\\ Eis a representação''. Optei em chamar de petição haja vista a força normativa da peça que, até onde se sabe, não possui capacidade de representação, uma vez que, constrangida pela ausência de meios, limita-se a implorar, pedir, suplicar.}}{371}
 \contentsline {paragraph}{Nota do organizador}{371}
+\contentsline {chapter}{\'Indice Remissivo}{375}
 \babel@toc {brazilian}{}
