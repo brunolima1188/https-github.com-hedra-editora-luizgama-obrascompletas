@@ -4,7 +4,7 @@
 \contentsline {paragraph}{Nota do organizador}{11}
 \contentsline {chapter}{\chapternumberline {2}Minha vida}{13}
 \contentsline {paragraph}{Nota do organizador}{13}
-\contentsline {chapter}{\chapternumberline {3}Minha mãe\FN@sf@gobble@opt {O poema \emph {Minha Mãe}, conforme conta Gama, foi escrito em 1861, quando ele se encontrava em trabalho na vila de Caçapava, vale do Paraíba (\textsc {sp}). Esse poema foi publicado já em 1861, na segunda edição das \emph {Primeiras trovas burlescas de Getulino}.}}{25}
+\contentsline {chapter}{\chapternumberline {3}Minha mãe\FN@sf@gobble@opt {O poema \emph {Minha Mãe}, conforme conta Gama, foi escrito em 1861, quando ele se encontrava em trabalho na vila de Caçapava, Vale do Paraíba (\textsc {sp}). Esse poema foi publicado já em 1861, na segunda edição das \emph {Primeiras trovas burlescas de Getulino}.}}{25}
 \contentsline {paragraph}{Nota do organizador}{25}
 \contentsline {chapter}{\chapternumberline {4}Luiz Gama por Lúcio de Mendonça\FN@sf@gobble@opt {In. \emph {Gazeta da Tarde} (\textsc {rj}), Folhetim, 15/12/1880, pp. 1--2.}}{29}
 \contentsline {paragraph}{Nota do organizador}{29}
