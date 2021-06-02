@@ -173,6 +173,7 @@ INPUT ../edlab-toc.sty
 INPUT ../edlab-toc.sty
 INPUT ../edlab-extra.sty
 INPUT ../edlab-extra.sty
+OUTPUT LIVRO.idx
 INPUT ../edlab-margins.sty
 INPUT ../edlab-margins.sty
 INPUT ../edlab-sections.sty
@@ -265,6 +266,5 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
