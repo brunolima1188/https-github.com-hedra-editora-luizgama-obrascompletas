@@ -1,10 +1,10 @@
 # Fdb version 3
-["makeindex LIVRO.idx"] 0 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1622840338
-  "LIVRO.idx" 1622840331 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex LIVRO.idx"] 0 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1622842083
+  "LIVRO.idx" 1622842075 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "LIVRO.ilg"
   "LIVRO.ind"
-["pdflatex"] 1622840330 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1622840338
+  "LIVRO.ilg"
+["pdflatex"] 1622842074 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1622842083
   "../4-volumes.tex" 1621386768 354 2d44e489ec0cb16ebc314a9710319710 ""
   "../edlab-extra.sty" 1622829401 2840 062c87b228ec81d7ba3ee0822e438111 ""
   "../edlab-footnotes.sty" 1621386768 1536 30a6e592765163a1106ca60b125cb50b ""
@@ -169,20 +169,20 @@
   "1-fronte.tex" 1621386768 1116 6f98016e1646c42d9864f621a8872517 ""
   "2-creditos.tex" 1621386768 1465 c1742763e3ef375bce88072ee7d7ca07 ""
   "3-rosto.tex" 1621386768 1423 05f07b9408f739a34abcd9a7e6f7149f ""
-  "INPUTS.aux" 1622840337 42102 60fa8f4eaf7317e48d92aada9cfa3d25 ""
+  "INPUTS.aux" 1622842082 42159 c3721e5ec58f241c4f6242ce613137f6 ""
   "INPUTS.tex" 1622828975 1350 49fded8869e16da3b1b52e3e893e57e3 ""
-  "LIVRO.aux" 1622840337 171 ee6edfca2b9a80f2060a860ddf578fec ""
+  "LIVRO.aux" 1622842082 171 e377a1dbe99377049290e23bea364738 ""
   "LIVRO.ind" 1622594912 0 d41d8cd98f00b204e9800998ecf8427e "makeindex LIVRO.idx"
   "LIVRO.tex" 1622829906 3004 a29d21e4812212937b98316e8b74f138 ""
-  "LIVRO.toc" 1622840337 23733 75adbffaee971cd6f7dd7a06891ce1aa ""
-  "TEXTO-04.tex" 1622840314 712484 b87336c4b3d1e1bb47808b2dcae7d44d ""
+  "LIVRO.toc" 1622842082 23772 55d03094e71470595a0124084f1f7b7e ""
+  "TEXTO-04.tex" 1622842044 714400 bcdbad5e2ebce9ce2a5790413a1b331b ""
   "Y-publicidade.tex" 1621386768 10724 fdd2af80176bc26c98c7f68bde1b8223 ""
   "Z-colofon.tex" 1621386768 1030 b226f4af6866a20988bd33e21cb51667 ""
-  "edlab-git.sty" 1622840322 35 e652209e06e70731abdf262345988ade ""
+  "edlab-git.sty" 1622842046 35 e7030e0cd755edbb0ccec5bec8a431ba ""
   (generated)
-  "LIVRO.pdf"
   "LIVRO.log"
-  "LIVRO.aux"
-  "LIVRO.idx"
-  "INPUTS.aux"
+  "LIVRO.pdf"
   "LIVRO.toc"
+  "LIVRO.aux"
+  "INPUTS.aux"
+  "LIVRO.idx"
