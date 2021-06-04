@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  4 JUN 2021 16:13
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  4 JUN 2021 16:30
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.088 seconds
+luaotfload | main : initialization completed in 0.097 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1443,365 +1443,362 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [12] [13]
 [14] [15] [16] [17] [18] [19] [20] [21] [22
 
-] [23] [24] [25] [26
+] [23] [24] [25
 
-] [27] [28]
+] [26] [27
+
+] [28]
 [29
 
 ] [30] [31
 
-] [32] [33
-
-] [34
 Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
 atn;language=DFLT;+tlig;+onum;!
+] [32
 Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
 atn;language=DFLT;+tlig;+onum;!
 ]
 
 LaTeX Font Warning: Font shape `TU/Formular(0)/bx/sc' undefined
-(Font)              using `TU/Formular(0)/bx/n' instead on input line 694.
+(Font)              using `TU/Formular(0)/bx/n' instead on input line 663.
 
-[35
+[33
 
-] [36] [37
+] [34] [35
 
-] [38
 Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
 atn;language=DFLT;+tlig;+onum;!
-] [39] [40
+] [36] [37] [38
 
+] [39
+Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
+atn;language=DFLT;+tlig;+onum;!
+] [40
+Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
+atn;language=DFLT;+tlig;+onum;!
 ] [41
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-] [42
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-] [43
 
-] [44] [45
+] [42] [43
 
-] [46] [47] [48] [49]
-[50] [51] [52] [53] [54] [55] [56
+] [44] [45] [46] [47]
+[48] [49] [50] [51] [52] [53] [54
 
-] [57] [58] [59] [60] [61] [62] [63
+] [55] [56] [57] [58] [59] [60] [61
 
-] [64]
-[65] [66
+] [62]
+[63
 
-] [67] [68] [69
+] [64] [65
 
-] [70] [71] [72] [73] [74
+] [66] [67] [68] [69] [70
 
-] [75] [76] [77] [78](load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/
+] [71] [72] [73] [74](load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/
 generic/fonts/otl/lmmono9-regular.luc)
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 2088.
- [79] [80] [81] [82] [83] [84] [85] [86
+(Font)              <9> on input line 2056.
 
-] [87] [88] [89] [90
+[75] [76] [77] [78] [79] [80] [81] [82
 
-] [91]
-[92] [93] [94
+] [83] [84] [85] [86
 
-] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105
+] [87] [88] [89]
+[90
+
+] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101
+
+] [102] [103]
+[104] [105] [106
 
 ]
-[106] [107] [108] [109] [110
-
-]
-Underfull \hbox (badness 2689) in paragraph at lines 3073--3073
+Underfull \hbox (badness 2689) in paragraph at lines 3041--3041
 []\TU/MinionPro(0)/m/n/9 . []Re-fe-rên-cia in-di-reta a Fer-nando Ma-xi-mi-
 li-ano de Habsburgo-Lorena
  []
 
-[111] [112] [113] [114] [115] [116] [117
+[107] [108] [109] [110] [111] [112] [113
 
-] [118] [119] [120] [121
+] [114] [115] [116] [117
 
-] [122]
-[123
+] [118]
+[119
 
-] [124
+] [120
 
-] [125] [126](load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/
+] [121] [122](load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/
 fonts/otl/lmmono10-italic.luc)
-Underfull \hbox (badness 10000) in paragraph at lines 3533--3533
+Underfull \hbox (badness 10000) in paragraph at lines 3490--3490
 \TU/lmtt/m/it/9 canudas-[]de-[]wit/other_links/discurVictor\%20Hugo_Education.
  []
 
-[127] [128] [129
+[123] [124] [125
 
-] [130] [131] [132] [133] [134
+] [126] [127] [128] [129] [130
 
-] [135] [136] [137] [138]
-[139] [140] [141
+] [131] [132] [133] [134]
+[135] [136] [137
 
-] [142] [143] [144] [145] [146] [147] [148] [149
+] [138] [139] [140] [141] [142] [143] [144] [145
+
+] [146]
+[147] [148] [149] [150
+
+] [151] [152] [153] [154] [155] [156] [157] [158
 
 ]
-Overfull \vbox (0.31422pt too high) has occurred while \output is active []
-
-
-[150] [151] [152] [153] [154
-
-] [155] [156] [157] [158] [159] [160] [161]
-[162
-
-] [163] [164] [165] [166] [167] [168] [169]
-Underfull \hbox (badness 3724) in paragraph at lines 4909--4909
+[159] [160] [161] [162] [163] [164] [165]
+Underfull \hbox (badness 3724) in paragraph at lines 4866--4866
 []\TU/MinionPro(0)/m/n/9 . []A re-fe-rên-cia às pa-la-vras de Gui-zot v
 em, pro-va-vel-mente, do dis-
  []
 
 
-Underfull \hbox (badness 6910) in paragraph at lines 4909--4909
+Underfull \hbox (badness 6910) in paragraph at lines 4866--4866
 \TU/MinionPro(0)/m/n/9 curso de Vic-tor Hugo na dis-cus-são do Pro-jeto de Lei
  da Edu-ca-
  []
 
 
-Underfull \hbox (badness 4254) in paragraph at lines 4909--4909
+Underfull \hbox (badness 4254) in paragraph at lines 4866--4866
 \TU/MinionPro(0)/m/n/9 ção na As-sem-bleia Na-ci-o-nal fran-cesa. Hugo ci-tou
  tex-tu-al-mente essa
  []
 
 
-Underfull \hbox (badness 4341) in paragraph at lines 4909--4909
+Underfull \hbox (badness 4341) in paragraph at lines 4866--4866
 \TU/MinionPro(0)/m/it/9 Afro\TU/MinionPro(0)/m/n/9 -Gama. Cf. \TU/MinionPro(0)/
 m/it/9 Dis-cours de Vic-tor Hugo dans la dis-cus-sion du Pro-
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 4909--4909
+Underfull \hbox (badness 1205) in paragraph at lines 4866--4866
 \TU/MinionPro(0)/m/it/9 jet de Loi sur L’en-seig-ne-ment le  jan-vier 
 . \TU/MinionPro(0)/m/n/9 Dis-po-ní-vel em: $\TU/lmtt/m/it/9 http:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4909--4909
+Underfull \hbox (badness 10000) in paragraph at lines 4866--4866
 \TU/lmtt/m/it/9 //www.gipsa-[]lab.grenoble-[]inp.fr/~carlos.canudas-[]de-[]wit/
 
  []
 
-[170] [171
+[166] [167
 
-] [172] [173
+] [168] [169
 
-] [174] [175] [176] [177] [178] [179] [180] [181]
-[182] [183] [184
+] [170] [171] [172] [173] [174] [175] [176] [177]
+[178] [179] [180
 
-] [185] [186] [187] [188] [189] [190] [191] [192] [193]
-[194] [195] [196] [197] [198] [199
+] [181] [182] [183] [184] [185] [186] [187] [188] [189]
+[190] [191] [192] [193] [194] [195
 
-] [200] [201] [202] [203] [204] [205]
-[206] [207
+] [196] [197] [198] [199] [200] [201]
+[202] [203
 
-] [208] [209
+] [204] [205
 
-] [210] [211] [212] [213] [214] [215] [216] [217]
-[218
+] [206] [207] [208] [209] [210] [211] [212] [213]
+[214
 
 ]
-Underfull \hbox (badness 6236) in paragraph at lines 6504--6553
+Underfull \hbox (badness 6236) in paragraph at lines 6463--6512
 []\TU/MinionPro(0)/m/n/10.95 Como in-fla-ma-dos Sou-friè-res[] ou ter-rí-veis
  An-ti-sa-nas[],
  []
 
-[219] [220] [221] [222] [223] [224] [225] [226
+[215] [216] [217] [218] [219] [220] [221] [222
 
-] [227] [228] [229] [230]
-[231] [232] [233] [234] [235] [236
+] [223] [224] [225] [226]
+[227] [228] [229] [230] [231] [232
 
-] [237]
+] [233]
 
-LaTeX Warning: Reference `licurgo' on page 238 undefined on input line 7093.
+LaTeX Warning: Reference `licurgo' on page 234 undefined on input line 7052.
 
 
-LaTeX Warning: Reference `licurgo' on page 238 undefined on input line 7093.
+LaTeX Warning: Reference `licurgo' on page 234 undefined on input line 7052.
 
-[238] [239] [240] [241] [242] [243] [244
+[234] [235] [236] [237] [238] [239
 
-] [245] [246] [247
+] [240] [241
 
-] [248] [249]
-[250] [251
-
-] [252] [253] [254] [255
-
-] [256] [257] [258] [259
-
-] [260] [261]
-[262] [263] [264] [265
-
-] [266] [267] [268] [269] [270] [271
+] [242] [243] [244] [245
 
 ]
-Underfull \hbox (badness 3281) in paragraph at lines 8250--8252
+[246] [247] [248] [249
+
+] [250] [251] [252] [253
+
+] [254] [255] [256] [257]
+[258] [259
+
+] [260] [261] [262] [263] [264] [265
+
+]
+Underfull \hbox (badness 3281) in paragraph at lines 8209--8211
 []\TU/MinionPro(0)/m/n/10.95 ``Em um mo-mento de lou-cura co-meti um ho-mi-cí-
 dio;
  []
 
-[272] [273] [274] [275
+[266] [267] [268] [269
 
-] [276] [277] [278] [279] [280
+] [270] [271] [272] [273
 
-] [281] [282] [283]
-[284] [285] [286
-
-] [287] [288
-
-] [289] [290
-
-] [291] [292
-
-] [293] [294] [295
+] [274] [275] [276] [277
 
 ]
-[296] [297] [298
+[278
 
-] [299] [300] [301] [302
+] [279] [280
 
-] [303] [304] [305] [306
+] [281] [282
 
-] [307]
-[308] [309] [310
+] [283] [284] [285
 
-] [311] [312] [313] [314] [315] [316] [317] [318] [319]
-[320
+] [286] [287] [288
 
-] [321] [322] [323
+] [289]
+[290] [291] [292
 
-] [324]
-Overfull \hbox (24.32634pt too wide) in paragraph at lines 9661--9670
+] [293] [294] [295] [296
+
+] [297] [298] [299] [300
+
+] [301]
+[302] [303] [304] [305] [306] [307] [308] [309] [310
+
+] [311] [312] [313
+
+]
+[314]
+Overfull \hbox (24.32634pt too wide) in paragraph at lines 9621--9630
 []\TU/MinionPro(0)/m/n/10.95 As-sim o afir-ma-mos, por-que não po-dia, como fe
 z o exmo.sr.dr.chefe
  []
 
-[325
+[315
 
-] [326] [327] [328] [329] [330] [331
+] [316] [317] [318] [319] [320] [321
 
-] [332] [333] [334] [335
+] [322] [323] [324
 
-] [336]
-[337] [338] [339
+] [325] [326]
+[327] [328] [329
 
-] [340] [341
+] [330] [331
 
-] [342
+] [332
 
-] [343] [344] [345] [346
-
-]
-Overfull \hbox (3.50383pt too wide) in paragraph at lines 10276--10278
+] [333] [334]
+Overfull \hbox (3.50383pt too wide) in paragraph at lines 10236--10238
 []\TU/MinionPro(0)/m/n/10.95 A po-luta fi-dal-guia zomba hi-po-cri-ta-mente do 
 povo, apregoando-
  []
 
-[347] [348] [349] [350
+[335
 
-] [351] [352] [353
+] [336] [337] [338
 
-] [354] [355] [356] [357
+] [339] [340] [341
+
+] [342] [343] [344] [345
+
+] [346]
+[347] [348] [349
+
+] [350] [351] [352] [353
+
+] [354] [355
+
+] [356] [357
 
 ] [358]
-[359] [360] [361
+[359] [360
 
-] [362] [363] [364] [365
+] [361] [362] [363] [364] [365] [366
 
-] [366] [367
+] [367] [368] [369] [370]
+[371
 
-] [368] [369
+] [372] [373] [374
 
-] [370]
-[371] [372
+] [375] [376] [377
 
-] [373] [374] [375] [376] [377] [378
-
-] [379] [380] [381] [382]
-[383
-
-] [384] [385] [386
-
-] [387] [388] [389
-
-] [390]
+] [378]
 
 Class memoir Warning: The material used in the headers is too large
 (27.2pt) for the given head height (13.6pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 11542.
+(in both cases you will find help in the memoir manual). on input line 11502.
 
 
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[391] [392]
+[379] [380]
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[393] [394]
+[381] [382]
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[395] [396] [397
+[383] [384] [385
 
-] [398] [399] [400] [401] [402] [403] [404] [405] [406
+] [386] [387] [388] [389] [390] [391] [392] [393] [394
 
 ]
-[407] [408] [409] [410] [411] [412] [413] [414] [415] [416] [417] [418
+[395] [396] [397] [398] [399] [400] [401] [402] [403] [404] [405] [406
 
 ]
-[419] [420] [421] [422
+[407] [408] [409] [410
 
-] [423] [424] [425
+] [411] [412] [413
 
-] [426] [427] [428] [429] [430]
-[431] [432
+] [414] [415] [416] [417] [418]
+[419] [420
 
-] [433] [434]
-Underfull \hbox (badness 5245) in paragraph at lines 12923--12923
+] [421] [422]
+Underfull \hbox (badness 5245) in paragraph at lines 12884--12884
 []\TU/MinionPro(0)/m/n/9 . []Vi-cente Fer-reira da Silva Bu-eno (
 -) teve longa car-reira
  []
 
-[435
+[423
 
-] [436] [437] [438] [439] [440] [441] [442
+] [424] [425] [426] [427] [428] [429] [430
 
-] [443] [444]
-Underfull \hbox (badness 5245) in paragraph at lines 13230--13230
+] [431] [432]
+Underfull \hbox (badness 5245) in paragraph at lines 13191--13191
 []\TU/MinionPro(0)/m/n/9 . []Vi-cente Fer-reira da Silva Bu-eno (
 -) teve longa car-reira
  []
 
-[445] [446] [447] [448] [449] [450
+[433] [434] [435] [436] [437] [438
 
 ]
-Underfull \hbox (badness 5245) in paragraph at lines 13402--13402
+Underfull \hbox (badness 5245) in paragraph at lines 13363--13363
 []\TU/MinionPro(0)/m/n/9 . []Vi-cente Fer-reira da Silva Bu-eno (
 -) teve longa car-reira
  []
 
-[451] [452] [453] [454] [455
+[439] [440] [441] [442] [443
 
-] [456] [457]
-Overfull \hbox (30.97743pt too wide) in paragraph at lines 13637--13639
+] [444] [445]
+Overfull \hbox (30.97743pt too wide) in paragraph at lines 13598--13600
 []\TU/MinionPro(0)/m/n/10.95 Eis o es-tado a que che-gou o dis-cí-pulo obs-cur
 o do exmo.sr.conselheiro
  []
 
-) (./Y-publicidade.tex [458]
+) (./Y-publicidade.tex [446]
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
 
-[459] [460] [461]) [462] (./Z-colofon.tex [463]
+[447] [448] [449]) [450] (./Z-colofon.tex [451]
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
@@ -1811,7 +1808,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-)) [464]
+)) [452]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1856,8 +1853,8 @@ Here is how much of LuaTeX's memory you used:
  16277 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1380 glue, 1382 attribute, 189 glue_spec, 1382 attr
 ibute_list, 3 shape, 3 write nodes
-   avail lists: 1:3,2:1267,3:233,4:125,5:2278,6:4877,7:1046,8:110,9:344,10:30,11
-:621
+   avail lists: 1:3,2:1267,3:233,4:125,5:2278,6:4726,7:1046,8:110,9:344,10:30,11
+:602
  23547 multiletter control sequences out of 65536+600000
  108 fonts using 20703855 bytes
  48i,14n,83p,783b,471s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1873,10 +1870,10 @@ dlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist/fonts/type
 1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (464 pages, 1469257 bytes).
+Output written on LIVRO.pdf (452 pages, 1459038 bytes).
 
-PDF statistics: 1556 PDF objects out of 1728 (max. 8388607)
- 1040 compressed objects within 11 object streams
+PDF statistics: 1519 PDF objects out of 1728 (max. 8388607)
+ 1015 compressed objects within 11 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
