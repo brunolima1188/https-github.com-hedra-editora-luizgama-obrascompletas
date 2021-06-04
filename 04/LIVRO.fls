@@ -270,13 +270,13 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-italic.luc
-INPUT ./Y-publicidade.tex
-INPUT ./Y-publicidade.tex
-INPUT ./Z-colofon.tex
-INPUT ./Z-colofon.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT ./Y-publicidade.tex
+INPUT ./Y-publicidade.tex
+INPUT ./Z-colofon.tex
+INPUT ./Z-colofon.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm
 OUTPUT LIVRO.toc
 INPUT ./LIVRO.aux
