@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  8 JUN 2021 11:17
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  8 JUN 2021 21:38
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.103 seconds
+luaotfload | main : initialization completed in 0.087 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1510,7 +1510,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 [116](load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/ot
 l/lmmono10-italic.luc)
-Underfull \hbox (badness 10000) in paragraph at lines 3542--3542
+Underfull \hbox (badness 10000) in paragraph at lines 3541--3541
 \TU/lmtt/m/it/9 canudas-[]de-[]wit/other_links/discurVictor\%20Hugo_Education.
  []
 
@@ -1530,37 +1530,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 3542--3542
 
 ]
 [153] [154] [155] [156] [157] [158] [159]
-Underfull \hbox (badness 3724) in paragraph at lines 4931--4931
+Underfull \hbox (badness 3724) in paragraph at lines 4930--4930
 []\TU/MinionPro(0)/m/n/9 . []A re-fe-rên-cia às pa-la-vras de Gui-zot v
 em, pro-va-vel-mente, do dis-
  []
 
 
-Underfull \hbox (badness 4940) in paragraph at lines 4931--4931
+Underfull \hbox (badness 4940) in paragraph at lines 4930--4930
 \TU/MinionPro(0)/m/n/9 As-sem-bleia Na-ci-o-nal fran-cesa. Hugo ci-tou tex-tu-a
 l-mente essa mesma
  []
 
 
-Underfull \hbox (badness 6842) in paragraph at lines 4931--4931
+Underfull \hbox (badness 6842) in paragraph at lines 4930--4930
 \TU/MinionPro(0)/m/n/9 frase, aqui tra-du-zida ao por-tu-guês --- é plau-sí-
 vel --- pelo pró-prio
  []
 
 
-Underfull \hbox (badness 4341) in paragraph at lines 4931--4931
+Underfull \hbox (badness 4341) in paragraph at lines 4930--4930
 \TU/MinionPro(0)/m/it/9 Afro\TU/MinionPro(0)/m/n/9 -Gama. Cf. \TU/MinionPro(0)/
 m/it/9 Dis-cours de Vic-tor Hugo dans la dis-cus-sion du Pro-
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 4931--4931
+Underfull \hbox (badness 1205) in paragraph at lines 4930--4930
 \TU/MinionPro(0)/m/it/9 jet de Loi sur L’en-seig-ne-ment le  jan-vier 
 . \TU/MinionPro(0)/m/n/9 Dis-po-ní-vel em: $\TU/lmtt/m/it/9 http:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4931--4931
+Underfull \hbox (badness 10000) in paragraph at lines 4930--4930
 \TU/lmtt/m/it/9 //www.gipsa-[]lab.grenoble-[]inp.fr/~carlos.canudas-[]de-[]wit/
 
  []
@@ -1584,7 +1584,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4931--4931
 [208
 
 ]
-Underfull \hbox (badness 6236) in paragraph at lines 6546--6595
+Underfull \hbox (badness 6236) in paragraph at lines 6543--6592
 []\TU/MinionPro(0)/m/n/10.95 Como in-fla-ma-dos Sou-friè-res[] ou ter-rí-veis
  An-ti-sa-nas[],
  []
@@ -1596,10 +1596,10 @@ Underfull \hbox (badness 6236) in paragraph at lines 6546--6595
 
 ]
 
-LaTeX Warning: Reference `licurgo' on page 226 undefined on input line 7151.
+LaTeX Warning: Reference `licurgo' on page 226 undefined on input line 7146.
 
 
-LaTeX Warning: Reference `licurgo' on page 226 undefined on input line 7151.
+LaTeX Warning: Reference `licurgo' on page 226 undefined on input line 7146.
 
 [226] [227] [228] [229] [230] [231
 
@@ -1648,7 +1648,7 @@ LaTeX Warning: Reference `licurgo' on page 226 undefined on input line 7151.
 ] [305] [306] [307
 
 ] [308]
-Overfull \hbox (24.32634pt too wide) in paragraph at lines 9754--9763
+Overfull \hbox (24.32634pt too wide) in paragraph at lines 9744--9753
 []\TU/MinionPro(0)/m/n/10.95 As-sim o afir-ma-mos, por-que não po-dia, como fe
 z o exmo.sr.dr.chefe
  []
@@ -1667,7 +1667,7 @@ z o exmo.sr.dr.chefe
 ] [326
 
 ] [327] [328]
-Overfull \hbox (3.50383pt too wide) in paragraph at lines 10380--10382
+Overfull \hbox (3.50383pt too wide) in paragraph at lines 10369--10371
 []\TU/MinionPro(0)/m/n/10.95 A po-luta fi-dal-guia zomba hi-po-cri-ta-mente do 
 povo, apregoando-
  []
@@ -1706,7 +1706,7 @@ povo, apregoando-
 Class memoir Warning: The material used in the headers is too large
 (27.2pt) for the given head height (13.6pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 11662.
+(in both cases you will find help in the memoir manual). on input line 11651.
 
 
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
@@ -1733,7 +1733,7 @@ Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 ] [403] [404] [405
 
 ] [406] [407] [408] [409]
-Underfull \hbox (badness 1742) in paragraph at lines 12971--12975
+Underfull \hbox (badness 1742) in paragraph at lines 12959--12963
 []\TU/MinionPro(0)/m/n/10 Cons-tando da pre-sente \TU/MinionPro(0)/m/it/10 ale-
 ga-ção \TU/MinionPro(0)/m/n/10 (aliás, de-nún-cia, sa-pi-en-tís-simo
  []
@@ -1741,7 +1741,7 @@ ga-ção \TU/MinionPro(0)/m/n/10 (aliás, de-nún-cia, sa-pi-en-tís-simo
 [410] [411] [412
 
 ] [413] [414]
-Underfull \hbox (badness 4582) in paragraph at lines 13099--13099
+Underfull \hbox (badness 4582) in paragraph at lines 13087--13087
 []\TU/MinionPro(0)/m/n/9 . []Vi-cente Fer-reira da Silva Bu-eno (
 --) teve longa car-reira
  []
@@ -1751,7 +1751,7 @@ Underfull \hbox (badness 4582) in paragraph at lines 13099--13099
 ] [416] [417] [418] [419] [420] [421] [422
 
 ] [423] [424]
-Underfull \hbox (badness 4582) in paragraph at lines 13414--13414
+Underfull \hbox (badness 4582) in paragraph at lines 13402--13402
 []\TU/MinionPro(0)/m/n/9 . []Vi-cente Fer-reira da Silva Bu-eno (
 --) teve longa car-reira
  []
@@ -1759,7 +1759,7 @@ Underfull \hbox (badness 4582) in paragraph at lines 13414--13414
 [425] [426] [427] [428] [429] [430
 
 ]
-Underfull \hbox (badness 4582) in paragraph at lines 13588--13588
+Underfull \hbox (badness 4582) in paragraph at lines 13576--13576
 []\TU/MinionPro(0)/m/n/9 . []Vi-cente Fer-reira da Silva Bu-eno (
 --) teve longa car-reira
  []
@@ -1767,7 +1767,7 @@ Underfull \hbox (badness 4582) in paragraph at lines 13588--13588
 [431] [432] [433] [434] [435
 
 ] [436] [437]
-Overfull \hbox (30.97743pt too wide) in paragraph at lines 13830--13832
+Overfull \hbox (30.97743pt too wide) in paragraph at lines 13818--13820
 []\TU/MinionPro(0)/m/n/10.95 Eis o es-tado a que che-gou o dis-cí-pulo obs-cur
 o do exmo.sr.conselheiro
  []
@@ -1832,7 +1832,7 @@ Here is how much of LuaTeX's memory you used:
  16332 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1385 glue, 1387 attribute, 189 glue_spec, 1387 attr
 ibute_list, 3 shape, 3 write nodes
-   avail lists: 1:3,2:1267,3:233,4:125,5:2337,6:4745,7:1046,8:110,9:344,10:30,11
+   avail lists: 1:3,2:1267,3:233,4:125,5:2336,6:4745,7:1046,8:110,9:344,10:30,11
 :604
  23563 multiletter control sequences out of 65536+600000
  112 fonts using 21157831 bytes
@@ -1848,7 +1848,7 @@ edlab/texmf/tex/fonts/times.ttf></home/edlab/texmf/tex/fonts/Formular-Italic.otf
 /texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (444 pages, 1439910 bytes).
+Output written on LIVRO.pdf (444 pages, 1439267 bytes).
 
 PDF statistics: 1486 PDF objects out of 1728 (max. 8388607)
  994 compressed objects within 10 object streams
