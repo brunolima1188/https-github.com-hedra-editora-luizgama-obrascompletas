@@ -11,3 +11,5 @@ TO_DO
 + Avaliar exclusão de algumas notas cruzadas (e.g., Victor Hugo)
 
 + É realmente necessário italizar as didascálias?
+
++ Quando aparece na referência do texto, e.g. "Radical Paulistano (SP), Radical Paulistano {[}editorial{]}," podemos remover a repetição de "Radical paulistano" e deixar apenas "Editorial", sem colchetes?
