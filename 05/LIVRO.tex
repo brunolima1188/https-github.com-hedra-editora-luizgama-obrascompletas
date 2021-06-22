@@ -34,7 +34,7 @@
 \usepackage{../edlab-toc}				% define sumário
 \usepackage{../edlab-extra}				% define epígrafe, quote
 \usepackage[14x21]{../edlab-margins}
-\usepackage[%semcabeco, 				% para remover cabeço, sobe mancha e mantem estilos
+\usepackage[semcabeco, 				% para remover cabeço, sobe mancha e mantem estilos
 			]{../edlab-sections}		% define pagestyle (cabeço, rodapé e seções)
 \usepackage[%
 			% notasemlinha 			
@@ -52,12 +52,12 @@
 % Fontes
 \newfontfamily\formular{Formular}
 \newfontfamily\formularlight{Formular Light}
-\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Linux Libertine O}
+\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Minion Pro}
 
 
 % Estilos
-\makeoddhead{baruch}{}{\scshape\MakeLowercase{\scshape\MakeTextLowercase{\leftmark}}}{}
-\makeevenhead{baruch}{}{\scshape\MakeLowercase{\parttitle}}{}
+%\makeoddhead{baruch}{}{\scshape\MakeLowercase{\scshape\MakeTextLowercase{\leftmark}}}{}
+%\makeevenhead{baruch}{}{\scshape\MakeLowercase{\parttitle}}{}
 \makeevenfoot{baruch}{}{\footnotesize\thepage}{}
 \makeoddfoot{baruch}{}{\footnotesize\thepage}{}
 \pagestyle{baruch}		
