@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  22 JUN 2021 08:51
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  22 JUN 2021 09:26
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.083 seconds
+luaotfload | main : initialization completed in 0.116 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1444,13 +1444,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [22] [23
 
-]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 494.
- [24
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-] [25] [26
+] [24] [25] [26
 
 ] [27] [28]
 [29] [30
@@ -1470,218 +1464,260 @@ atn;language=DFLT;+tlig;+onum;!
 [59] [60] [61] [62] [63] [64
 
 ] [65] [66] [67] [68] [69] [70] [71] [72] [73]
-[74] [75] [76]
-Underfull \hbox (badness 2556) in paragraph at lines 7720--7720
-[]\TU/MinionPro(0)/m/n/9 Neste ato operou-se a trans-for-ma-ção do juiz em ga
-lo, sua toga
+[74] [75] [76] [77
+
+] [78] [79] [80] [81] [82] [83
+
+] [84
+
+] [85] [86] [87] [88]
+[89
+
+] [90] [91
+
+] [92] [93] [94
+
+] [95] [96] [97
+
+]
+Underfull \hbox (badness 1142) in paragraph at lines 2745--2745
+[]\TU/MinionPro(0)/m/n/9 . []Cf. \TU/MinionPro(0)/m/it/9 Diá-rio de São Pa
+ulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/m/n/
+9 ), Pu-bli-ca-ções Pe-di-das, Ao pú-blico,
  []
 
+[98] [99] [100] [101] [102
+
+] [103] [104] [105] [106
+
+] [107] [108] [109
+
+] [110]
+[111] [112] [113] [114] [115] [116] [117] [118] [119] [120
+
+] [121] [122]
+[123] [124] [125] [126] [127
+
+] [128] [129] [130
+
+]
 
 LaTeX Font Warning: Font shape `TU/Formular(0)/bx/sc' undefined
-(Font)              using `TU/Formular(0)/bx/n' instead on input line 7720.
+(Font)              using `TU/Formular(0)/bx/n' instead on input line 3666.
 
+[131] [132
 
-Underfull \hbox (badness 1132) in paragraph at lines 7720--7720
-\TU/MinionPro(0)/m/n/9 Ca-margo[] aceita re-que-ri-men-tos pe-dindo o de-pó-si
-to do es-cravo, e
- []
+] [133] [134] [135
 
+] [136] [137
 
-Underfull \hbox (badness 10000) in paragraph at lines 7720--7720
+] [138] [139
+
+] [140] [141] [142
+
+]
+[143] [144] [145] [146
+
+] [147] [148] [149
+
+] [150] [151] [152] [153
+
+] [154]
+[155] [156
+
+] [157] [158] [159] [160] [161] [162] [163
+
+] [164] [165] [166]
+[167] [168] [169
+
+] [170] [171
+
+] [172] [173
+
+] [174] [175
+
+] [176] [177] [178
+
+]
+[179]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 5059.
+ [180] [181] [182] [183] [184] [185] [186] [187] [188] [189] [190
+
+]
+[191] [192] [193
+
+] [194] [195] [196
+
+] [197] [198] [199] [200] [201] [202]
+[203] [204] [205
+
+] [206] [207] [208] [209
+
+] [210
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6002--6002
 \TU/MinionPro(0)/m/n/9 //; //; 
 //; //; //
 ;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7720--7720
+Underfull \hbox (badness 10000) in paragraph at lines 6002--6002
 \TU/MinionPro(0)/m/n/9 //; //; 
 //; //; //
 ;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7720--7720
+Underfull \hbox (badness 10000) in paragraph at lines 6002--6002
 \TU/MinionPro(0)/m/n/9 //; //; 
 //; //; //
 ;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7720--7720
+Underfull \hbox (badness 10000) in paragraph at lines 6002--6002
 \TU/MinionPro(0)/m/n/9 //; //; 
 //; //; //
 ; e
  []
 
+[211] [212] [213
 
-Underfull \hbox (badness 1147) in paragraph at lines 7720--7720
+] [214] [215
+
+] [216] [217] [218
+
+] [219] [220] [221
+
+] [222]
+[223
+
+] [224] [225] [226] [227
+
+] [228] [229
+
+] [230] [231] [232] [233] [234]
+[235
+
+] [236]
+Underfull \hbox (badness 1147) in paragraph at lines 6788--6788
 []\TU/MinionPro(0)/m/n/9 . []Cf: \TU/MinionPro(0)/m/it/9 Diá-rio de São Pa
 ulo\TU/MinionPro(0)/m/n/9 , Pu-bli-ca-ções Pe-di-das, Foro da Ca-pi-tal,
  []
 
+[237
 
-Underfull \hbox (badness 1635) in paragraph at lines 7720--7720
-[]\TU/MinionPro(0)/m/n/9 Aí che-ga-dos, e na sala do car-ce-reiro, to-ma-ram a
-l-ge-mas de ferro,
+] [238] [239
+
+] [240] [241] [242
+
+] [243] [244] [245
+
+] [246] [247] [248]
+[249] [250] [251] [252] [253
+
+] [254] [255] [256] [257] [258] [259
+
+] [260]
+[261] [262
+
+] [263] [264] [265] [266] [267] [268] [269] [270] [271] [272
+
+]
+[273] [274] [275] [276] [277] [278
+
+] [279] [280] [281] [282]
+Underfull \hbox (badness 3525) in paragraph at lines 8216--8230
+[]\TU/MinionPro(0)/m/n/10.95 Que eu Mi-nos[] sou tre-mendo ou mata-
  []
 
-[77
+[283] [284] [285] [286] [287] [288] [289
 
+] [290] [291
 
+] [292] [293
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-
-
-
-
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ⁠ (U+2060) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-] [78
-
-] [79] [80] [81] [82] [83] [84
-
-] [85] [86] [87] [88] [89] [90] [91]
-[92] [93] [94] [95
-
-] [96] [97
-
-] [98] [99
-
-] [100
-
-] [101] [102] [103] [104] [105]
-[106] [107] [108
-
-] [109] [110] [111
-
-] [112
-
-] [113] [114
-
-] [115] [116] [117
+] [294
 
 ]
-[118] [119
+[295] [296] [297] [298] [299] [300] [301] [302
 
-] [120] [121
+] [303] [304] [305
 
-] [122] [123
-
-] [124] [125
-
-] [126] [127
-
-] [128] [129
+] [306
 
 ]
-[130] [131
+[307] [308
 
-] [132] [133] [134] [135] [136
+] [309] [310] [311
 
-] [137] [138] [139] [140] [141
+] [312] [313
+
+] [314] [315
+
+] [316] [317
+
+] [318]
+[319
+
+] [320] [321
+
+] [322] [323
+
+] [324] [325
+
+] [326] [327] [328] [329] [330
 
 ]
-[142] [143
+[331] [332] [333] [334] [335
 
-] [144] [145
+] [336] [337
 
-] [146] [147
+] [338] [339
 
-] [148] [149] [150
+] [340] [341
 
-] [151] [152] [153
+] [342]
+[343] [344
 
-]
-[154] [155] [156
+] [345] [346] [347
 
-] [157] [158]
-Underfull \hbox (badness 1325) in paragraph at lines 10034--10037
+] [348] [349] [350
+
+] [351] [352]
+Underfull \hbox (badness 1325) in paragraph at lines 10121--10124
 []\TU/MinionPro(0)/m/n/10.95 É ver-dade que em con-ver-sa-ção que com S. S. 
 tive
  []
 
-[159] [160
+[353] [354
 
-] [161] [162] [163] [164] [165] [166] [167] [168
+] [355] [356] [357] [358] [359] [360] [361] [362
 
-] [169] [170]
-[171
+] [363] [364]
+[365
 
-] [172] [173
+] [366] [367
 
-] [174
+] [368
 
-] [175] [176] [177] [178] [179] [180] [181
+] [369] [370] [371] [372] [373] [374] [375
 
-] [182]
-[183]
-Underfull \hbox (badness 3078) in paragraph at lines 10761--10772
+] [376]
+[377]
+Underfull \hbox (badness 3078) in paragraph at lines 10852--10863
 []\TU/MinionPro(0)/m/n/10.95 Preso que foi Jo-a-quim, amarraram-no; e fa-zendo
  []
 
-[184] [185] [186] [187]) (./Y-publicidade.tex [188]
+[378] [379] [380] [381]) (./Y-publicidade.tex [382]
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
 
-[189] [190] [191]) [192] (./Z-colofon.tex [193]
+[383] [384] [385]) [386] (./Z-colofon.tex [387]
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
@@ -1691,7 +1727,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-)) [194]
+)) [388]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1722,16 +1758,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 20190 strings out of 494480
- 3553760,1373583 words of node,token memory allocated
+ 20195 strings out of 494480
+ 100000,794899 words of node,token memory allocated
  9793 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 791 glue, 793 attribute, 188 glue_spec, 793 attribu
 te_list, 3 shape, 3 write nodes
-   avail lists: 1:7,2:9966,3:6828,4:2078,5:136818,6:285195,7:56796,8:876,9:7861,
-10:30,11:34620
- 23425 multiletter control sequences out of 65536+600000
- 103 fonts using 19619495 bytes
- 47i,14n,83p,1532b,603s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:2,2:1285,3:237,4:128,5:3020,6:5592,7:1355,8:81,9:348,10:28,11:
+687
+ 23428 multiletter control sequences out of 65536+600000
+ 103 fonts using 19819335 bytes
+ 47i,14n,83p,1533b,521s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/Formular-Light.otf></home/edlab/texmf/tex/fonts/MinionPro-It
 .ttf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></home/edlab/texmf/tex/fon
@@ -1740,12 +1776,11 @@ ts/times.ttf></home/edlab/texmf/tex/fonts/Formular-Italic.otf></home/edlab/texmf
 tf></home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist
 /fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (194 pages, 922189 bytes).
+1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (388 pages, 1211867 bytes).
 
-PDF statistics: 686 PDF objects out of 1000 (max. 8388607)
- 457 compressed objects within 5 object streams
+PDF statistics: 1289 PDF objects out of 1440 (max. 8388607)
+ 863 compressed objects within 9 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
