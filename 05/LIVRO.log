@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  22 JUN 2021 10:34
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  22 JUN 2021 10:47
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.093 seconds
+luaotfload | main : initialization completed in 0.094 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1485,24 +1485,17 @@ sr.Leal, o
 ] [93]
 [94] [95
 
-]
-Underfull \hbox (badness 1142) in paragraph at lines 2757--2757
-[]\TU/MinionPro(0)/m/n/9 . []Cf. \TU/MinionPro(0)/m/it/9 Diá-rio de São Pa
-ulo \TU/MinionPro(0)/m/n/9 (\TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/m/n/
-9 ), Pu-bli-ca-ções Pe-di-das, Ao pú-blico,
- []
-
-[96] [97] [98] [99] [100
+] [96] [97] [98] [99] [100
 
 ] [101] [102] [103] [104
 
-] [105] [106] [107
+] [105] [106]
+[107
 
-] [108]
-[109] [110] [111] [112] [113] [114] [115] [116] [117] [118
+] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118
 
-] [119] [120]
-[121] [122] [123] [124] [125
+]
+[119] [120] [121] [122] [123] [124] [125
 
 ] [126] [127] [128
 
@@ -1567,36 +1560,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [208
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 6014--6014
-\TU/MinionPro(0)/m/n/9 //; //; 
-//; //; //
-;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6014--6014
-\TU/MinionPro(0)/m/n/9 //; //; 
-//; //; //
-;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6014--6014
-\TU/MinionPro(0)/m/n/9 //; //; 
-//; //; //
-;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6014--6014
-\TU/MinionPro(0)/m/n/9 //; //; 
-//; //; //
-; e
- []
-
-[209] [210]
-Underfull \hbox (badness 2717) in paragraph at lines 6067--6074
+] [209]
+[210]
+Underfull \hbox (badness 2717) in paragraph at lines 6062--6069
 []\TU/MinionPro(0)/m/n/10.95 O exmo.sr.dr.Felicio Ri-beiro dos San-tos Ca-margo
 
  []
@@ -1619,13 +1585,7 @@ Underfull \hbox (badness 2717) in paragraph at lines 6067--6074
 ] [228] [229] [230] [231] [232] [233
 
 ] [234]
-Underfull \hbox (badness 1147) in paragraph at lines 6798--6798
-[]\TU/MinionPro(0)/m/n/9 . []Cf: \TU/MinionPro(0)/m/it/9 Diá-rio de São Pa
-ulo\TU/MinionPro(0)/m/n/9 , Pu-bli-ca-ções Pe-di-das, Foro da Ca-pi-tal,
- []
-
-
-Underfull \hbox (badness 3068) in paragraph at lines 6788--6799
+Underfull \hbox (badness 3068) in paragraph at lines 6783--6794
 []\TU/MinionPro(0)/m/n/10.95 Ul-pi-ano[], as-sim assinou-se um dis-tinto amigo 
 do
  []
@@ -1639,7 +1599,7 @@ do
 ] [241] [242] [243
 
 ]
-Underfull \hbox (badness 1314) in paragraph at lines 6970--7037
+Underfull \hbox (badness 1314) in paragraph at lines 6965--7032
 []\TU/MinionPro(0)/m/n/10.95 O abaixo as-si-nado vem res-pei-to-sa-mente re-que
 -rer a
  []
@@ -1648,7 +1608,7 @@ Underfull \hbox (badness 1314) in paragraph at lines 6970--7037
 
 ] [253] [254] [255]
 [256]
-Overfull \hbox (15.82864pt too wide) in paragraph at lines 7439--7440
+Overfull \hbox (15.82864pt too wide) in paragraph at lines 7434--7435
 []\TU/MinionPro(0)/m/n/10.95 Tudo isto fez-se; muito tam-bém cabe agora ao sr.
 dr.promotor
  []
@@ -1658,7 +1618,7 @@ dr.promotor
 ] [260] [261] [262
 
 ] [263] [264] [265] [266] [267] [268]
-Overfull \hbox (9.26088pt too wide) in paragraph at lines 7834--7835
+Overfull \hbox (9.26088pt too wide) in paragraph at lines 7829--7830
 []\TU/MinionPro(0)/m/n/10.95 São dig-nos de nota os lu-mi-no-sos des-pa-chos d
 o sr.dr.Felicio! 
  []
@@ -1669,12 +1629,12 @@ o sr.dr.Felicio!
 
 ] [279] [280]
 [281] [282]
-Underfull \hbox (badness 3525) in paragraph at lines 8240--8254
+Underfull \hbox (badness 3525) in paragraph at lines 8235--8249
 []\TU/MinionPro(0)/m/n/10.95 Que eu Mi-nos[] sou tre-mendo ou mata-
  []
 
 [283] [284] [285] [286]
-Overfull \hbox (12.86879pt too wide) in paragraph at lines 8425--8432
+Overfull \hbox (12.86879pt too wide) in paragraph at lines 8420--8427
 []\TU/MinionPro(0)/m/n/10.95 Está, por-tanto, justa e im-par-ci-al-mente jul-g
 ado o sr.dr.Felicio,
  []
@@ -1733,7 +1693,7 @@ ado o sr.dr.Felicio,
 ] [348] [349] [350
 
 ] [351] [352]
-Underfull \hbox (badness 2027) in paragraph at lines 10155--10158
+Underfull \hbox (badness 2027) in paragraph at lines 10150--10153
 []\TU/MinionPro(0)/m/n/10.95 É ver-dade que em con-ver-sa-ção que com S.S. t
 ive
  []
@@ -1753,7 +1713,7 @@ ive
 
 ] [376]
 [377]
-Underfull \hbox (badness 3078) in paragraph at lines 10886--10897
+Underfull \hbox (badness 3078) in paragraph at lines 10881--10892
 []\TU/MinionPro(0)/m/n/10.95 Preso que foi Jo-a-quim, amarraram-no; e fa-zendo
  []
 
@@ -1808,11 +1768,11 @@ Here is how much of LuaTeX's memory you used:
  9793 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 791 glue, 793 attribute, 188 glue_spec, 793 attribu
 te_list, 3 shape, 3 write nodes
-   avail lists: 1:2,2:1285,3:237,4:128,5:3044,6:5340,7:1346,8:81,9:348,10:28,11:
-645
+   avail lists: 1:2,2:1285,3:237,4:128,5:3044,6:5367,7:1338,8:81,9:348,10:28,11:
+649
  23426 multiletter control sequences out of 65536+600000
  102 fonts using 19521663 bytes
- 47i,14n,83p,1535b,527s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 47i,14n,83p,1559b,527s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/Formular-Light.otf></home/edlab/texmf/tex/fonts/MinionPro-It
 .ttf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></home/edlab/texmf/tex/fon
@@ -1822,7 +1782,7 @@ tf></home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist
 /fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (388 pages, 1210926 bytes).
+Output written on LIVRO.pdf (388 pages, 1212336 bytes).
 
 PDF statistics: 1289 PDF objects out of 1440 (max. 8388607)
  863 compressed objects within 9 object streams
