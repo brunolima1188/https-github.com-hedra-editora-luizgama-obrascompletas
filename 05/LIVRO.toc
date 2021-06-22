@@ -18,13 +18,13 @@
 \contentsline {chapter}{\chapternumberline {5}Tribunal do júri\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 17/12/1870, p.\,3.}}{85}
 \contentsline {part}{\partnumberline {IV}Parada republicana}{89}
 \contentsline {chapter}{\chapternumberline {1}A pensão aos filhos do senador furtado\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 17/08/1870.}}{91}
-\contentsline {part}{\partnumberline {V}O velho oeste -- e o velho vale! -- manda lembranças}{95}
+\contentsline {part}{\partnumberline {V}O velho oeste --- e o velho vale! --- manda lembranças}{95}
 \contentsline {chapter}{\chapternumberline {1}Jacareí\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 11/09/1870, p.\,3.}}{97}
 \contentsline {chapter}{\chapternumberline {2}Carta ao filho benedicto graccho pinto da gama\FN@sf@gobble@opt {Sud Menucci. \emph {O precursor do abolicionismo no Brasil (Luiz Gama)}, p.\,145. Escrita em 23/09/1870, o conteúdo da carta confere com a denúncia pública que fez na imprensa, no dia 24/09/1870, sobre a possibilidade de um atentado fatal contra ele. É sugestivo, porém, que Menucci, mesmo não conhecendo o teor da segunda carta, que se lê na sequência dessa, soubesse, provavelmente por fontes orais, de circunstâncias que apenas na segunda carta revela. Vejamos como Menucci contextualizou a ameaça de morte e a carta ao filho: ``Das ameaças, ficou-nos um documento insuspeito. É a carta que escreveu ao filho, a 23 de setembro de 1870. Dizem que foi traçada pouco antes de seguir para o interior do Estado, onde ia defender um réu escravo. Embora difícil de averiguar, parece que a atmosfera formada em torno desse julgamento, pelos interessados na condenação do negro, autorizava a supor que a vida de Gama corria perigo e que sua cabeça estava a prêmio. Não me foi possível apurar o caso, documentalmente. A carta, entretanto, não deixa dúvida em que Gama atravessava um dos momentos mais críticos de sua vida e que tinha certeza de que pretendiam eliminá-lo. É o que se vai verificar, lendo-a''. Cf. Sud Menucci, \emph {O precursor} \emph {do abolicionismo no Brasil (Luiz Gama)}, 1938, especialmente pp.\,144--145.}}{103}
 \contentsline {chapter}{\chapternumberline {3}Ao público\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), 24/09/1870, p.\,2.}}{107}
 \contentsline {chapter}{\chapternumberline {4}Comarca de campinas\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 15/10/1870, pp.\,2--3.}}{109}
 \contentsline {subsection}{Testemunhas}{112}
-\contentsline {chapter}{\chapternumberline {5}Carta a josé carlos rodrigues\FN@sf@gobble@opt {Biblioteca Nacional, Carta a José Carlos Rodrigues, Documento textual, Manuscritos - I-03--02,074, São Paulo, 26/11/1870.}}{121}
+\contentsline {chapter}{\chapternumberline {5}Carta a josé carlos rodrigues\FN@sf@gobble@opt {Biblioteca Nacional, Carta a José Carlos Rodrigues, Documento textual, Manuscritos -- I-03--02,074, São Paulo, 26/11/1870.}}{121}
 \contentsline {part}{\partnumberline {VI}Spartacus da gama}{127}
 \contentsline {chapter}{\chapternumberline {1}Escândalo -- \textsc {i}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 19/10/1870, p.\,3.}}{131}
 \contentsline {chapter}{\chapternumberline {2}1. Escândalo -- \textsc {i} {[}réplica{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 20/10/1870, p.\,3.}}{133}
@@ -105,10 +105,10 @@
 \contentsline {part}{\partnumberline {XXI}Argúcias da chicana}{347}
 \contentsline {chapter}{\chapternumberline {1}O julgamento da falência de julio geraud\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 28/02/1873, p.\,2.}}{349}
 \contentsline {chapter}{\chapternumberline {2}1. a propósito do julgamento da falência de julio geraud\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 02/03/1873, pp.\,2--3.}}{353}
-\contentsline {chapter}{\chapternumberline {3}Egrégio tribunal da relação -- j. geraud -- petição de habeas-corpus\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 12/03/1874, p.\,2.}}{357}
+\contentsline {chapter}{\chapternumberline {3}Egrégio tribunal da relação --- j. geraud --- petição de habeas-corpus\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 12/03/1874, p.\,2.}}{357}
 \contentsline {part}{\partnumberline {XXII}Miscelânea: um incêndio e três pedidos}{365}
 \contentsline {chapter}{\chapternumberline {1}Ao público\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 13/09/1874, p.\,2.}}{367}
-\contentsline {chapter}{\chapternumberline {2}Carta a salvador de mendonça\FN@sf@gobble@opt {Biblioteca Nacional, Carta a Salvador de Mendonça solicitando a remessa de dois exemplares de seu livro, O Barão e seu cavalo, 19/12/1874, Documento textual, Manuscritos - I-04, 23, 027, São Paulo {[}s.n{]}.}}{369}
+\contentsline {chapter}{\chapternumberline {2}Carta a salvador de mendonça\FN@sf@gobble@opt {Biblioteca Nacional, Carta a Salvador de Mendonça solicitando a remessa de dois exemplares de seu livro, O Barão e seu cavalo, 19/12/1874, Documento textual, Manuscritos -- I-04, 23, 027, São Paulo {[}s.n{]}.}}{369}
 \contentsline {chapter}{\chapternumberline {3}Ao sr.\,exmo.\,sr.\,ministro da justiça\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 24/12/1874, p.\,2.}}{371}
 \contentsline {chapter}{\chapternumberline {4}Ribeirão preto\FN@sf@gobble@opt {\emph {A Província de São Paulo} (\textsc {sp}), Seção Livre, 01/06/1875, p.\,2.}}{377}
 \babel@toc {brazilian}{}

@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  22 JUN 2021 09:54
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  22 JUN 2021 10:16
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.080 seconds
+luaotfload | main : initialization completed in 0.087 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1552,7 +1552,7 @@ mo.sr.dr.João
 
 ] [179]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 5038.
+(Font)              <9> on input line 5040.
  [180] [181] [182] [183] [184] [185] [186] [187]
 [188] [189] [190
 
@@ -1568,35 +1568,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [210
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 5978--5978
+Underfull \hbox (badness 10000) in paragraph at lines 5980--5980
 \TU/MinionPro(0)/m/n/9 //; //; 
 //; //; //
 ;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5978--5978
+Underfull \hbox (badness 10000) in paragraph at lines 5980--5980
 \TU/MinionPro(0)/m/n/9 //; //; 
 //; //; //
 ;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5978--5978
+Underfull \hbox (badness 10000) in paragraph at lines 5980--5980
 \TU/MinionPro(0)/m/n/9 //; //; 
 //; //; //
 ;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5978--5978
+Underfull \hbox (badness 10000) in paragraph at lines 5980--5980
 \TU/MinionPro(0)/m/n/9 //; //; 
 //; //; //
 ; e
  []
 
 [211] [212]
-Underfull \hbox (badness 2717) in paragraph at lines 6031--6038
+Underfull \hbox (badness 2717) in paragraph at lines 6033--6040
 []\TU/MinionPro(0)/m/n/10.95 O exmo.sr.dr.Felicio Ri-beiro dos San-tos Ca-margo
 
  []
@@ -1619,13 +1619,13 @@ Underfull \hbox (badness 2717) in paragraph at lines 6031--6038
 ] [230] [231] [232] [233] [234] [235
 
 ] [236]
-Underfull \hbox (badness 1147) in paragraph at lines 6758--6758
+Underfull \hbox (badness 1147) in paragraph at lines 6762--6762
 []\TU/MinionPro(0)/m/n/9 . []Cf: \TU/MinionPro(0)/m/it/9 Diá-rio de São Pa
 ulo\TU/MinionPro(0)/m/n/9 , Pu-bli-ca-ções Pe-di-das, Foro da Ca-pi-tal,
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 6748--6759
+Underfull \hbox (badness 3068) in paragraph at lines 6752--6763
 []\TU/MinionPro(0)/m/n/10.95 Ul-pi-ano[], as-sim assinou-se um dis-tinto amigo 
 do
  []
@@ -1639,7 +1639,7 @@ do
 ] [243] [244] [245
 
 ]
-Underfull \hbox (badness 1314) in paragraph at lines 6930--6997
+Underfull \hbox (badness 1314) in paragraph at lines 6934--7001
 []\TU/MinionPro(0)/m/n/10.95 O abaixo as-si-nado vem res-pei-to-sa-mente re-que
 -rer a
  []
@@ -1648,7 +1648,7 @@ Underfull \hbox (badness 1314) in paragraph at lines 6930--6997
 
 ] [255] [256] [257]
 [258]
-Overfull \hbox (15.82864pt too wide) in paragraph at lines 7393--7394
+Overfull \hbox (15.82864pt too wide) in paragraph at lines 7397--7398
 []\TU/MinionPro(0)/m/n/10.95 Tudo isto fez-se; muito tam-bém cabe agora ao sr.
 dr.promotor
  []
@@ -1658,7 +1658,7 @@ dr.promotor
 ] [262] [263] [264
 
 ] [265] [266] [267] [268] [269] [270]
-Overfull \hbox (9.26088pt too wide) in paragraph at lines 7784--7785
+Overfull \hbox (9.26088pt too wide) in paragraph at lines 7788--7789
 []\TU/MinionPro(0)/m/n/10.95 São dig-nos de nota os lu-mi-no-sos des-pa-chos d
 o sr.dr.Felicio! 
  []
@@ -1669,12 +1669,12 @@ o sr.dr.Felicio!
 
 ] [281] [282]
 [283] [284]
-Underfull \hbox (badness 3525) in paragraph at lines 8180--8194
+Underfull \hbox (badness 3525) in paragraph at lines 8184--8198
 []\TU/MinionPro(0)/m/n/10.95 Que eu Mi-nos[] sou tre-mendo ou mata-
  []
 
 [285] [286] [287] [288]
-Overfull \hbox (12.86879pt too wide) in paragraph at lines 8365--8372
+Overfull \hbox (12.86879pt too wide) in paragraph at lines 8369--8376
 []\TU/MinionPro(0)/m/n/10.95 Está, por-tanto, justa e im-par-ci-al-mente jul-g
 ado o sr.dr.Felicio,
  []
@@ -1733,7 +1733,7 @@ ado o sr.dr.Felicio,
 ] [350] [351] [352
 
 ] [353] [354]
-Underfull \hbox (badness 2027) in paragraph at lines 10086--10089
+Underfull \hbox (badness 2027) in paragraph at lines 10097--10100
 []\TU/MinionPro(0)/m/n/10.95 É ver-dade que em con-ver-sa-ção que com S.S. t
 ive
  []
@@ -1753,7 +1753,7 @@ ive
 
 ] [378]
 [379]
-Underfull \hbox (badness 3078) in paragraph at lines 10815--10826
+Underfull \hbox (badness 3078) in paragraph at lines 10828--10839
 []\TU/MinionPro(0)/m/n/10.95 Preso que foi Jo-a-quim, amarraram-no; e fa-zendo
  []
 
@@ -1808,7 +1808,7 @@ Here is how much of LuaTeX's memory you used:
  9793 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 791 glue, 793 attribute, 188 glue_spec, 793 attribu
 te_list, 3 shape, 3 write nodes
-   avail lists: 1:2,2:1285,3:237,4:128,5:3025,6:5338,7:1346,8:81,9:348,10:28,11:
+   avail lists: 1:2,2:1285,3:237,4:128,5:3026,6:5340,7:1346,8:81,9:348,10:28,11:
 645
  23428 multiletter control sequences out of 65536+600000
  103 fonts using 19819335 bytes
@@ -1822,7 +1822,7 @@ tf></home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist
 /fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (390 pages, 1213260 bytes).
+Output written on LIVRO.pdf (390 pages, 1212885 bytes).
 
 PDF statistics: 1295 PDF objects out of 1440 (max. 8388607)
  867 compressed objects within 9 object streams
