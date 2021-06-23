@@ -1,12 +1,12 @@
 # Fdb version 3
-["makeindex LIVRO.idx"] 0 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1624369628
-  "LIVRO.idx" 1624369621 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex LIVRO.idx"] 0 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1624423908
+  "LIVRO.idx" 1624423733 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "LIVRO.ind"
   "LIVRO.ilg"
-["pdflatex"] 1624369620 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1624369628
+  "LIVRO.ind"
+["pdflatex"] 1624423732 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1624423908
   "../4-volumes.tex" 1621386768 354 2d44e489ec0cb16ebc314a9710319710 ""
-  "../edlab-extra.sty" 1623761183 2832 8e93d97d98c53366d58306751aef8770 ""
+  "../edlab-extra.sty" 1624409532 2848 6a77842cac45c0a1a2a508647cece20f ""
   "../edlab-footnotes.sty" 1621386768 1536 30a6e592765163a1106ca60b125cb50b ""
   "../edlab-margins.sty" 1621386768 3308 7058e677d9bda5bceeaf867e96ed7529 ""
   "../edlab-penalties.sty" 1622643307 5417 f93627e48562214d0759ff4ad118ca39 ""
@@ -166,20 +166,20 @@
   "1-fronte.tex" 1621386768 1112 b3566d7056dc39cfba3c768f76b0e670 ""
   "2-creditos.tex" 1621386768 1465 c1742763e3ef375bce88072ee7d7ca07 ""
   "3-rosto.tex" 1621386768 1424 03121931b1122664a004b65194984049 ""
-  "INPUTS.aux" 1624369627 29095 a8892dcf73a7e42ed4971022ad3614f2 ""
+  "INPUTS.aux" 1624423738 29409 4da3acd0a6fb6ada2dbaba6873d222c1 ""
   "INPUTS.tex" 1621983830 1020 6ded4dec4c495f3550665f9da7162aa7 ""
-  "LIVRO.aux" 1624369627 171 329c1dd2487aefbd652f89d9c5467b41 ""
+  "LIVRO.aux" 1624423738 171 329c1dd2487aefbd652f89d9c5467b41 ""
   "LIVRO.ind" 1624360717 0 d41d8cd98f00b204e9800998ecf8427e "makeindex LIVRO.idx"
   "LIVRO.tex" 1624362666 3139 8c5424f3946b94742b3e5f99505665a3 ""
-  "LIVRO.toc" 1624369627 20045 855af8e38ce4cd3d3438b37765a2d08e ""
-  "TEXTO-05.tex" 1624369608 607310 ebbef4cb26b287f47175b1d1caf5944e ""
+  "LIVRO.toc" 1624423738 20028 42d52ba7d55b2cb2c571a14dfc27b247 ""
+  "TEXTO-05.tex" 1624423730 604820 361fe00d475043e7ca4e2b449f6d7472 ""
   "Y-publicidade.tex" 1621386768 10724 fdd2af80176bc26c98c7f68bde1b8223 ""
   "Z-colofon.tex" 1621386768 1030 b226f4af6866a20988bd33e21cb51667 ""
-  "edlab-git.sty" 1624369611 35 cd022e28c5a9e7434a0ca55af14f2493 ""
+  "edlab-git.sty" 1624423908 35 a752a2e3c5019a47c627af9893b67b7b ""
   (generated)
-  "LIVRO.toc"
-  "LIVRO.aux"
   "INPUTS.aux"
-  "LIVRO.pdf"
   "LIVRO.log"
+  "LIVRO.pdf"
+  "LIVRO.toc"
   "LIVRO.idx"
+  "LIVRO.aux"

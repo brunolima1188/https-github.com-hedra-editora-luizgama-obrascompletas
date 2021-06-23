@@ -269,3 +269,15 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT ./Y-publicidade.tex
+INPUT ./Y-publicidade.tex
+INPUT ./Z-colofon.tex
+INPUT ./Z-colofon.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm
+OUTPUT LIVRO.toc
+INPUT ./LIVRO.aux
+INPUT ./INPUTS.aux
+INPUT ./INPUTS.aux
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
