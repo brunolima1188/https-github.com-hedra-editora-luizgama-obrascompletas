@@ -13,102 +13,101 @@
 \contentsline {subsection}{Publicações pedidas}{55}
 \contentsline {chapter}{\chapternumberline {3}Ainda a prisão do artista Leal\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, Ao Público, 24 de julho de 1870, p.\,3.}}{59}
 \contentsline {chapter}{\chapternumberline {4}Reforma do foro\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, Ao Público, 21 de agosto de 1870, p.\,3.}}{71}
-\contentsline {subsection}{Protocolo das audiências do sr.\,Mademe de Souza, juiz transformado em galo\footnotemark }{72}
-\contentsline {subsection}{O escrivão Thadeu de Kikiriki.}{76}
+\contentsline {section}{Protocolo das audiências do sr.\,Mademe de Souza, juiz transformado em galo\footnotemark }{72}
 \contentsline {chapter}{\chapternumberline {5}Tribunal do júri\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 17 de dezembro de 1870, p.\,3.}}{79}
-\contentsline {part}{\partnumberline {IV}Parada republicana}{85}
-\contentsline {chapter}{\chapternumberline {1}A pensão aos filhos do senador furtado\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 17 de agosto de 1870.}}{87}
-\contentsline {part}{\partnumberline {V}O velho oeste --- e o velho vale! --- manda lembranças}{91}
-\contentsline {chapter}{\chapternumberline {1}Jacareí\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 11 de setembro de 1870, p.\,3.}}{95}
-\contentsline {chapter}{\chapternumberline {2}Carta ao filho benedicto graccho pinto da gama\FN@sf@gobble@opt {Sud Menucci. \emph {O precursor do abolicionismo no Brasil (Luiz Gama)}, p.\,145. Escrita em 23 de setembro de 1870, o conteúdo da carta confere com a denúncia pública que fez na imprensa, no dia 24 de setembro de 1870, sobre a possibilidade de um atentado fatal contra ele. É sugestivo, porém, que Menucci, mesmo não conhecendo o teor da segunda carta, que se lê na sequência dessa, soubesse, provavelmente por fontes orais, de circunstâncias que apenas na segunda carta revela. Vejamos como Menucci contextualizou a ameaça de morte e a carta ao filho: ``Das ameaças, ficou-nos um documento insuspeito. É a carta que escreveu ao filho, a 23 de setembro de 1870. Dizem que foi traçada pouco antes de seguir para o interior do Estado, onde ia defender um réu escravo. Embora difícil de averiguar, parece que a atmosfera formada em torno desse julgamento, pelos interessados na condenação do negro, autorizava a supor que a vida de Gama corria perigo e que sua cabeça estava a prêmio. Não me foi possível apurar o caso, documentalmente. A carta, entretanto, não deixa dúvida em que Gama atravessava um dos momentos mais críticos de sua vida e que tinha certeza de que pretendiam eliminá-lo. É o que se vai verificar, lendo-a''. Cf. Sud Menucci, \emph {O precursor} \emph {do abolicionismo no Brasil (Luiz Gama)}, 1938, especialmente pp.\,144--145.}}{101}
-\contentsline {chapter}{\chapternumberline {3}Ao público\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), 24 de setembro de 1870, p.\,2.}}{105}
-\contentsline {chapter}{\chapternumberline {4}Comarca de campinas\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 15 de outubro de 1870, pp.\,2--3.}}{107}
-\contentsline {subsection}{Testemunhas}{110}
-\contentsline {chapter}{\chapternumberline {5}Carta a josé carlos rodrigues\FN@sf@gobble@opt {Biblioteca Nacional, Carta a José Carlos Rodrigues, Documento textual, Manuscritos -- I-03--02,074, São Paulo, 26 de novembro de 1870.}}{119}
-\contentsline {part}{\partnumberline {VI}Spartacus da gama}{125}
-\contentsline {chapter}{\chapternumberline {1}Escândalo -- \textsc {i}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 19 de outubro de 1870, p.\,3.}}{129}
-\contentsline {chapter}{\chapternumberline {2}1. Escândalo -- \textsc {i} {[}réplica{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 20 de outubro de 1870, p.\,3.}}{131}
-\contentsline {chapter}{\chapternumberline {3}Escândalo -- \textsc {ii}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 21 de outubro de 1870, p.\,3.}}{133}
-\contentsline {chapter}{\chapternumberline {4}Mais três\dots {}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 22 de outubro de 1870, p.\,3.}}{135}
-\contentsline {part}{\partnumberline {VII}O homem que mamou o leite do liberalismo}{137}
-\contentsline {chapter}{\chapternumberline {1}Coisas admiráveis\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 27 de novembro de 1870, p.\,2.}}{141}
-\contentsline {chapter}{\chapternumberline {2}1. Cousas admiráveis {[}réplica{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 29 de novembro de 1870, pp.\,2--3.}}{145}
-\contentsline {chapter}{\chapternumberline {3}Cousas admiráveis\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 30 de novembro de 1870, p.\,2.}}{147}
-\contentsline {chapter}{\chapternumberline {4}1. {[}Tréplica de raphael tobias de aguiar{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, Ao Público, 01 de dezembro de 1870, p.\,2.}}{151}
-\contentsline {chapter}{\chapternumberline {5}Cousas admiráveis\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 02 de dezembro de 1870, pp.\,2--3.}}{155}
-\contentsline {chapter}{\chapternumberline {6}Questão do pardo narciso\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 04 de dezembro de 1870, p.\,2.}}{161}
-\contentsline {subsection}{Pergunta-se:}{164}
-\contentsline {subsection}{Resposta:}{164}
-\contentsline {part}{\partnumberline {VIII}Afro dá o ponto final}{167}
-\contentsline {chapter}{\chapternumberline {1}Aos abolicionistas da escravidão\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), 15 de dezembro de 1870, A Pedido, p.\,3.}}{169}
-\contentsline {part}{\partnumberline {IX}Nos oblíquos e sombrios becos da chicana (1871--1872)}{171}
-\contentsline {chapter}{\chapternumberline {1}Carta a ruy barbosa\FN@sf@gobble@opt {Fundação Casa de Rui Barbosa, 18 de junho de 1871.}}{173}
-\contentsline {chapter}{\chapternumberline {2}Foro de jundiaí -- (delegacia de polícia)\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 01 de outubro de 1871, p.\,2. Jundiaí, município paulista que fica 50\,km distante de São Paulo (\textsc {sp}), era a principal cidade ao limite norte da capital.}}{177}
-\contentsline {section}{I}{183}
-\contentsline {subsection}{carta de venda}{183}
-\contentsline {section}{II}{184}
-\contentsline {subsection}{conhecimento de sisa\footnotemark }{184}
-\contentsline {section}{III}{184}
-\contentsline {subsection}{ato do inventário}{184}
-\contentsline {chapter}{\chapternumberline {3}Foro da capital\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 01 de novembro de 1871, p.\,2.}}{189}
-\contentsline {part}{\partnumberline {X}A manhã de 10 de novembro de 1871}{191}
-\contentsline {chapter}{\chapternumberline {1}Loja américa\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 10 de novembro de 1871, p.\,2.}}{195}
-\contentsline {chapter}{\chapternumberline {2}Luiz g. p.\,gama\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 10 de novembro de 1871, pp.\,2--3.}}{203}
-\contentsline {chapter}{\chapternumberline {3}Até que seja satisfeito\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 10 de novembro de 1871, p.\,3. Essa série pode ser lida em muitíssimas edições até, pelo menos, 20 de fevereiro de 1872.}}{207}
-\contentsline {section}{FORO DA CAPITAL}{207}
-\contentsline {chapter}{\chapternumberline {4}Província de São Paulo -- foro da capital\FN@sf@gobble@opt {\emph {A República} (\textsc {rj}), Ineditoriais, 01 de janeiro de 1872, p.\,4. A mesma nota foi republicada diversas vezes. Pode-se encontrá-la em diferentes edições do jornal \emph {A República} (\textsc {rj}), sempre nas páginas 3 ou 4, especialmente entre os dias 03 e 06 de janeiro de 1872; 09 e 13 de janeiro de 1872; 15 e 30 de janeiro de 1872; e 01 de fevereiro de 1972.}}{209}
-\contentsline {chapter}{\chapternumberline {5}Foro da capital -- juízo municipal\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 10 de janeiro de 1872, p.\,2.}}{211}
-\contentsline {chapter}{\chapternumberline {6}Jundiaí\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 13 de fevereiro de 1872, p.\,2. Jundiaí, município paulista que fica 50\,km distante de São Paulo (\textsc {sp}), era a principal cidade ao limite norte da capital.} }{213}
-\contentsline {part}{\partnumberline {XI}Quando o beco da chicana é sem saída}{217}
-\contentsline {chapter}{\chapternumberline {1}Caso virgem\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 14 de abril de 1872, p.\,3.}}{219}
-\contentsline {chapter}{\chapternumberline {2}1. caso virgem {[}réplica{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 16 de abril de 1872, pp.\,2--3.}}{221}
-\contentsline {section}{ROBERTO JOAQUIM ALVES}{223}
-\contentsline {part}{\partnumberline {XII}Emboscada forense}{225}
-\contentsline {chapter}{\chapternumberline {1}Foro da capital\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 17 de maio de 1872, p.\,3.}}{227}
-\contentsline {chapter}{\chapternumberline {2}1. Foro da capital {[}réplica{]}\FN@sf@gobble@opt {\emph {Diário de São Paulo} (\textsc {sp}), Publicações Pedidas, 18 de maio de 1872, p.\,3.}}{233}
-\contentsline {chapter}{\chapternumberline {3}Juízo de direito\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Foro da Capital, 19 de maio de 1872, p.\,2.}}{235}
-\contentsline {part}{\partnumberline {XIII}Míseros libertos sepultados vivos em bárbara escravidão}{237}
-\contentsline {chapter}{\chapternumberline {1}Foro de jacareí\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 26 de maio de 1872, p.\,2.}}{241}
-\contentsline {chapter}{\chapternumberline {2}Foro de jacareí**\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 30 de maio de 1872, p.\,2.} }{243}
-\contentsline {chapter}{\chapternumberline {3}Repartição da polícia\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 28 de maio de 1872, p.\,3.}}{253}
-\contentsline {subsection}{Segurança pública}{254}
-\contentsline {part}{\partnumberline {XIV}O juiz do inferno}{259}
-\contentsline {chapter}{\chapternumberline {1}Cousas do sapientíssimo sr.\,dr.\,Felicio\FN@sf@gobble@opt { \emph {Correio Paulistano} (\textsc {sp}), Foro da Capital, Juízo Municipal, 28 de julho de 1872, p.\,2. Felicio Ribeiro dos Santos Camargo (?--?), nascido em São Paulo (\textsc {sp}), foi um político e juiz que, a exemplo de Rego Freitas, foi um dos principais adversários de Luiz Gama.}}{263}
-\contentsline {section}{i}{264}
-\contentsline {chapter}{\chapternumberline {2}Cousas do sapientíssimo sr.\,dr.\,felicio\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Foro da Capital, Juízo Municipal, 31 de julho de 1872, p.\,3. Felicio Ribeiro dos Santos Camargo (?--?), nascido em São Paulo (\textsc {sp}), foi um político e juiz que, a exemplo de Rego Freitas, foi um dos principais adversários de Luiz Gama.}}{273}
-\contentsline {section}{ii}{274}
-\contentsline {chapter}{\chapternumberline {3}Cousas do sapientíssimo sr.\,dr.\,felicio\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Foro da Capital, Juízo Municipal, 04 de agosto de 1872, pp.\,2--3. Felicio Ribeiro dos Santos Camargo (?--?), nascido em São Paulo (\textsc {sp}), foi um político e juiz que, a exemplo de Rego Freitas, foi um dos principais adversários de Luiz Gama.}}{279}
-\contentsline {section}{iii}{280}
-\contentsline {section}{pergunta-se:}{285}
-\contentsline {subsection}{Resposta:}{285}
-\contentsline {part}{\partnumberline {XV}Quem não tem peito não toma mandinga!}{289}
-\contentsline {chapter}{\chapternumberline {1}O sr.\,Percy John Fryer\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Foro da Capital, Juízo Municipal, 13 de setembro de 1872, p.\,2.}}{291}
-\contentsline {chapter}{\chapternumberline {2}1. Juízo municipal {[}réplica{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Foro da Capital, 14 de setembro de 1872, p.\,2.}}{293}
-\contentsline {chapter}{\chapternumberline {3}Questão fryer \& jones -- carta ao advogado dr.\,pereira pinto junior\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Foro da Capital, Juízo Municipal, 17 de outubro de 1872, p.\,2. O advogado Antonio Pereira Pinto Júnior (1842--1884), nascido no Rio de Janeiro (\textsc {rj}), foi juiz municipal e de órfãos na comarca de Bragança Paulista. Cf. \emph {Correio Paulistano} (\textsc {sp}), Parte Oficial, 19 de janeiro de 1870, p.\,2; \emph {Correio Paulistano} (\textsc {sp}), Correio da Corte, 22 de agosto de 1871, p.\,1.}}{295}
-\contentsline {part}{\partnumberline {XVI}Miscelânea: filantropia e república}{303}
-\contentsline {chapter}{\chapternumberline {1}Subscrição em favor da família do finado brigadeiro oliveira\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 12 de novembro de 1871, p.\,2.}}{305}
-\contentsline {chapter}{\chapternumberline {2}Aos srs.\,assinantes da república\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 24 de abril de 1872, p.\,3.}}{307}
-\contentsline {part}{\partnumberline {XVII}Os pobres de santa ifigênia}{309}
-\contentsline {chapter}{\chapternumberline {1}Carta ao sr.\,eloy ottoni\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Os pobres de Santa Ephigenia, 29 de agosto de 1872, p.\,2.}}{311}
-\contentsline {chapter}{\chapternumberline {2}1. carta a luiz gama\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Os pobres de Santa Ephigenia, 29 de agosto de 1872, p.\,2.}}{313}
-\contentsline {chapter}{\chapternumberline {3}Ainda o congresso republicano em itu\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 19 de dezembro de 1872, p.\,2.}}{315}
-\contentsline {part}{\partnumberline {XVIII}Instruções abolicionistas}{317}
-\contentsline {chapter}{\chapternumberline {1}Carta a joão rodrigues de oliveira china}{319}
-\contentsline {part}{\partnumberline {XIX}O imperador e a liberdade: imprensa e alforrias}{321}
-\contentsline {chapter}{\chapternumberline {1}O imperador e a liberdade de imprensa\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Crônica Política, 01 de novembro de 1873, p.\,1. Após uma explanação sobre a questão de fundo, a redação do \emph {Correio} publicou a carta que se lê.}}{323}
-\contentsline {chapter}{\chapternumberline {2}O imperador e a liberdade de imprensa\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Crônica Política, 22 de novembro de 1873, p.\,1. À guisa de introdução, a redação do \emph {Correio} inseriu essa pequena nota, que revela, rapidamente, a notoriedade que o assunto teria ocupado nas páginas dos jornais daqueles meses: ``As seguintes linhas que nos são endereçadas para dar à estampa, ainda referem-se à essa magna questiúncula.''}}{325}
-\contentsline {chapter}{\chapternumberline {3}Questão manumissória -- petição dirigida ao Governo Imperial\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), 27 de fevereiro de 1874, p.\,2. Questão relativa a alforria, em que se demandava a liberdade através de diversas formas processuais.}}{331}
-\contentsline {part}{\partnumberline {XX}Luiz gonzaga afro da gama}{335}
-\contentsline {chapter}{\chapternumberline {1}{[}Sobre a comissão de classificação de escravos{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 17 de março de 1874, p.\,2.}}{337}
-\contentsline {chapter}{\chapternumberline {2}Franca ao imperador\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 21 de março de 1874, p.\,3.}}{339}
-\contentsline {chapter}{\chapternumberline {3}Aos srs.\,redatores de jornais\FN@sf@gobble@opt {\emph {A Província de São Paulo} (\textsc {sp}), Seção Livre, 11 de setembro de 1875, p.\,2.}}{341}
-\contentsline {part}{\partnumberline {XXI}Argúcias da chicana}{345}
-\contentsline {chapter}{\chapternumberline {1}O julgamento da falência de julio geraud\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 28 de fevereiro de 1873, p.\,2.}}{347}
-\contentsline {chapter}{\chapternumberline {2}1. a propósito do julgamento da falência de julio geraud\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 02 de março de 1873, pp.\,2--3.}}{351}
-\contentsline {chapter}{\chapternumberline {3}Egrégio tribunal da relação --- j. geraud --- petição de habeas-corpus\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 12 de março de 1874, p.\,2.}}{355}
-\contentsline {part}{\partnumberline {XXII}Miscelânea: um incêndio e três pedidos}{363}
-\contentsline {chapter}{\chapternumberline {1}Ao público\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 13 de setembro de 1874, p.\,2.}}{365}
-\contentsline {chapter}{\chapternumberline {2}Carta a salvador de mendonça\FN@sf@gobble@opt {Biblioteca Nacional, Carta a Salvador de Mendonça solicitando a remessa de dois exemplares de seu livro, O Barão e seu cavalo, 19 de dezembro de 1874, Documento textual, Manuscritos -- I-04, 23, 027, São Paulo {[}s.n{]}.}}{367}
-\contentsline {chapter}{\chapternumberline {3}Ao sr.\,exmo.\,sr.\,ministro da justiça\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 24 de dezembro de 1874, p.\,2.}}{369}
-\contentsline {chapter}{\chapternumberline {4}Ribeirão preto\FN@sf@gobble@opt {\emph {A Província de São Paulo} (\textsc {sp}), Seção Livre, 01 de junho de 1875, p.\,2.}}{375}
+\contentsline {part}{\partnumberline {IV}Parada republicana}{83}
+\contentsline {chapter}{\chapternumberline {1}A pensão aos filhos do senador Furtado\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 17 de agosto de 1870.}}{85}
+\contentsline {part}{\partnumberline {V}O velho oeste --- e o velho vale! --- manda lembranças}{89}
+\contentsline {chapter}{\chapternumberline {1}Jacareí\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 11 de setembro de 1870, p.\,3.}}{93}
+\contentsline {chapter}{\chapternumberline {2}Carta ao filho benedicto graccho pinto da gama\FN@sf@gobble@opt {Sud Menucci. \emph {O precursor do abolicionismo no Brasil (Luiz Gama)}, p.\,145. Escrita em 23 de setembro de 1870, o conteúdo da carta confere com a denúncia pública que fez na imprensa, no dia 24 de setembro de 1870, sobre a possibilidade de um atentado fatal contra ele. É sugestivo, porém, que Menucci, mesmo não conhecendo o teor da segunda carta, que se lê na sequência dessa, soubesse, provavelmente por fontes orais, de circunstâncias que apenas na segunda carta revela. Vejamos como Menucci contextualizou a ameaça de morte e a carta ao filho: ``Das ameaças, ficou-nos um documento insuspeito. É a carta que escreveu ao filho, a 23 de setembro de 1870. Dizem que foi traçada pouco antes de seguir para o interior do Estado, onde ia defender um réu escravo. Embora difícil de averiguar, parece que a atmosfera formada em torno desse julgamento, pelos interessados na condenação do negro, autorizava a supor que a vida de Gama corria perigo e que sua cabeça estava a prêmio. Não me foi possível apurar o caso, documentalmente. A carta, entretanto, não deixa dúvida em que Gama atravessava um dos momentos mais críticos de sua vida e que tinha certeza de que pretendiam eliminá-lo. É o que se vai verificar, lendo-a''. Cf. Sud Menucci, \emph {O precursor} \emph {do abolicionismo no Brasil (Luiz Gama)}, 1938, especialmente pp.\,144--145.}}{99}
+\contentsline {chapter}{\chapternumberline {3}Ao público\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), 24 de setembro de 1870, p.\,2.}}{103}
+\contentsline {chapter}{\chapternumberline {4}Comarca de campinas\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 15 de outubro de 1870, pp.\,2--3.}}{105}
+\contentsline {subsection}{Testemunhas}{108}
+\contentsline {chapter}{\chapternumberline {5}Carta a josé carlos rodrigues\FN@sf@gobble@opt {Biblioteca Nacional, Carta a José Carlos Rodrigues, Documento textual, Manuscritos -- I-03--02,074, São Paulo, 26 de novembro de 1870.}}{117}
+\contentsline {part}{\partnumberline {VI}Spartacus da gama}{123}
+\contentsline {chapter}{\chapternumberline {1}Escândalo -- \textsc {i}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 19 de outubro de 1870, p.\,3.}}{127}
+\contentsline {chapter}{\chapternumberline {2}1. Escândalo -- \textsc {i} {[}réplica{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 20 de outubro de 1870, p.\,3.}}{129}
+\contentsline {chapter}{\chapternumberline {3}Escândalo -- \textsc {ii}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 21 de outubro de 1870, p.\,3.}}{131}
+\contentsline {chapter}{\chapternumberline {4}Mais três\dots {}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 22 de outubro de 1870, p.\,3.}}{133}
+\contentsline {part}{\partnumberline {VII}O homem que mamou o leite do liberalismo}{135}
+\contentsline {chapter}{\chapternumberline {1}Coisas admiráveis\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 27 de novembro de 1870, p.\,2.}}{139}
+\contentsline {chapter}{\chapternumberline {2}1. Cousas admiráveis {[}réplica{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 29 de novembro de 1870, pp.\,2--3.}}{143}
+\contentsline {chapter}{\chapternumberline {3}Cousas admiráveis\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 30 de novembro de 1870, p.\,2.}}{145}
+\contentsline {chapter}{\chapternumberline {4}1. {[}Tréplica de raphael tobias de aguiar{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, Ao Público, 01 de dezembro de 1870, p.\,2.}}{149}
+\contentsline {chapter}{\chapternumberline {5}Cousas admiráveis\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 02 de dezembro de 1870, pp.\,2--3.}}{153}
+\contentsline {chapter}{\chapternumberline {6}Questão do pardo narciso\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 04 de dezembro de 1870, p.\,2.}}{159}
+\contentsline {subsection}{Pergunta-se:}{162}
+\contentsline {subsection}{Resposta:}{162}
+\contentsline {part}{\partnumberline {VIII}Afro dá o ponto final}{165}
+\contentsline {chapter}{\chapternumberline {1}Aos abolicionistas da escravidão\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), 15 de dezembro de 1870, A Pedido, p.\,3.}}{167}
+\contentsline {part}{\partnumberline {IX}Nos oblíquos e sombrios becos da chicana (1871--1872)}{169}
+\contentsline {chapter}{\chapternumberline {1}Carta a ruy barbosa\FN@sf@gobble@opt {Fundação Casa de Rui Barbosa, 18 de junho de 1871.}}{171}
+\contentsline {chapter}{\chapternumberline {2}Foro de jundiaí -- (delegacia de polícia)\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 01 de outubro de 1871, p.\,2. Jundiaí, município paulista que fica 50\,km distante de São Paulo (\textsc {sp}), era a principal cidade ao limite norte da capital.}}{175}
+\contentsline {section}{I}{181}
+\contentsline {subsection}{carta de venda}{181}
+\contentsline {section}{II}{182}
+\contentsline {subsection}{conhecimento de sisa\footnotemark }{182}
+\contentsline {section}{III}{182}
+\contentsline {subsection}{ato do inventário}{182}
+\contentsline {chapter}{\chapternumberline {3}Foro da capital\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 01 de novembro de 1871, p.\,2.}}{187}
+\contentsline {part}{\partnumberline {X}A manhã de 10 de novembro de 1871}{189}
+\contentsline {chapter}{\chapternumberline {1}Loja américa\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 10 de novembro de 1871, p.\,2.}}{193}
+\contentsline {chapter}{\chapternumberline {2}Luiz g. p.\,gama\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 10 de novembro de 1871, pp.\,2--3.}}{201}
+\contentsline {chapter}{\chapternumberline {3}Até que seja satisfeito\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 10 de novembro de 1871, p.\,3. Essa série pode ser lida em muitíssimas edições até, pelo menos, 20 de fevereiro de 1872.}}{205}
+\contentsline {section}{FORO DA CAPITAL}{205}
+\contentsline {chapter}{\chapternumberline {4}Província de São Paulo -- foro da capital\FN@sf@gobble@opt {\emph {A República} (\textsc {rj}), Ineditoriais, 01 de janeiro de 1872, p.\,4. A mesma nota foi republicada diversas vezes. Pode-se encontrá-la em diferentes edições do jornal \emph {A República} (\textsc {rj}), sempre nas páginas 3 ou 4, especialmente entre os dias 03 e 06 de janeiro de 1872; 09 e 13 de janeiro de 1872; 15 e 30 de janeiro de 1872; e 01 de fevereiro de 1972.}}{207}
+\contentsline {chapter}{\chapternumberline {5}Foro da capital -- juízo municipal\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 10 de janeiro de 1872, p.\,2.}}{209}
+\contentsline {chapter}{\chapternumberline {6}Jundiaí\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 13 de fevereiro de 1872, p.\,2. Jundiaí, município paulista que fica 50\,km distante de São Paulo (\textsc {sp}), era a principal cidade ao limite norte da capital.} }{211}
+\contentsline {part}{\partnumberline {XI}Quando o beco da chicana é sem saída}{215}
+\contentsline {chapter}{\chapternumberline {1}Caso virgem\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 14 de abril de 1872, p.\,3.}}{217}
+\contentsline {chapter}{\chapternumberline {2}1. caso virgem {[}réplica{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 16 de abril de 1872, pp.\,2--3.}}{219}
+\contentsline {section}{ROBERTO JOAQUIM ALVES}{221}
+\contentsline {part}{\partnumberline {XII}Emboscada forense}{223}
+\contentsline {chapter}{\chapternumberline {1}Foro da capital\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 17 de maio de 1872, p.\,3.}}{225}
+\contentsline {chapter}{\chapternumberline {2}1. Foro da capital {[}réplica{]}\FN@sf@gobble@opt {\emph {Diário de São Paulo} (\textsc {sp}), Publicações Pedidas, 18 de maio de 1872, p.\,3.}}{231}
+\contentsline {chapter}{\chapternumberline {3}Juízo de direito\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Foro da Capital, 19 de maio de 1872, p.\,2.}}{233}
+\contentsline {part}{\partnumberline {XIII}Míseros libertos sepultados vivos em bárbara escravidão}{235}
+\contentsline {chapter}{\chapternumberline {1}Foro de jacareí\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 26 de maio de 1872, p.\,2.}}{239}
+\contentsline {chapter}{\chapternumberline {2}Foro de jacareí**\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 30 de maio de 1872, p.\,2.} }{241}
+\contentsline {chapter}{\chapternumberline {3}Repartição da polícia\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 28 de maio de 1872, p.\,3.}}{251}
+\contentsline {subsection}{Segurança pública}{252}
+\contentsline {part}{\partnumberline {XIV}O juiz do inferno}{257}
+\contentsline {chapter}{\chapternumberline {1}Cousas do sapientíssimo sr.\,dr.\,Felicio\FN@sf@gobble@opt { \emph {Correio Paulistano} (\textsc {sp}), Foro da Capital, Juízo Municipal, 28 de julho de 1872, p.\,2. Felicio Ribeiro dos Santos Camargo (?--?), nascido em São Paulo (\textsc {sp}), foi um político e juiz que, a exemplo de Rego Freitas, foi um dos principais adversários de Luiz Gama.}}{261}
+\contentsline {section}{i}{262}
+\contentsline {chapter}{\chapternumberline {2}Cousas do sapientíssimo sr.\,dr.\,felicio\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Foro da Capital, Juízo Municipal, 31 de julho de 1872, p.\,3. Felicio Ribeiro dos Santos Camargo (?--?), nascido em São Paulo (\textsc {sp}), foi um político e juiz que, a exemplo de Rego Freitas, foi um dos principais adversários de Luiz Gama.}}{271}
+\contentsline {section}{ii}{272}
+\contentsline {chapter}{\chapternumberline {3}Cousas do sapientíssimo sr.\,dr.\,felicio\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Foro da Capital, Juízo Municipal, 04 de agosto de 1872, pp.\,2--3. Felicio Ribeiro dos Santos Camargo (?--?), nascido em São Paulo (\textsc {sp}), foi um político e juiz que, a exemplo de Rego Freitas, foi um dos principais adversários de Luiz Gama.}}{277}
+\contentsline {section}{iii}{278}
+\contentsline {section}{pergunta-se:}{283}
+\contentsline {subsection}{Resposta:}{283}
+\contentsline {part}{\partnumberline {XV}Quem não tem peito não toma mandinga!}{287}
+\contentsline {chapter}{\chapternumberline {1}O sr.\,Percy John Fryer\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Foro da Capital, Juízo Municipal, 13 de setembro de 1872, p.\,2.}}{289}
+\contentsline {chapter}{\chapternumberline {2}1. Juízo municipal {[}réplica{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Foro da Capital, 14 de setembro de 1872, p.\,2.}}{291}
+\contentsline {chapter}{\chapternumberline {3}Questão fryer \& jones -- carta ao advogado dr.\,pereira pinto junior\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Foro da Capital, Juízo Municipal, 17 de outubro de 1872, p.\,2. O advogado Antonio Pereira Pinto Júnior (1842--1884), nascido no Rio de Janeiro (\textsc {rj}), foi juiz municipal e de órfãos na comarca de Bragança Paulista. Cf. \emph {Correio Paulistano} (\textsc {sp}), Parte Oficial, 19 de janeiro de 1870, p.\,2; \emph {Correio Paulistano} (\textsc {sp}), Correio da Corte, 22 de agosto de 1871, p.\,1.}}{293}
+\contentsline {part}{\partnumberline {XVI}Miscelânea: filantropia e república}{301}
+\contentsline {chapter}{\chapternumberline {1}Subscrição em favor da família do finado brigadeiro oliveira\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), A Pedido, 12 de novembro de 1871, p.\,2.}}{303}
+\contentsline {chapter}{\chapternumberline {2}Aos srs.\,assinantes da república\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 24 de abril de 1872, p.\,3.}}{305}
+\contentsline {part}{\partnumberline {XVII}Os pobres de santa ifigênia}{307}
+\contentsline {chapter}{\chapternumberline {1}Carta ao sr.\,eloy ottoni\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Os pobres de Santa Ephigenia, 29 de agosto de 1872, p.\,2.}}{309}
+\contentsline {chapter}{\chapternumberline {2}1. carta a luiz gama\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, Os pobres de Santa Ephigenia, 29 de agosto de 1872, p.\,2.}}{311}
+\contentsline {chapter}{\chapternumberline {3}Ainda o congresso republicano em itu\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 19 de dezembro de 1872, p.\,2.}}{313}
+\contentsline {part}{\partnumberline {XVIII}Instruções abolicionistas}{315}
+\contentsline {chapter}{\chapternumberline {1}Carta a joão rodrigues de oliveira china}{317}
+\contentsline {part}{\partnumberline {XIX}O imperador e a liberdade: imprensa e alforrias}{319}
+\contentsline {chapter}{\chapternumberline {1}O imperador e a liberdade de imprensa\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Crônica Política, 01 de novembro de 1873, p.\,1. Após uma explanação sobre a questão de fundo, a redação do \emph {Correio} publicou a carta que se lê.}}{321}
+\contentsline {chapter}{\chapternumberline {2}O imperador e a liberdade de imprensa\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Crônica Política, 22 de novembro de 1873, p.\,1. À guisa de introdução, a redação do \emph {Correio} inseriu essa pequena nota, que revela, rapidamente, a notoriedade que o assunto teria ocupado nas páginas dos jornais daqueles meses: ``As seguintes linhas que nos são endereçadas para dar à estampa, ainda referem-se à essa magna questiúncula.''}}{323}
+\contentsline {chapter}{\chapternumberline {3}Questão manumissória -- petição dirigida ao Governo Imperial\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), 27 de fevereiro de 1874, p.\,2. Questão relativa a alforria, em que se demandava a liberdade através de diversas formas processuais.}}{329}
+\contentsline {part}{\partnumberline {XX}Luiz gonzaga afro da gama}{333}
+\contentsline {chapter}{\chapternumberline {1}{[}Sobre a comissão de classificação de escravos{]}\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 17 de março de 1874, p.\,2.}}{335}
+\contentsline {chapter}{\chapternumberline {2}Franca ao imperador\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 21 de março de 1874, p.\,3.}}{337}
+\contentsline {chapter}{\chapternumberline {3}Aos srs.\,redatores de jornais\FN@sf@gobble@opt {\emph {A Província de São Paulo} (\textsc {sp}), Seção Livre, 11 de setembro de 1875, p.\,2.}}{339}
+\contentsline {part}{\partnumberline {XXI}Argúcias da chicana}{343}
+\contentsline {chapter}{\chapternumberline {1}O julgamento da falência de julio geraud\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 28 de fevereiro de 1873, p.\,2.}}{345}
+\contentsline {chapter}{\chapternumberline {2}1. a propósito do julgamento da falência de julio geraud\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 02 de março de 1873, pp.\,2--3.}}{349}
+\contentsline {chapter}{\chapternumberline {3}Egrégio tribunal da relação --- j. geraud --- petição de habeas-corpus\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 12 de março de 1874, p.\,2.}}{353}
+\contentsline {part}{\partnumberline {XXII}Miscelânea: um incêndio e três pedidos}{361}
+\contentsline {chapter}{\chapternumberline {1}Ao público\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 13 de setembro de 1874, p.\,2.}}{363}
+\contentsline {chapter}{\chapternumberline {2}Carta a salvador de mendonça\FN@sf@gobble@opt {Biblioteca Nacional, Carta a Salvador de Mendonça solicitando a remessa de dois exemplares de seu livro, O Barão e seu cavalo, 19 de dezembro de 1874, Documento textual, Manuscritos -- I-04, 23, 027, São Paulo {[}s.n{]}.}}{365}
+\contentsline {chapter}{\chapternumberline {3}Ao sr.\,exmo.\,sr.\,ministro da justiça\FN@sf@gobble@opt {\emph {Correio Paulistano} (\textsc {sp}), Seção Particular, 24 de dezembro de 1874, p.\,2.}}{367}
+\contentsline {chapter}{\chapternumberline {4}Ribeirão preto\FN@sf@gobble@opt {\emph {A Província de São Paulo} (\textsc {sp}), Seção Livre, 01 de junho de 1875, p.\,2.}}{373}
 \babel@toc {brazilian}{}
